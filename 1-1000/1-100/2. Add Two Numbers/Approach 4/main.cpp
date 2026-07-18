@@ -1,3 +1,6 @@
+// Reuse the input nodes and allocate only a possible final carry node.
+// Time: O(m + n), Space: O(1) auxiliary.
+// Note: this approach intentionally mutates the input lists.
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
