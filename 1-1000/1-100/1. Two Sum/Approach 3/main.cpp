@@ -1,18 +1,12 @@
-// One-pass hash table: look for the complement before inserting the value.
-// Time: O(n) expected, Space: O(n).
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int, int> index;
-
+        unordered_map<int, int> seen;
         for (int i = 0; i < static_cast<int>(nums.size()); ++i) {
-            auto it = index.find(target - nums[i]);
-            if (it != index.end()) {
-                return {it->second, i};
-            }
-            index[nums[i]] = i;
+            auto it = seen.find(target - nums[i]);
+            if (it != seen.end()) return {it->second, i};
+            seen[nums[i]] = i;
         }
-
         return {};
     }
 };
