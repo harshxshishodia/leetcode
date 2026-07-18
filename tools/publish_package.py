@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import mimetypes
 import os
 import sys
 from pathlib import Path
@@ -41,10 +42,23 @@ def main() -> int:
         region_name=os.environ.get("CONTENT_STORAGE_REGION", "auto"),
     )
     bucket = os.environ["CONTENT_STORAGE_BUCKET"]
+    # Publish immutable objects before the manifest so clients never observe a
+    # manifest that references payloads which are not available yet.
+    for path in sorted((args.input / "objects").rglob("*")):
+        if not path.is_file():
+            continue
+        relative = path.relative_to(args.input).as_posix()
+        content_type = mimetypes.guess_type(path.name)[0] or "application/octet-stream"
+        client.upload_file(
+            str(path),
+            bucket,
+            f"{args.prefix.strip('/')}/{relative}",
+            ExtraArgs={"ContentType": content_type, "CacheControl": "public, max-age=31536000, immutable"},
+        )
     content_types = {
         "content-package.zip": "application/zip",
-        "manifest.json": "application/json",
         "checksums.sha256": "text/plain",
+        "manifest.json": "application/json",
     }
     for name, content_type in content_types.items():
         client.upload_file(

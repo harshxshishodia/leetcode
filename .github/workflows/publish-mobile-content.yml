@@ -4,10 +4,10 @@ on:
   push:
     branches: [main]
     paths:
-      - "1-1000/**/README.md"
-      - "1001-2000/**/README.md"
-      - "2001-3000/**/README.md"
-      - "3001-4000/**/README.md"
+      - "1-1000/**"
+      - "1001-2000/**"
+      - "2001-3000/**"
+      - "3001-4000/**"
       - "category/**"
       - "images/**"
       - "tools/**"
@@ -15,7 +15,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   publish:
@@ -43,6 +43,24 @@ jobs:
       - name: Verify checksums
         working-directory: generated-mobile-content
         run: sha256sum --check checksums.sha256
+
+      - name: Publish GitHub-hosted mobile content
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          publish_dir="$(mktemp -d)"
+          cp generated-mobile-content/manifest.json "$publish_dir/"
+          cp generated-mobile-content/checksums.sha256 "$publish_dir/"
+          cp -R generated-mobile-content/objects "$publish_dir/"
+          git -C "$publish_dir" init
+          git -C "$publish_dir" config user.name "github-actions[bot]"
+          git -C "$publish_dir" config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C "$publish_dir" checkout -b mobile-content
+          git -C "$publish_dir" add manifest.json checksums.sha256 objects
+          git -C "$publish_dir" commit -m "Publish mobile content ${GITHUB_SHA}"
+          git -C "$publish_dir" remote add origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git -C "$publish_dir" push --force origin HEAD:mobile-content
 
       - name: Publish to configured S3-compatible storage
         env:
