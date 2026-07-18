@@ -3,15 +3,6 @@ name: Publish mobile content
 on:
   push:
     branches: [main]
-    paths:
-      - "1-1000/**"
-      - "1001-2000/**"
-      - "2001-3000/**"
-      - "3001-4000/**"
-      - "category/**"
-      - "images/**"
-      - "tools/**"
-      - ".github/workflows/publish-mobile-content.yml"
   workflow_dispatch:
 
 permissions:

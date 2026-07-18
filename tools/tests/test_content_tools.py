@@ -63,6 +63,31 @@ class ContentToolsTest(unittest.TestCase):
 
         self.assertEqual([], errors)
 
+    def test_future_ranges_are_discovered_and_packaged(self) -> None:
+        problem = self.root / "4001-5000" / "4001-4100" / "4001. Future Problem"
+        problem.mkdir(parents=True)
+        (problem / "README.md").write_text(
+            "# 4001. Future Problem\n\nFuture description.\n\n**Difficulty:** Medium\n",
+            encoding="utf-8",
+        )
+        approach = problem / "Approach 1"
+        approach.mkdir()
+        (approach / "main.py").write_text("class Solution: pass", encoding="utf-8")
+
+        problems, errors = validate(self.root)
+
+        self.assertEqual([], errors)
+        self.assertIn(4001, [problem.number for problem in problems])
+
+        output = self.root / "future-dist"
+        build(self.root, output, "future-version", "2026-01-01T00:00:00Z")
+        remote_manifest = json.loads((output / "manifest.json").read_text(encoding="utf-8"))
+        indexed_paths = {item["path"] for item in remote_manifest["files"]}
+        future_solution = "leetcode_seed/output/4001-4100/4001.json"
+        self.assertIn(future_solution, indexed_paths)
+        with zipfile.ZipFile(output / "content-package.zip") as archive:
+            self.assertIn(future_solution, archive.namelist())
+
     def test_builder_packages_approach_code_deterministically_without_modifying_source_json(self) -> None:
         source_json = self.root / "existing.json"
         original_json = b'{"platform":"LeetCode"}\n'
