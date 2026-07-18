@@ -1,0 +1,63 @@
+name: Publish mobile content
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "1-1000/**/README.md"
+      - "1001-2000/**/README.md"
+      - "2001-3000/**/README.md"
+      - "3001-4000/**/README.md"
+      - "category/**"
+      - "images/**"
+      - "tools/**"
+      - ".github/workflows/publish-mobile-content.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install publisher dependency
+        run: python -m pip install -r tools/requirements.txt
+
+      - name: Validate content
+        run: python tools/validate_content.py --content-root .
+
+      - name: Test publisher tools
+        run: python -m unittest discover -s tools/tests -v
+
+      - name: Build package
+        run: python tools/build_mobile_package.py --content-root . --content-version "${GITHUB_SHA}"
+
+      - name: Verify checksums
+        working-directory: generated-mobile-content
+        run: sha256sum --check checksums.sha256
+
+      - name: Publish to configured S3-compatible storage
+        env:
+          CONTENT_STORAGE_ENDPOINT: ${{ secrets.CONTENT_STORAGE_ENDPOINT }}
+          CONTENT_STORAGE_ACCESS_KEY: ${{ secrets.CONTENT_STORAGE_ACCESS_KEY }}
+          CONTENT_STORAGE_SECRET_KEY: ${{ secrets.CONTENT_STORAGE_SECRET_KEY }}
+          CONTENT_STORAGE_BUCKET: ${{ secrets.CONTENT_STORAGE_BUCKET }}
+          CONTENT_STORAGE_REGION: ${{ secrets.CONTENT_STORAGE_REGION }}
+          CONTENT_PUBLIC_BASE_URL: ${{ secrets.CONTENT_PUBLIC_BASE_URL }}
+        run: python tools/publish_package.py --input generated-mobile-content
+
+      - name: Upload development fallback artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: mobile-content-${{ github.sha }}
+          path: generated-mobile-content/
+          if-no-files-found: error
+          retention-days: 30
