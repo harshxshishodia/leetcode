@@ -175,6 +175,22 @@ class ContentToolsTest(unittest.TestCase):
                 languages,
             )
 
+    def test_builder_packages_approaches_beyond_twenty(self) -> None:
+        for number in (1, 21, 125):
+            approach = self.problem / f"Approach {number}"
+            approach.mkdir()
+            (approach / "main.cpp").write_text(f"code {number}", encoding="utf-8")
+        output = self.root / "dist"
+
+        build(self.root, output, "fixed-version", "2026-01-01T00:00:00Z")
+
+        with zipfile.ZipFile(output / "content-package.zip") as archive:
+            payload = json.loads(archive.read("leetcode_seed/output/0001-0100/0001.json"))
+            self.assertEqual(
+                {"approach_1", "approach_21", "approach_125"},
+                set(payload[0]["solutions"]),
+            )
+
     def test_builder_normalizes_html_markdown_and_local_images(self) -> None:
         image_dir = self.root / "images"
         image_dir.mkdir()

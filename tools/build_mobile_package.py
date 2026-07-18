@@ -82,7 +82,6 @@ LANGUAGE_BY_NAME_SUFFIX = {
     ".react.jsx": "react",
     ".vanilla.js": "vanilla_js",
 }
-MAX_APPROACHES = 20
 LEETCODE_KEYWORD_LINK = "leetcode-keyword"
 SUPERSCRIPT_CHARACTERS = {
     "0": "⁰",
@@ -320,7 +319,7 @@ def problem_text_from_blocks(blocks: list[dict]) -> str:
 
 
 def read_problem_solutions(problem: Problem) -> dict[str, dict[str, str]]:
-    """Read Approach/Solution 1..20 source files without packaging raw folders."""
+    """Read positive-numbered Approach/Solution source files without packaging raw folders."""
     solutions: dict[str, dict[str, str]] = {}
     has_code = False
     directories = []
@@ -329,7 +328,7 @@ def read_problem_solutions(problem: Problem) -> dict[str, dict[str, str]]:
         if match is None:
             continue
         number = int(match.group("number"))
-        if 1 <= number <= MAX_APPROACHES:
+        if number >= 1:
             directories.append((number, candidate))
 
     for number, directory in sorted(directories, key=lambda item: (item[0], item[1].name.casefold())):
