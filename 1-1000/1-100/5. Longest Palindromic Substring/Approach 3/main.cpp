@@ -16,6 +16,7 @@ class Solution {
     }
 
 public:
+    // O(n^2) | O(1)
     string longestPalindrome(string s) {
         int start = 0;
         int maxLength = 1;

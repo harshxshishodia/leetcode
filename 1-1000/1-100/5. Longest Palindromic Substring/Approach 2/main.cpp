@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // O(n^2) | O(n^2)
     string longestPalindrome(string s) {
         int n = s.size();
         vector<vector<bool>> dp(n, vector<bool>(n, false));

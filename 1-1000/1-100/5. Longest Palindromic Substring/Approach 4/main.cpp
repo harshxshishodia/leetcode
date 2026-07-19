@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // O(n) | O(n)
     string longestPalindrome(string s) {
         string transformed = "^";
 

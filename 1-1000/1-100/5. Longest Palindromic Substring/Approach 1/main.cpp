@@ -9,6 +9,7 @@ class Solution {
     }
 
 public:
+    // O(n^3) | O(1)
     string longestPalindrome(string s) {
         int n = s.size();
 
