@@ -66,10 +66,12 @@
 	<li><code>1 &lt;= m == grid.length &lt;= 250</code></li>
 	<li><code>1 &lt;= n == grid[i].length &lt;= 250</code></li>
 	<li><code>-10<sup>5</sup> &lt;= grid[i][j] &lt;= 10<sup>5</sup></code></li>
-	<li><code>0 &lt;= limit &lt;= 10<sup>5</sup>????????????????</code></li>
+	<li><code>0 &lt;= limit &lt;= 10<sup>5</sup></code></li>
 </ul>
 
 
 ---
 
 **Difficulty:** Hard
+
+**Topics:** Array, Dynamic Programming, Bit Manipulation

@@ -59,7 +59,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">6</span></p>
 
-<p><strong>Explanation:???????</strong></p>
+<p><strong>Explanation:</strong></p>
 
 <p>One optimal set of operations is:</p>
 

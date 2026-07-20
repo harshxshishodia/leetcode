@@ -137,3 +137,5 @@ For cancel events, monthly_amount is 0.
 ---
 
 **Difficulty:** Medium
+
+**Topics:** Database

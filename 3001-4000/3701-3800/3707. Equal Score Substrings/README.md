@@ -35,9 +35,9 @@
 
 <p><strong>Output:</strong> <span class="example-io">false</span></p>
 
-<p><strong>Explanation:??????</strong></p>
+<p><strong>Explanation:</strong></p>
 
-<p><strong>???????</strong>No split produces equal scores, so the output is <code>false</code>.</p>
+<p><strong></strong>No split produces equal scores, so the output is <code>false</code>.</p>
 </div>
 
 <p>&nbsp;</p>

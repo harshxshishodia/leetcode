@@ -6,7 +6,7 @@
 
 <p>You are also given a <strong>2D integer array</strong> <code>queries</code> of length <code>q</code>, where each <code>queries[i] = [l<sub>i</sub>, r<sub>i</sub>]</code> represents a query. For each query <code>[l<sub>i</sub>, r<sub>i</sub>]</code>, compute the number of <strong>stable subarrays</strong> that lie entirely within the segment <code>nums[l<sub>i</sub>..r<sub>i</sub>]</code>.</p>
 
-<p>Return an integer array <code>ans</code> of length <code>q</code>, where <code>ans[i]</code> is the answer to the <code>i<sup>th</sup></code> query.??????????????</p>
+<p>Return an integer array <code>ans</code> of length <code>q</code>, where <code>ans[i]</code> is the answer to the <code>i<sup>th</sup></code> query.</p>
 
 <p><strong>Note</strong>:</p>
 
@@ -22,7 +22,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">[2,3,4]</span></p>
 
-<p><strong>Explanation:</strong>?????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>For <code>queries[0] = [0, 1]</code>, the subarray is <code>[nums[0], nums[1]] = [3, 1]</code>.

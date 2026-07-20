@@ -54,3 +54,5 @@ Falsey values such as 0 should be filtered out
 ---
 
 **Difficulty:** Easy
+
+**Topics:** JavaScript

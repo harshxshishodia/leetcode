@@ -33,7 +33,7 @@
 
 <p><strong>Explanation:</strong></p>
 
-<p><strong>???????</strong>All numbers from 1 to 998 have fewer than four digits. Therefore, no commas are used.</p>
+<p><strong></strong>All numbers from 1 to 998 have fewer than four digits. Therefore, no commas are used.</p>
 </div>
 
 <p>&nbsp;</p>

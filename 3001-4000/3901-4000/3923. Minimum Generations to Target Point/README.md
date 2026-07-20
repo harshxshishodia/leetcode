@@ -7,7 +7,7 @@
 <ul>
 	<li>Consider every pair of two <strong>distinct</strong> points <code>a = [x<sub>1</sub>, y<sub>1</sub>, z<sub>1</sub>]</code> and <code>b = [x<sub>2</sub>, y<sub>2</sub>, z<sub>2</sub>]</code> taken from all points produced in generations 0 through <code>k - 1</code>.</li>
 	<li>For each such pair, compute <code>c = [floor((x<sub>1</sub> + x<sub>2</sub>) / 2), floor((y<sub>1</sub> + y<sub>2</sub>) / 2), floor((z<sub>1</sub> + z<sub>2</sub>) / 2)]</code> and collect every such <code>c</code> into a generation <code>k</code>.</li>
-	<li>All points in the generation <code>k</code> are produced <strong>simultaneously</strong> from points in generations 0 through??????? <code>k - 1</code>.</li>
+	<li>All points in the generation <code>k</code> are produced <strong>simultaneously</strong> from points in generations 0 through <code>k - 1</code>.</li>
 	<li>After generation <code>k</code> is formed, the points in the generation <code>k</code> are considered available for forming later generations.</li>
 </ul>
 
@@ -108,10 +108,10 @@
 
 <ul>
 	<li><code>1 &lt;= points.length &lt;= 20</code></li>
-	<li><code>points[i] = [x<sub>i</sub>, y<sub>i</sub>, z<sub>i</sub>???????]</code></li>
+	<li><code>points[i] = [x<sub>i</sub>, y<sub>i</sub>, z<sub>i</sub>]</code></li>
 	<li><code>0 &lt;= x<sub>i</sub>, y<sub>i</sub>, z<sub>i</sub> &lt;= 6</code></li>
 	<li><code>target.length == 3</code></li>
-	<li><code>???????0 &lt;= target[i] &lt;= 6</code></li>
+	<li><code>0 &lt;= target[i] &lt;= 6</code></li>
 	<li>The initial set of points contains no duplicates.</li>
 </ul>
 

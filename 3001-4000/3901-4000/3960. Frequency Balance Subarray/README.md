@@ -1,6 +1,6 @@
 # 3960. Frequency Balance Subarray
 
-<p>You are given an integer array ???????<code>nums</code>.</p>
+<p>You are given an integer array <code>nums</code>.</p>
 
 <p>Define a <strong>frequency balance <span data-keyword="subarray-nonempty">subarray</span></strong> as follows:</p>
 
@@ -60,11 +60,13 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= nums.length &lt;= 10<sup>???????3</sup></code></li>
-	<li><code>1 &lt;= nums[i] &lt;= 10<sup>???????9</sup></code></li>
+	<li><code>1 &lt;= nums.length &lt;= 10<sup>3</sup></code></li>
+	<li><code>1 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
 
 
 ---
 
 **Difficulty:** Medium
+
+**Topics:** Array, Hash Table, Sliding Window

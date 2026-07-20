@@ -20,7 +20,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">&quot;leetcedo&quot;</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>Vowels in the string are <code>[&#39;e&#39;, &#39;e&#39;, &#39;o&#39;, &#39;e&#39;]</code> with frequencies: <code>e = 3</code>, <code>o = 1</code>.</li>
@@ -35,7 +35,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">&quot;aaaaoooiie&quot;</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>Vowels in the string are <code>[&#39;a&#39;, &#39;e&#39;, &#39;i&#39;, &#39;a&#39;, &#39;a&#39;, &#39;i&#39;, &#39;o&#39;, &#39;o&#39;, &#39;o&#39;, &#39;a&#39;]</code> with frequencies: <code>a = 4</code>, <code>o = 3</code>, <code>i = 2</code>, <code>e = 1</code>.</li>

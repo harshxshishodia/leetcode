@@ -37,7 +37,7 @@ The minimum score is 144.</p>
 
 <p><strong class="example">Example 3:</strong></p>
 
-<p><strong class="example"><img alt="" src="../../../images/1039-ex2.png" style="width: 200px; height: 200px;" />???????</strong></p>
+<p><strong class="example"><img alt="" src="../../../images/1039-ex2.png" style="width: 200px; height: 200px;" /></strong></p>
 
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">values = [1,3,1,4,1,5]</span></p>

@@ -97,3 +97,5 @@ Each row represents a prompt submitted by a user to an AI system along with the 
 ---
 
 **Difficulty:** Easy
+
+**Topics:** Database

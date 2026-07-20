@@ -32,7 +32,7 @@
 	<li><code>(2, 4)</code>: <code>nums[2] + nums[4] = 13</code></li>
 </ul>
 
-<p>Thus, the answer is 13.???????</p>
+<p>Thus, the answer is 13.</p>
 </div>
 
 <p><strong class="example">Example 2:</strong></p>
@@ -46,7 +46,7 @@
 
 <ul>
 	<li>Since <code>k = 1</code>, every pair is valid.</li>
-	<li>The maximum value is obtained from a pair <code>(0, 2)</code>???????, which is <code>nums[0] + nums[2] = 5 + 9 = 14</code>.</li>
+	<li>The maximum value is obtained from a pair <code>(0, 2)</code>, which is <code>nums[0] + nums[2] = 5 + 9 = 14</code>.</li>
 	<li>Thus, the answer is 14.</li>
 </ul>
 </div>
@@ -64,3 +64,5 @@
 ---
 
 **Difficulty:** Medium
+
+**Topics:** Array, Greedy

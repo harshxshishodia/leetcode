@@ -14,7 +14,7 @@
 
 <p><strong>Explanation:</strong></p>
 
-<p>The subarray <code>[2, 3]</code> has distinct elements <code>{2, 3}</code> whose sum is <code>2 + 3 = 5</code>, which is ???????at least <code>k = 4</code>. Thus, the answer is 2.</p>
+<p>The subarray <code>[2, 3]</code> has distinct elements <code>{2, 3}</code> whose sum is <code>2 + 3 = 5</code>, which is at least <code>k = 4</code>. Thus, the answer is 2.</p>
 </div>
 
 <p><strong class="example">Example 2:</strong></p>
@@ -26,7 +26,7 @@
 
 <p><strong>Explanation:</strong></p>
 
-<p>The subarray <code>[3, 2]</code> has distinct elements <code>{3, 2}</code> whose sum is <code>3 + 2 = 5</code>, which is ???????at least <code>k = 5</code>. Thus, the answer is 2.</p>
+<p>The subarray <code>[3, 2]</code> has distinct elements <code>{3, 2}</code> whose sum is <code>3 + 2 = 5</code>, which is at least <code>k = 5</code>. Thus, the answer is 2.</p>
 </div>
 
 <p><strong class="example">Example 3:</strong></p>

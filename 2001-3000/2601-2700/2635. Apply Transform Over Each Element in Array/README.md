@@ -46,3 +46,5 @@ The function increases each value in the array by one.
 ---
 
 **Difficulty:** Easy
+
+**Topics:** JavaScript

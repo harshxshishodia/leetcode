@@ -22,7 +22,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">127</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>Block 1: <code>1</code></li>

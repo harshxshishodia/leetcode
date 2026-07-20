@@ -43,3 +43,5 @@ The data types of the column grade is converted to int.</pre>
 ---
 
 **Difficulty:** Easy
+
+**Topics:** Database, Pandas, DataFrame

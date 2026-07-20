@@ -57,3 +57,5 @@ The results should be sorted in descending order of weight.</pre>
 ---
 
 **Difficulty:** Easy
+
+**Topics:** Database, Pandas, DataFrame, Method Chaining

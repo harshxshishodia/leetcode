@@ -16,7 +16,7 @@
 
 <ul>
 	<li>Binary representation of 6 is <code>110</code>.</li>
-	<li>There is exactly&nbsp;one adjacent pair of set bits (<code>&quot;11&quot;</code>). Thus, the answer is <code>true</code>???????.</li>
+	<li>There is exactly&nbsp;one adjacent pair of set bits (<code>&quot;11&quot;</code>). Thus, the answer is <code>true</code>.</li>
 </ul>
 </div>
 
@@ -31,7 +31,7 @@
 
 <ul>
 	<li>Binary representation of 5 is <code>101</code>.</li>
-	<li>There is no&nbsp;adjacent pair of set bits. Thus, the answer is <code>false</code>???????.</li>
+	<li>There is no&nbsp;adjacent pair of set bits. Thus, the answer is <code>false</code>.</li>
 </ul>
 </div>
 

@@ -20,7 +20,7 @@
 
 <ul>
 	<li>We can swap on indices 1 and 3, resulting in the array <code>[1, 2, 0, -1]</code>.</li>
-	<li>The subarray <code>[1, 2]</code> has a sum of 3, which is the maximum possible subarray sum after at most <code>k = 1</code>??????? swap.</li>
+	<li>The subarray <code>[1, 2]</code> has a sum of 3, which is the maximum possible subarray sum after at most <code>k = 1</code> swap.</li>
 </ul>
 </div>
 
@@ -65,3 +65,5 @@
 ---
 
 **Difficulty:** Hard
+
+**Topics:** Array, Greedy, Sorting

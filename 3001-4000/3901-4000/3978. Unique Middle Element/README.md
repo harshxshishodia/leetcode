@@ -46,3 +46,5 @@
 ---
 
 **Difficulty:** Easy
+
+**Topics:** Array

@@ -68,8 +68,8 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= n == matrix.length == matrix[i].length &lt;= 100</code>???????</li>
-	<li><code>???????matrix[i][i] == 0</code></li>
+	<li><code>1 &lt;= n == matrix.length == matrix[i].length &lt;= 100</code></li>
+	<li><code>matrix[i][i] == 0</code></li>
 	<li><code>matrix[i][j]</code> is either 0 or 1</li>
 	<li><code>matrix[i][j] == matrix[j][i]</code></li>
 </ul>

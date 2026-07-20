@@ -21,7 +21,7 @@
 <p><strong>Explanation:</strong></p>
 
 <ul>
-	<li><strong>???????</strong>Characters <code>&#39;a&#39;</code> at indices <code>i = 0</code> and <code>i = 3</code> are close as <code>3 - 0 = 3 &lt;= k</code>.</li>
+	<li><strong></strong>Characters <code>&#39;a&#39;</code> at indices <code>i = 0</code> and <code>i = 3</code> are close as <code>3 - 0 = 3 &lt;= k</code>.</li>
 	<li>Merge them into the left <code>&#39;a&#39;</code> and <code>s = &quot;abc&quot;</code>.</li>
 	<li>No other equal characters are close, so no further merges occur.</li>
 </ul>

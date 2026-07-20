@@ -30,7 +30,7 @@
 
 <p><strong>Explanation:</strong></p>
 
-<p><img src="../../../images/3902-screenshot-2026-04-13-at-22054am.png" style="height: 240px; width: 300px;" />???????</p>
+<p><img src="../../../images/3902-screenshot-2026-04-13-at-22054am.png" style="height: 240px; width: 300px;" /></p>
 
 <ul>
 	<li>At level 1, nodes are processed left to right. Node 5 is included, thus <code>ans[0] = 5</code>.</li>

@@ -42,7 +42,7 @@
 
 <ul>
 	<li>The distinct characters are <code>&#39;b&#39;</code>, <code>&#39;B&#39;</code>, <code>&#39;1&#39;</code> and <code>&#39;#&#39;</code>.</li>
-	<li>Thus, the <code>strength = 1 + 2 + 3 + 5 = 11</code>.???????</li>
+	<li>Thus, the <code>strength = 1 + 2 + 3 + 5 = 11</code>.</li>
 </ul>
 </div>
 

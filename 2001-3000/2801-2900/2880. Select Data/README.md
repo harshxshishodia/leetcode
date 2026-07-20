@@ -41,3 +41,5 @@ Input:</strong>
 ---
 
 **Difficulty:** Easy
+
+**Topics:** Database, Pandas, DataFrame

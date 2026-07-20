@@ -67,3 +67,5 @@ The cancellation was scheduled to occur after a delay of cancelTimeMs (100ms), w
 ---
 
 **Difficulty:** Easy
+
+**Topics:** JavaScript

@@ -37,7 +37,7 @@
 
 <ul>
 	<li>Since we must partition the array into <code>k = 1</code> subarray, all elements belong to the same subarray: <code>[1, 2, 3, 4]</code>.</li>
-	<li>This subarray has <code>sumArr = 1 + 2 + 3 + 4 = 10</code> and <code>value = 10 &times; 11 / 2 = 55</code>.???????</li>
+	<li>This subarray has <code>sumArr = 1 + 2 + 3 + 4 = 10</code> and <code>value = 10 &times; 11 / 2 = 55</code>.</li>
 	<li>The score of this partition is 55, which is the minimum possible score.</li>
 </ul>
 </div>

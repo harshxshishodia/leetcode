@@ -17,7 +17,7 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img src="../../../images/3938-image.png" style="width: 200px; height: 251px;" />?????????????????????
+<img src="../../../images/3938-image.png" style="width: 200px; height: 251px;" />
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">grid = [[1,2,0,-3],[1,-2,1,0],[-4,2,-1,3],[3,-3,3,-2],[-1,-5,0,1]]</span></p>
 

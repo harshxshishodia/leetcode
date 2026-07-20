@@ -32,7 +32,7 @@
 <p><strong>Explanation:</strong></p>
 
 <ul>
-	<li>??????????????Select device <code>i = 0</code> and transfer <code>units[0][0] = 1</code> to device <code>i = 1</code>.</li>
+	<li>Select device <code>i = 0</code> and transfer <code>units[0][0] = 1</code> to device <code>i = 1</code>.</li>
 	<li>After the transfer, the ratings are:
 	<ul>
 		<li>Device <code>0 = [3]</code>: <code>rating[0] = 3</code></li>
@@ -92,3 +92,5 @@
 ---
 
 **Difficulty:** Medium
+
+**Topics:** Array, Greedy, Sorting

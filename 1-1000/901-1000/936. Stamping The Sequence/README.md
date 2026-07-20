@@ -5,7 +5,7 @@
 <p>In one turn, you can place <code>stamp</code> over <code>s</code> and replace every letter in the <code>s</code> with the corresponding letter from <code>stamp</code>.</p>
 
 <ul>
-	<li>For example, if <code>stamp = &quot;abc&quot;</code> and <code>target = &quot;abcba&quot;</code>, then <code>s</code> is <code>&quot;?????&quot;</code> initially. In one turn you can:
+	<li>For example, if <code>stamp = &quot;abc&quot;</code> and <code>target = &quot;abcba&quot;</code>, then <code>s</code> is <code>&quot;&quot;</code> initially. In one turn you can:
 
 	<ul>
 		<li>place <code>stamp</code> at index <code>0</code> of <code>s</code> to obtain <code>&quot;abc??&quot;</code>,</li>
@@ -25,7 +25,7 @@
 <pre>
 <strong>Input:</strong> stamp = &quot;abc&quot;, target = &quot;ababc&quot;
 <strong>Output:</strong> [0,2]
-<strong>Explanation:</strong> Initially s = &quot;?????&quot;.
+<strong>Explanation:</strong> Initially s = &quot;&quot;.
 - Place stamp at index 0 to get &quot;abc??&quot;.
 - Place stamp at index 2 to get &quot;ababc&quot;.
 [1,0,2] would also be accepted as an answer, as well as some other answers.
@@ -36,8 +36,8 @@
 <pre>
 <strong>Input:</strong> stamp = &quot;abca&quot;, target = &quot;aabcaca&quot;
 <strong>Output:</strong> [3,0,1]
-<strong>Explanation:</strong> Initially s = &quot;???????&quot;.
-- Place stamp at index 3 to get &quot;???abca&quot;.
+<strong>Explanation:</strong> Initially s = &quot;&quot;.
+- Place stamp at index 3 to get &quot;abca&quot;.
 - Place stamp at index 0 to get &quot;abcabca&quot;.
 - Place stamp at index 1 to get &quot;aabcaca&quot;.
 </pre>

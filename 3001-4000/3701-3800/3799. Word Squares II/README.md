@@ -18,7 +18,7 @@
 	<li><code>bottom[0] == left[3]</code>, <code>bottom[3] == right[3]</code></li>
 </ul>
 
-<p>Return all valid <strong>distinct</strong> word squares, sorted in <strong>ascending lexicographic</strong> order by the 4-tuple <code>(top, left, right, bottom)???????</code>.</p>
+<p>Return all valid <strong>distinct</strong> word squares, sorted in <strong>ascending lexicographic</strong> order by the 4-tuple <code>(top, left, right, bottom)</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>

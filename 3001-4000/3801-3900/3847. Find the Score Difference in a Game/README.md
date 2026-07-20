@@ -22,7 +22,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">0</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>Game 0: Since the points are odd, the second player becomes active and gains <code>nums[0] = 1</code> point.</li>

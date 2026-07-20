@@ -44,3 +44,5 @@
 ---
 
 **Difficulty:** Easy
+
+**Topics:** String, Math

@@ -88,7 +88,7 @@
 
 <p><strong>Explanation:</strong></p>
 
-<p><img src="../../../images/3928-screenshot-2025-08-23-at-23736-am.png" style="width: 346px; height: 80px;" /><strong>???????</strong></p>
+<p><img src="../../../images/3928-screenshot-2025-08-23-at-23736-am.png" style="width: 346px; height: 80px;" /><strong></strong></p>
 
 <table border="1" bordercolor="#ccc" cellpadding="5" cellspacing="0" style="border-collapse:collapse;">
 	<thead>
@@ -157,7 +157,7 @@
 
 <p><strong>Explanation:</strong></p>
 
-<p><strong>??????????????</strong><img src="../../../images/3928-screenshot-2025-08-23-at-24644-am.png" style="width: 250px; height: 181px;" /></p>
+<p><strong></strong><img src="../../../images/3928-screenshot-2025-08-23-at-24644-am.png" style="width: 250px; height: 181px;" /></p>
 
 <table border="1" bordercolor="#ccc" cellpadding="5" cellspacing="0" style="border-collapse:collapse;">
 	<thead>
@@ -229,7 +229,7 @@
 	<li><code>0 &lt;= u<sub>i</sub>, v<sub>i</sub> &lt;= n - 1</code></li>
 	<li><code>u<sub>i</sub> != v<sub>i</sub></code></li>
 	<li><code>1 &lt;= cost<sub>i</sub> &lt;= 10<sup>9</sup></code></li>
-	<li><code>???????1 &lt;= tax<sub>???????i</sub> &lt;= 100</code>???????</li>
+	<li><code>1 &lt;= tax<sub>i</sub> &lt;= 100</code></li>
 	<li>There are no <strong>repeated</strong> edges.</li>
 </ul>
 

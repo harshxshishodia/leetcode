@@ -21,7 +21,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">181</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 
 <p>The optimal sequence is <code>[9, 1, 7]</code>.</p>
 

@@ -65,3 +65,5 @@ The single function was resolved at 200ms with a value of 5.
 ---
 
 **Difficulty:** Medium
+
+**Topics:** JavaScript

@@ -53,3 +53,5 @@ The column names are changed accordingly.</pre>
 ---
 
 **Difficulty:** Easy
+
+**Topics:** Database, Pandas, DataFrame

@@ -109,3 +109,5 @@ Each row represents a user performing a specific action on a given date.
 ---
 
 **Difficulty:** Hard
+
+**Topics:** Database

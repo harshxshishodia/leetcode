@@ -1,6 +1,6 @@
 # 3849. Maximum Bitwise XOR After Rearrangement
 
-<p>You are given two binary strings <code>s</code> and <code>t</code>???????, each of length <code>n</code>.</p>
+<p>You are given two binary strings <code>s</code> and <code>t</code>, each of length <code>n</code>.</p>
 
 <p>You may <strong>rearrange</strong> the characters of <code>t</code> in any order, but <code>s</code> <strong>must remain unchanged</strong>.</p>
 

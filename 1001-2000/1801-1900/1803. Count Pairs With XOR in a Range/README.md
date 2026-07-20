@@ -25,7 +25,7 @@
 <strong>Input:</strong> nums = [9,8,4,2,1], low = 5, high = 14
 <strong>Output:</strong> 8
 <strong>Explanation:</strong> All nice pairs (i, j) are as follows:
-?????    - (0, 2): nums[0] XOR nums[2] = 13
+    - (0, 2): nums[0] XOR nums[2] = 13
 &nbsp;   - (0, 3): nums[0] XOR nums[3] = 11
 &nbsp;   - (0, 4): nums[0] XOR nums[4] = 8
 &nbsp;   - (1, 2): nums[1] XOR nums[2] = 12

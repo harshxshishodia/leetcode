@@ -16,14 +16,14 @@
 <p>Return an integer denoting the number of <strong>local maximums</strong> in <code>matrix</code>.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">???????Example 1:</strong></p>
+<p><strong class="example">Example 1:</strong></p>
 
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">matrix = [[0,0,0,0,0,0,0],[0,0,0,0,0,0,0],[0,0,0,0,0,0,0],[0,0,0,2,0,0,0],[0,0,0,0,0,0,0],[0,0,0,0,0,0,0],[0,0,0,0,0,0,0]]</span></p>
 
 <p><strong>Output:</strong> <span class="example-io">1</span></p>
 
-<p><img alt="" src="../../../images/3933-chatgpt-image-may-14-2026-01_53_19-am.png" style="width: 300px; height: 300px;" />?????????????????????</p>
+<p><img alt="" src="../../../images/3933-chatgpt-image-may-14-2026-01_53_19-am.png" style="width: 300px; height: 300px;" /></p>
 
 <p><strong>Explanation:</strong></p>
 

@@ -132,7 +132,7 @@
 	<li data-end="200" data-start="80"><code>position</code> is sorted in strictly increasing order.</li>
 	<li data-end="81" data-start="53"><code>time.length == n</code></li>
 	<li data-end="81" data-start="53"><code>1 &lt;= time[i] &lt;= 100?</code></li>
-	<li data-end="81" data-start="53"><code>1 &lt;= sum(time) &lt;= 100</code>??????</li>
+	<li data-end="81" data-start="53"><code>1 &lt;= sum(time) &lt;= 100</code></li>
 </ul>
 
 

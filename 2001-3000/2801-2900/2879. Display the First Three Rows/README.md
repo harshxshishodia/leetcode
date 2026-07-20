@@ -45,3 +45,5 @@ Only the first 3 rows are displayed.</pre>
 ---
 
 **Difficulty:** Easy
+
+**Topics:** Database, Pandas, DataFrame

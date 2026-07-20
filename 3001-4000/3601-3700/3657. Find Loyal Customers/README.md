@@ -122,3 +122,5 @@ transaction_type can be either &#39;purchase&#39; or &#39;refund&#39;.
 ---
 
 **Difficulty:** Medium
+
+**Topics:** Database

@@ -70,7 +70,7 @@ Return the total sum of waviness for all numbers in the range <code>[num1, num2]
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= num1 &lt;= num2 &lt;= 10<sup>15</sup></code>???????</li>
+	<li><code>1 &lt;= num1 &lt;= num2 &lt;= 10<sup>15</sup></code></li>
 </ul>
 
 

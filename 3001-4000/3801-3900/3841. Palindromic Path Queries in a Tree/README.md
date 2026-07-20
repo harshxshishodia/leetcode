@@ -11,7 +11,7 @@
 	<li><code>&quot;query u<sub>i</sub> v<sub>i</sub>&quot;</code>: Determine whether the string formed by the characters on the <strong>unique</strong> path from <code>u<sub>i</sub></code> to <code>v<sub>i</sub></code> (inclusive) can be <strong>rearranged</strong> into a <strong><span data-keyword="palindrome-string">palindrome</span></strong>.</li>
 </ul>
 
-<p>Return a boolean array <code>answer</code>, where <code>answer[j]</code> is <code>true</code> if the <code>j<sup>th</sup></code> query of type <code>&quot;query u<sub>i</sub> v<sub>i</sub>&quot;???????</code> can be rearranged into a <strong>palindrome</strong>, and <code>false</code> otherwise.</p>
+<p>Return a boolean array <code>answer</code>, where <code>answer[j]</code> is <code>true</code> if the <code>j<sup>th</sup></code> query of type <code>&quot;query u<sub>i</sub> v<sub>i</sub>&quot;</code> can be rearranged into a <strong>palindrome</strong>, and <code>false</code> otherwise.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
@@ -62,7 +62,7 @@
 	<li><code>0 &lt;= u<sub>i</sub>, v<sub>i</sub> &lt;= n - 1</code></li>
 	<li><code>s</code> consists of lowercase English letters.</li>
 	<li>The input is generated such that <code>edges</code> represents a valid tree.</li>
-	<li><code>1 &lt;= queries.length &lt;= 5 * 10<sup>4</sup></code>???????
+	<li><code>1 &lt;= queries.length &lt;= 5 * 10<sup>4</sup></code>
 	<ul>
 		<li><code>queries[i] = &quot;update u<sub>i</sub> c&quot;</code> or</li>
 		<li><code>queries[i] = &quot;query u<sub>i</sub> v<sub>i</sub>&quot;</code></li>

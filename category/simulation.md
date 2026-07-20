@@ -213,3 +213,4 @@
 | 209 | [3279. Maximum Total Area Occupied by Pistons](../3001-4000/3201-3300/3279.%20Maximum%20Total%20Area%20Occupied%20by%20Pistons/README.md) | Hard (Premium) |
 | 210 | [3510. Minimum Pair Removal to Sort Array II](../3001-4000/3501-3600/3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/README.md) | Hard |
 | 211 | [3614. Process String with Special Operations II](../3001-4000/3601-3700/3614.%20Process%20String%20with%20Special%20Operations%20II/README.md) | Hard |
+| 212 | [3987. Minimum Total Cost to Process All Elements](../3001-4000/3901-4000/3987.%20Minimum%20Total%20Cost%20to%20Process%20All%20Elements/README.md) | Medium |

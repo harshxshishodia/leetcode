@@ -55,7 +55,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">[0,0]</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>Take <code>k = 1</code>, first element <code>[3]</code> has MEX = 0. Current <code>result = [0]</code>.</li>

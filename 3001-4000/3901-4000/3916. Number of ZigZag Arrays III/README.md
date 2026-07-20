@@ -57,7 +57,7 @@
 
 <ul>
 	<li><code>3 &lt;= n &lt;= 200</code></li>
-	<li><code>1 &lt;= l &lt; r &lt;= 10<sup>???????9</sup></code></li>
+	<li><code>1 &lt;= l &lt; r &lt;= 10<sup>9</sup></code></li>
 </ul>
 
 ---

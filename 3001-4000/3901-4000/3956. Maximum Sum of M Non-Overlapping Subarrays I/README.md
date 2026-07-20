@@ -81,7 +81,7 @@
 
 <ul>
 	<li><code>1 &lt;= n == nums.length &lt;= 1000</code></li>
-	<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup>???????</code></li>
+	<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 	<li><code>1 &lt;= m &lt;= n</code></li>
 	<li><code>1 &lt;= l &lt;= r &lt;= n</code></li>
 </ul>

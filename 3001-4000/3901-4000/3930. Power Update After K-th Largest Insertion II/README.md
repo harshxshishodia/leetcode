@@ -77,7 +77,7 @@
 		<tr>
 			<th><code>i</code></th>
 			<th><code>val<sub>i</sub></code></th>
-			<th>Current???????<br />
+			<th>Current<br />
 			<code>nums</code></th>
 			<th><code>k<sub>i</sub></code></th>
 			<th><code>k<sub>i</sub><sup>th</sup></code><br />
@@ -117,10 +117,10 @@
 <ul>
 	<li><code>1 &lt;= nums.length &lt;= 2 * 10<sup>4</sup></code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
-	<li><code>???????1 &lt;= p &lt;= 10<sup>9</sup></code></li>
+	<li><code>1 &lt;= p &lt;= 10<sup>9</sup></code></li>
 	<li><code>1 &lt;= queries.length &lt;= 2 * 10<sup>4</sup></code></li>
-	<li><code><sup>???????</sup>1 &lt;= val<sub>i</sub> &lt;= 10<sup>9</sup></code></li>
-	<li><code>1 &lt;= k<sub>i</sub> &lt;= n + i + 1</code>???????</li>
+	<li><code><sup></sup>1 &lt;= val<sub>i</sub> &lt;= 10<sup>9</sup></code></li>
+	<li><code>1 &lt;= k<sub>i</sub> &lt;= n + i + 1</code></li>
 </ul>
 
 ---

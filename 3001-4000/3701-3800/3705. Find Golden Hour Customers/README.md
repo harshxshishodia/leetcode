@@ -28,7 +28,7 @@ order_timestamp contains both date and time information.
 	<li>Have rated <strong>at least</strong> <code>50%</code> of their orders.</li>
 </ul>
 
-<p>Return <em>the result table ordered by</em> <code>average_rating</code> <em>in <strong>descending</strong> order, then by</em> <code>customer_id</code>??????? <em>in <strong>descending</strong> order</em>.</p>
+<p>Return <em>the result table ordered by</em> <code>average_rating</code> <em>in <strong>descending</strong> order, then by</em> <code>customer_id</code> <em>in <strong>descending</strong> order</em>.</p>
 
 <p>The result format is in the following example.</p>
 
@@ -136,3 +136,5 @@ order_timestamp contains both date and time information.
 ---
 
 **Difficulty:** Medium
+
+**Topics:** Database

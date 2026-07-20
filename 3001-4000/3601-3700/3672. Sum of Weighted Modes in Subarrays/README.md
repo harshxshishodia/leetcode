@@ -37,7 +37,7 @@
 			<th style="border: 1px solid black;">Frequencies</th>
 			<th style="border: 1px solid black;">Mode</th>
 			<th style="border: 1px solid black;">Mode<br />
-			???????Frequency</th>
+			Frequency</th>
 			<th style="border: 1px solid black;">Weight</th>
 		</tr>
 	</thead>

@@ -4,7 +4,7 @@
 
 <p>In one operation, you can change any integer&#39;s value in <strong>any </strong>of the arrays to <strong>any</strong> value between <code>1</code> and <code>6</code>, inclusive.</p>
 
-<p>Return <em>the minimum number of operations required to make the sum of values in </em><code>nums1</code><em> equal to the sum of values in </em><code>nums2</code><em>.</em> Return <code>-1</code>????? if it is not possible to make the sum of the two arrays equal.</p>
+<p>Return <em>the minimum number of operations required to make the sum of values in </em><code>nums1</code><em> equal to the sum of values in </em><code>nums2</code><em>.</em> Return <code>-1</code> if it is not possible to make the sum of the two arrays equal.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>

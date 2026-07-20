@@ -23,7 +23,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">1</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>Start with <code>nums = [1, 2, 2]</code>.</li>
@@ -40,7 +40,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">2</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>Start with <code>nums = [2, 1, 1, 3]</code>.</li>
@@ -56,12 +56,12 @@
 
 <p><strong>Output:</strong> <span class="example-io">4</span></p>
 
-<p><strong>Explanation:</strong>?????????????????????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>Start with <code>nums = [5, 2, 1, 4, 3]</code>.</li>
 	<li>Perform 4 operations at index 1, array becomes <code>[5, 6, 1, 4, 3]</code>.</li>
-	<li>The final array is <code>[5, 6, 1, 4, 3]</code> has 2 special indices, which is the maximum achievable. Thus, the answer is 4.???????</li>
+	<li>The final array is <code>[5, 6, 1, 4, 3]</code> has 2 special indices, which is the maximum achievable. Thus, the answer is 4.</li>
 </ul>
 </div>
 

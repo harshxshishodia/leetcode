@@ -24,7 +24,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">6</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 For each ordered pair <code>(i, j)</code>, where color <code>i</code> is used for the first segment and color <code>j</code> for the second segment (<code>i != j</code>), a split of <code>x</code> and <code>4 - x</code> is valid if <code>1 &lt;= x &lt;= limit[i]</code> and <code>1 &lt;= 4 - x &lt;= limit[j]</code>.
 
 <p>Valid pairs and counts are:</p>
@@ -93,3 +93,5 @@ For each ordered pair <code>(i, j)</code>, where color <code>i</code> is used fo
 ---
 
 **Difficulty:** Hard
+
+**Topics:** Combinatorics, Math, Prefix Sum

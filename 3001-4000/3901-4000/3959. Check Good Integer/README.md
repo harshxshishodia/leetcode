@@ -54,3 +54,5 @@
 ---
 
 **Difficulty:** Easy
+
+**Topics:** Math

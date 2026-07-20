@@ -19,7 +19,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">3</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>For <code>n = 3</code>, possible divisors are 1 and 3.</li>
@@ -53,7 +53,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">3</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>For <code>n = 2</code>, possible divisors are 1 and 2.</li>

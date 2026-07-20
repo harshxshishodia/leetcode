@@ -76,3 +76,5 @@
 ---
 
 **Difficulty:** Easy
+
+**Topics:** Array, Matrix, Combinatorics

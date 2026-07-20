@@ -50,3 +50,5 @@ A new column bonus is created by doubling the value in the column salary.</pre>
 ---
 
 **Difficulty:** Easy
+
+**Topics:** Database, Pandas, DataFrame

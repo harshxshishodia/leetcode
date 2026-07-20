@@ -57,7 +57,7 @@
 
 <ul>
 	<li><code>queries[0] = [2, 9]</code>: Only valid pair is <code>nums1[2] + nums2[0] = 8 + 1 = 9</code>.</li>
-	<li><code>queries[1] = [1, 1, 2, 1]</code>: Add 1 to <code>nums2[1]</code> and <code>nums2[2]</code>, resulting in??????? <code>nums2 = [1, 4, 9]</code>.</li>
+	<li><code>queries[1] = [1, 1, 2, 1]</code>: Add 1 to <code>nums2[1]</code> and <code>nums2[2]</code>, resulting in <code>nums2 = [1, 4, 9]</code>.</li>
 	<li><code>queries[2] = [2, 10]</code>: No pair sums to <code>10</code>.</li>
 	<li>Thus, the <code>answer = [1, 0]</code>.</li>
 </ul>
@@ -77,7 +77,7 @@
 		<li><code>queries[i] == [2, tot]</code></li>
 		<li><code>0 &lt;= x &lt;= y &lt; nums2.length</code></li>
 		<li><code>1 &lt;= val &lt;= 10<sup>5</sup></code></li>
-		<li><code>1 &lt;= tot &lt;= 10<sup>9</sup>???????</code></li>
+		<li><code>1 &lt;= tot &lt;= 10<sup>9</sup></code></li>
 	</ul>
 	</li>
 </ul>

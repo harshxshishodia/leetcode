@@ -79,3 +79,5 @@ values = [[5],[]]
 ---
 
 **Difficulty:** Medium
+
+**Topics:** JavaScript

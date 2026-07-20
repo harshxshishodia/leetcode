@@ -42,3 +42,5 @@ The quantity for Wristwatch and WirelessEarbuds are filled by 0.</pre>
 ---
 
 **Difficulty:** Easy
+
+**Topics:** Database, Pandas, DataFrame

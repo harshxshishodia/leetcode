@@ -55,7 +55,7 @@
 
 <p><strong>Explanation:</strong></p>
 
-<p><strong>???????</strong><img src="../../../images/3990-screenshot-2026-05-31-at-82251pm.png" style="width: 200px; height: 128px;" /></p>
+<p><strong></strong><img src="../../../images/3990-screenshot-2026-05-31-at-82251pm.png" style="width: 200px; height: 128px;" /></p>
 
 <p>The grid contains exactly 3 valid paths from <code>(0, 0)</code> to <code>(2, 2)</code>:</p>
 
@@ -67,7 +67,7 @@
 </div>
 
 <p>&nbsp;</p>
-<p><strong>Constraints:</strong>???????</p>
+<p><strong>Constraints:</strong></p>
 
 <ul>
 	<li><code>1 &lt;= k &lt;= 1000</code></li>
@@ -76,3 +76,5 @@
 ---
 
 **Difficulty:** Hard
+
+**Topics:** Array, Matrix, Combinatorics, Math

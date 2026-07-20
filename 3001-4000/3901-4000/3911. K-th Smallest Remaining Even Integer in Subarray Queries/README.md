@@ -188,7 +188,7 @@
 	<li><code>1 &lt;= queries.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>queries[i] = [l<sub>i</sub>, r<sub>i</sub>, k<sub>i</sub>]</code></li>
 	<li><code>0 &lt;= l<sub>i</sub> &lt;= r<sub>i</sub> &lt; nums.length</code></li>
-	<li><code>1 &lt;= k<sub>i</sub> &lt;= 10<sup>9</sup></code>???????</li>
+	<li><code>1 &lt;= k<sub>i</sub> &lt;= 10<sup>9</sup></code></li>
 </ul>
 
 

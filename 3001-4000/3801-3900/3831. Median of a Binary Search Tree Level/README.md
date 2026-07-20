@@ -39,7 +39,7 @@
 
 <p><strong class="example">Example 3:</strong></p>
 
-<p><strong class="example">??????????????</strong><img src="../../../images/3831-screenshot-2026-01-27-at-21001pm.png" style="width: 150px; height: 193px;" /></p>
+<p><strong class="example"></strong><img src="../../../images/3831-screenshot-2026-01-27-at-21001pm.png" style="width: 150px; height: 193px;" /></p>
 
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">root = [2,1], level = 2</span></p>
@@ -48,7 +48,7 @@
 
 <p><strong>Explanation:</strong></p>
 
-<p>There is no node present at <code>level = 2</code>???????, so the answer is -1.</p>
+<p>There is no node present at <code>level = 2</code>, so the answer is -1.</p>
 </div>
 
 <p>&nbsp;</p>
@@ -57,7 +57,7 @@
 <ul>
 	<li>The number of nodes in the tree is in the range <code>[1, 2 * 10<sup>5</sup>]</code>.</li>
 	<li><code>1 &lt;= Node.val &lt;= 10<sup>6</sup></code></li>
-	<li><code>0 &lt;= level &lt;= 2 * 10<sup>???????5</sup></code></li>
+	<li><code>0 &lt;= level &lt;= 2 * 10<sup>5</sup></code></li>
 </ul>
 
 ---

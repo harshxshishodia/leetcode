@@ -18,7 +18,7 @@
 
 <p><strong>Explanation:</strong></p>
 
-<p><img src="../../../images/3656-screenshot-2025-08-13-at-24347-am.png" style="width: 200px; height: 132px;" />???????</p>
+<p><img src="../../../images/3656-screenshot-2025-08-13-at-24347-am.png" style="width: 200px; height: 132px;" /></p>
 
 <p>One possible undirected simple graph is:</p>
 
@@ -35,7 +35,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">false</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li><code>degrees[1] = 3</code> and <code>degrees[2] = 3</code> means they must be connected to all other vertices.</li>
@@ -48,7 +48,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= n == degrees.length &lt;= 10<sup>???????5</sup></code></li>
+	<li><code>1 &lt;= n == degrees.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>0 &lt;= degrees[i] &lt;= n - 1</code></li>
 </ul>
 

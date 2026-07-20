@@ -124,7 +124,7 @@
 
 <p><strong>Explanation:</strong></p>
 
-<p>One optimal activation order is:???????<strong>???????</strong></p>
+<p>One optimal activation order is:<strong></strong></p>
 
 <table style="border: 1px solid black;">
 	<thead>
@@ -191,7 +191,7 @@
 
 <ul>
 	<li><code>1 &lt;= n == value.length == limit.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>1 &lt;= value[i] &lt;= 10<sup>5</sup></code>???????</li>
+	<li><code>1 &lt;= value[i] &lt;= 10<sup>5</sup></code></li>
 	<li><code>1 &lt;= limit[i] &lt;= n</code></li>
 </ul>
 

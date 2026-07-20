@@ -69,7 +69,7 @@
 	</tbody>
 </table>
 
-<p>Thus, <code>ans = [2, 0, 0, 0]</code>???????.</p>
+<p>Thus, <code>ans = [2, 0, 0, 0]</code>.</p>
 </div>
 
 <p><strong class="example">Example 2:</strong></p>
@@ -129,7 +129,7 @@
 	</tbody>
 </table>
 
-<p>Thus, <code>ans = [1, 1, 0, 0]</code>???????.</p>
+<p>Thus, <code>ans = [1, 1, 0, 0]</code>.</p>
 </div>
 
 <p>&nbsp;</p>

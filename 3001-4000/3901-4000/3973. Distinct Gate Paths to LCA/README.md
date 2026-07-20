@@ -179,7 +179,7 @@
 </div>
 
 <p>&nbsp;</p>
-<p><strong>Constraints:</strong>???????</p>
+<p><strong>Constraints:</strong></p>
 
 <ul>
 	<li><code>2 &lt;= n &lt;= 2 * 10<sup>4</sup></code></li>

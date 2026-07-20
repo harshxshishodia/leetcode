@@ -26,7 +26,7 @@
 <ul>
 	<li>Choose <code>nums2[0] = nums1[0] - nums1[1] = 2 - 3 = -1</code>.</li>
 	<li>Choose <code>nums2[1] = nums1[1] = 3</code>.</li>
-	<li><code>nums2 = [-1, 3]</code>, and both elements are odd. Thus, the answer is <code>true</code>???????.</li>
+	<li><code>nums2 = [-1, 3]</code>, and both elements are odd. Thus, the answer is <code>true</code>.</li>
 </ul>
 </div>
 
@@ -37,7 +37,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">true</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>Choose <code>nums2[0] = nums1[0] = 4</code>.</li>

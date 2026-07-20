@@ -46,3 +46,4 @@
 | 42 | [3515. Shortest Path in a Weighted Tree](../3001-4000/3501-3600/3515.%20Shortest%20Path%20in%20a%20Weighted%20Tree/README.md) | Hard |
 | 43 | [3624. Number of Integers With Popcount-Depth Equal to K II](../3001-4000/3601-3700/3624.%20Number%20of%20Integers%20With%20Popcount-Depth%20Equal%20to%20K%20II/README.md) | Hard |
 | 44 | [3671. Sum of Beautiful Subsequences](../3001-4000/3601-3700/3671.%20Sum%20of%20Beautiful%20Subsequences/README.md) | Hard |
+| 45 | [3907. Count Smaller Elements With Opposite Parity](../3001-4000/3901-4000/3907.%20Count%20Smaller%20Elements%20With%20Opposite%20Parity/README.md) | Medium |

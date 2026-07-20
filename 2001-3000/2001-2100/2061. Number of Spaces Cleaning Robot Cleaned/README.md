@@ -19,7 +19,7 @@
 <p><strong>Explanation:</strong></p>
 
 <ol>
-	<li>???????The robot cleans the spaces at (0, 0), (0, 1), and (0, 2).</li>
+	<li>The robot cleans the spaces at (0, 0), (0, 1), and (0, 2).</li>
 	<li>The robot is at the edge of the room, so it turns 90 degrees clockwise and now faces down.</li>
 	<li>The robot cleans the spaces at (1, 2), and (2, 2).</li>
 	<li>The robot is at the edge of the room, so it turns 90 degrees clockwise and now faces left.</li>
@@ -55,7 +55,7 @@
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">room = [[0,0,0],[0,0,0],[0,0,0]]</span></p>
 
-<p><strong>Output:</strong> <span class="example-io">8</span>???????</p>
+<p><strong>Output:</strong> <span class="example-io">8</span></p>
 
 <p>&nbsp;</p>
 </div>

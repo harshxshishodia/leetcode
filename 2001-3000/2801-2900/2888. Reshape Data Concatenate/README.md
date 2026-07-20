@@ -64,3 +64,5 @@ df1</strong>
 ---
 
 **Difficulty:** Easy
+
+**Topics:** Database, Pandas, DataFrame

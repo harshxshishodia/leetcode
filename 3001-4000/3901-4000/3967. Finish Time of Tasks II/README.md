@@ -133,3 +133,5 @@
 ---
 
 **Difficulty:** Hard
+
+**Topics:** Tree, Depth-First Search, Dynamic Programming, Rerooting DP

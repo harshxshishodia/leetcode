@@ -345,4 +345,7 @@
 | 341 | [3910. Count Connected Subgraphs with Even Node Sum](../3001-4000/3901-4000/3910.%20Count%20Connected%20Subgraphs%20with%20Even%20Node%20Sum/README.md) | Hard |
 | 342 | [3939. Count Non Adjacent Subsets in a Rooted Tree](../3001-4000/3901-4000/3939.%20Count%20Non%20Adjacent%20Subsets%20in%20a%20Rooted%20Tree/README.md) | Hard |
 | 343 | [3949. Subtree Inversion Sum II](../3001-4000/3901-4000/3949.%20Subtree%20Inversion%20Sum%20II/README.md) | Hard (Premium) |
-| 344 | [3973. Distinct Gate Paths to LCA](../3001-4000/3901-4000/3973.%20Distinct%20Gate%20Paths%20to%20LCA/README.md) | Hard (Premium) |
+| 344 | [3965. Finish Time of Tasks I](../3001-4000/3901-4000/3965.%20Finish%20Time%20of%20Tasks%20I/README.md) | Medium |
+| 345 | [3967. Finish Time of Tasks II](../3001-4000/3901-4000/3967.%20Finish%20Time%20of%20Tasks%20II/README.md) | Hard |
+| 346 | [3973. Distinct Gate Paths to LCA](../3001-4000/3901-4000/3973.%20Distinct%20Gate%20Paths%20to%20LCA/README.md) | Hard (Premium) |
+| 347 | [3997. Count Dominant Nodes in a Binary Tree](../3001-4000/3901-4000/3997.%20Count%20Dominant%20Nodes%20in%20a%20Binary%20Tree/README.md) | Medium |

@@ -88,3 +88,5 @@ The selector function splits the array by whether each number is greater than 5.
 ---
 
 **Difficulty:** Medium
+
+**Topics:** JavaScript

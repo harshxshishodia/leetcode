@@ -122,10 +122,10 @@
 
 <ul>
 	<li><code>1 &lt;= n == nums.length &lt;= 4 &times; 10<sup>4</sup></code></li>
-	<li><code>1 &lt;= nums[i] &lt;= 10<sup>9</sup></code>???????</li>
+	<li><code>1 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 	<li><code>1 &lt;= k &lt;= 10<sup>9</sup></code></li>
 	<li><code>1 &lt;= queries.length &lt;= 4 &times; 10<sup>4</sup></code></li>
-	<li><code><sup>???????</sup>queries[i] = [l<sub>i</sub>, r<sub>i</sub>]</code></li>
+	<li><code><sup></sup>queries[i] = [l<sub>i</sub>, r<sub>i</sub>]</code></li>
 	<li><code>0 &lt;= l<sub>i</sub> &lt;= r<sub>i</sub> &lt;= n - 1</code></li>
 </ul>
 

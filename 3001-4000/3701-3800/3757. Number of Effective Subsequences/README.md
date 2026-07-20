@@ -40,7 +40,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">4</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>The Bitwise OR of the array is <code>7 OR 4 OR 6 = 7</code>.</li>

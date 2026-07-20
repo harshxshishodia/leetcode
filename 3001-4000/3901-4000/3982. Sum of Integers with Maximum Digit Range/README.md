@@ -104,3 +104,5 @@
 ---
 
 **Difficulty:** Easy
+
+**Topics:** Array, Math

@@ -45,7 +45,7 @@
 
 <p><strong>Explanation:</strong></p>
 
-<p><strong>???????</strong>In this example all the words are equal, thus the answer is 0.</p>
+<p><strong></strong>In this example all the words are equal, thus the answer is 0.</p>
 </div>
 
 <p>&nbsp;</p>

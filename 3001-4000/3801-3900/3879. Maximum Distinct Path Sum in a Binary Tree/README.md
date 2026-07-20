@@ -49,7 +49,7 @@
 
 <p><strong class="example">Example 3:</strong></p>
 
-<p><img src="../../../images/3879-screenshot-2026-01-29-at-15555am.png" style="width: 180px; height: 217px;" />???????</p>
+<p><img src="../../../images/3879-screenshot-2026-01-29-at-15555am.png" style="width: 180px; height: 217px;" /></p>
 
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">root = [4,6,6,null,null,null,9]</span></p>
@@ -69,7 +69,7 @@
 
 <ul>
 	<li>The number of nodes in the tree is in the range <code>[1, 1000]</code>.</li>
-	<li><code>-1000 &lt;= Node.val &lt;= 1000???????</code></li>
+	<li><code>-1000 &lt;= Node.val &lt;= 1000</code></li>
 </ul>
 
 ---

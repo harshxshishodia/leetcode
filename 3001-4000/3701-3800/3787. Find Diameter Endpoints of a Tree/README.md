@@ -1,6 +1,6 @@
 # 3787. Find Diameter Endpoints of a Tree
 
-<p>You are given an <strong>undirected tree</strong> with <code>n</code> nodes, numbered from 0 to <code>n - 1</code>. It is represented by a 2D integer array <code>edges</code>??????? of length <code>n - 1</code>, where <code>edges[i] = [a<sub>i</sub>, b<sub>i</sub>]</code> indicates that there is an edge between nodes <code>a<sub>i</sub></code> and <code>b<sub>i</sub></code> in the tree.</p>
+<p>You are given an <strong>undirected tree</strong> with <code>n</code> nodes, numbered from 0 to <code>n - 1</code>. It is represented by a 2D integer array <code>edges</code> of length <code>n - 1</code>, where <code>edges[i] = [a<sub>i</sub>, b<sub>i</sub>]</code> indicates that there is an edge between nodes <code>a<sub>i</sub></code> and <code>b<sub>i</sub></code> in the tree.</p>
 
 <p>A node is called <strong>special</strong> if it is an <strong>endpoint</strong> of any<strong> diameter path</strong> of the tree.</p>
 
@@ -54,7 +54,7 @@
 
 <p><strong class="example">Example 3:</strong></p>
 
-<p><strong class="example"><img alt="" src="../../../images/3787-pic3.png" />???????</strong></p>
+<p><strong class="example"><img alt="" src="../../../images/3787-pic3.png" /></strong></p>
 
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">n = 2, edges = [[0,1]]</span></p>

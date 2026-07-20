@@ -110,3 +110,5 @@ Each row represents a reaction given by a user to a piece of content.
 ---
 
 **Difficulty:** Medium
+
+**Topics:** Database

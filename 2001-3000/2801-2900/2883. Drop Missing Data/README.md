@@ -45,3 +45,5 @@ Student with id 217 havs empty value in the name column, so it will be removed.<
 ---
 
 **Difficulty:** Easy
+
+**Topics:** Database, Pandas, DataFrame

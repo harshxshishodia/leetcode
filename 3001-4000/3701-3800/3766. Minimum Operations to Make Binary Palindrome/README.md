@@ -129,7 +129,7 @@
 
 <ul>
 	<li><code>1 &lt;= nums.length &lt;= 5000</code></li>
-	<li><code><sup>???????</sup>1 &lt;= nums[i] &lt;=<sup> </sup>5000</code></li>
+	<li><code><sup></sup>1 &lt;= nums[i] &lt;=<sup> </sup>5000</code></li>
 </ul>
 
 

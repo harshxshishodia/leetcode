@@ -43,3 +43,5 @@ generator.next().done; // true
 ---
 
 **Difficulty:** Medium
+
+**Topics:** JavaScript

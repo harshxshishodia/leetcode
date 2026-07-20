@@ -11,7 +11,7 @@
 <p>Return the final string after all possible removals.</p>
 
 <p>&nbsp;</p>
-<p>???????<strong class="example">Example 1:</strong></p>
+<p><strong class="example">Example 1:</strong></p>
 
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">s = &quot;(())&quot;, k = 1</span></p>

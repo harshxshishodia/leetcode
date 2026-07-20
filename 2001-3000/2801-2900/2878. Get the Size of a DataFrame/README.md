@@ -50,3 +50,5 @@ This DataFrame contains 10 rows and 5 columns.
 ---
 
 **Difficulty:** Easy
+
+**Topics:** Database, Pandas, DataFrame

@@ -1,6 +1,6 @@
 # 3892. Minimum Operations to Achieve At Least K Peaks
 
-<p>You are given a ???????circular integer array??????? <code>nums</code> of length <code>n</code>.</p>
+<p>You are given a circular integer array <code>nums</code> of length <code>n</code>.</p>
 
 <p>An index <code>i</code> is a <strong>peak</strong> if its value is <strong>strictly greater</strong> than its neighbors:</p>
 
@@ -69,7 +69,7 @@
 <ul>
 	<li><code>2 &lt;= n == nums.length &lt;= 5000</code></li>
 	<li><code>-10<sup>5</sup> &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
-	<li><code>0 &lt;= k &lt;= n</code>???????</li>
+	<li><code>0 &lt;= k &lt;= n</code></li>
 </ul>
 
 

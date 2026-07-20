@@ -404,128 +404,130 @@
 | 400 | [3935. Power Update After K-th Largest Insertion I](../3001-4000/3901-4000/3935.%20Power%20Update%20After%20K-th%20Largest%20Insertion%20I/README.md) | Medium (Premium) |
 | 401 | [3947. Maximum Number of Items From Sale II](../3001-4000/3901-4000/3947.%20Maximum%20Number%20of%20Items%20From%20Sale%20II/README.md) | Medium |
 | 402 | [3951. Minimum Energy to Maintain Brightness](../3001-4000/3901-4000/3951.%20Minimum%20Energy%20to%20Maintain%20Brightness/README.md) | Medium |
-| 403 | [3974. Maximum Total Sum of K Selected Elements](../3001-4000/3901-4000/3974.%20Maximum%20Total%20Sum%20of%20K%20Selected%20Elements/README.md) | Medium |
-| 404 | [3975. Filter Occupied Intervals](../3001-4000/3901-4000/3975.%20Filter%20Occupied%20Intervals/README.md) | Medium |
-| 405 | [218. The Skyline Problem](../1-1000/201-300/218.%20The%20Skyline%20Problem/README.md) | Hard |
-| 406 | [220. Contains Duplicate III](../1-1000/201-300/220.%20Contains%20Duplicate%20III/README.md) | Hard |
-| 407 | [295. Find Median from Data Stream](../1-1000/201-300/295.%20Find%20Median%20from%20Data%20Stream/README.md) | Hard |
-| 408 | [296. Best Meeting Point](../1-1000/201-300/296.%20Best%20Meeting%20Point/README.md) | Hard (Premium) |
-| 409 | [332. Reconstruct Itinerary](../1-1000/301-400/332.%20Reconstruct%20Itinerary/README.md) | Hard |
-| 410 | [354. Russian Doll Envelopes](../1-1000/301-400/354.%20Russian%20Doll%20Envelopes/README.md) | Hard |
-| 411 | [358. Rearrange String k Distance Apart](../1-1000/301-400/358.%20Rearrange%20String%20k%20Distance%20Apart/README.md) | Hard (Premium) |
-| 412 | [472. Concatenated Words](../1-1000/401-500/472.%20Concatenated%20Words/README.md) | Hard |
-| 413 | [502. IPO](../1-1000/501-600/502.%20IPO/README.md) | Hard |
-| 414 | [527. Word Abbreviation](../1-1000/501-600/527.%20Word%20Abbreviation/README.md) | Hard (Premium) |
-| 415 | [588. Design In-Memory File System](../1-1000/501-600/588.%20Design%20In-Memory%20File%20System/README.md) | Hard (Premium) |
-| 416 | [630. Course Schedule III](../1-1000/601-700/630.%20Course%20Schedule%20III/README.md) | Hard |
-| 417 | [632. Smallest Range Covering Elements from K Lists](../1-1000/601-700/632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists/README.md) | Hard |
-| 418 | [642. Design Search Autocomplete System](../1-1000/601-700/642.%20Design%20Search%20Autocomplete%20System/README.md) | Hard (Premium) |
-| 419 | [710. Random Pick with Blacklist](../1-1000/701-800/710.%20Random%20Pick%20with%20Blacklist/README.md) | Hard |
-| 420 | [711. Number of Distinct Islands II](../1-1000/701-800/711.%20Number%20of%20Distinct%20Islands%20II/README.md) | Hard (Premium) |
-| 421 | [719. Find K-th Smallest Pair Distance](../1-1000/701-800/719.%20Find%20K-th%20Smallest%20Pair%20Distance/README.md) | Hard |
-| 422 | [726. Number of Atoms](../1-1000/701-800/726.%20Number%20of%20Atoms/README.md) | Hard |
-| 423 | [757. Set Intersection Size At Least Two](../1-1000/701-800/757.%20Set%20Intersection%20Size%20At%20Least%20Two/README.md) | Hard |
-| 424 | [759. Employee Free Time](../1-1000/701-800/759.%20Employee%20Free%20Time/README.md) | Hard (Premium) |
-| 425 | [761. Special Binary String](../1-1000/701-800/761.%20Special%20Binary%20String/README.md) | Hard |
-| 426 | [768. Max Chunks To Make Sorted II](../1-1000/701-800/768.%20Max%20Chunks%20To%20Make%20Sorted%20II/README.md) | Hard |
-| 427 | [857. Minimum Cost to Hire K Workers](../1-1000/801-900/857.%20Minimum%20Cost%20to%20Hire%20K%20Workers/README.md) | Hard |
-| 428 | [891. Sum of Subsequence Widths](../1-1000/801-900/891.%20Sum%20of%20Subsequence%20Widths/README.md) | Hard |
-| 429 | [899. Orderly Queue](../1-1000/801-900/899.%20Orderly%20Queue/README.md) | Hard |
-| 430 | [975. Odd Even Jump](../1-1000/901-1000/975.%20Odd%20Even%20Jump/README.md) | Hard |
-| 431 | [987. Vertical Order Traversal of a Binary Tree](../1-1000/901-1000/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree/README.md) | Hard |
-| 432 | [1096. Brace Expansion II](../1001-2000/1001-1100/1096.%20Brace%20Expansion%20II/README.md) | Hard |
-| 433 | [1183. Maximum Number of Ones](../1001-2000/1101-1200/1183.%20Maximum%20Number%20of%20Ones/README.md) | Hard (Premium) |
-| 434 | [1187. Make Array Strictly Increasing](../1001-2000/1101-1200/1187.%20Make%20Array%20Strictly%20Increasing/README.md) | Hard |
-| 435 | [1235. Maximum Profit in Job Scheduling](../1001-2000/1201-1300/1235.%20Maximum%20Profit%20in%20Job%20Scheduling/README.md) | Hard |
-| 436 | [1340. Jump Game V](../1001-2000/1301-1400/1340.%20Jump%20Game%20V/README.md) | Hard |
-| 437 | [1363. Largest Multiple of Three](../1001-2000/1301-1400/1363.%20Largest%20Multiple%20of%20Three/README.md) | Hard |
-| 438 | [1383. Maximum Performance of a Team](../1001-2000/1301-1400/1383.%20Maximum%20Performance%20of%20a%20Team/README.md) | Hard |
-| 439 | [1402. Reducing Dishes](../1001-2000/1401-1500/1402.%20Reducing%20Dishes/README.md) | Hard |
-| 440 | [1478. Allocate Mailboxes](../1001-2000/1401-1500/1478.%20Allocate%20Mailboxes/README.md) | Hard |
-| 441 | [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](../1001-2000/1401-1500/1489.%20Find%20Critical%20and%20Pseudo-Critical%20Edges%20in%20Minimum%20Spanning%20Tree/README.md) | Hard |
-| 442 | [1520. Maximum Number of Non-Overlapping Substrings](../1001-2000/1501-1600/1520.%20Maximum%20Number%20of%20Non-Overlapping%20Substrings/README.md) | Hard |
-| 443 | [1547. Minimum Cost to Cut a Stick](../1001-2000/1501-1600/1547.%20Minimum%20Cost%20to%20Cut%20a%20Stick/README.md) | Hard |
-| 444 | [1585. Check If String Is Transformable With Substring Sort Operations](../1001-2000/1501-1600/1585.%20Check%20If%20String%20Is%20Transformable%20With%20Substring%20Sort%20Operations/README.md) | Hard |
-| 445 | [1610. Maximum Number of Visible Points](../1001-2000/1601-1700/1610.%20Maximum%20Number%20of%20Visible%20Points/README.md) | Hard |
-| 446 | [1632. Rank Transform of a Matrix](../1001-2000/1601-1700/1632.%20Rank%20Transform%20of%20a%20Matrix/README.md) | Hard |
-| 447 | [1665. Minimum Initial Energy to Finish Tasks](../1001-2000/1601-1700/1665.%20Minimum%20Initial%20Energy%20to%20Finish%20Tasks/README.md) | Hard |
-| 448 | [1691. Maximum Height by Stacking Cuboids](../1001-2000/1601-1700/1691.%20Maximum%20Height%20by%20Stacking%20Cuboids/README.md) | Hard |
-| 449 | [1697. Checking Existence of Edge Length Limited Paths](../1001-2000/1601-1700/1697.%20Checking%20Existence%20of%20Edge%20Length%20Limited%20Paths/README.md) | Hard |
-| 450 | [1724. Checking Existence of Edge Length Limited Paths II](../1001-2000/1701-1800/1724.%20Checking%20Existence%20of%20Edge%20Length%20Limited%20Paths%20II/README.md) | Hard (Premium) |
-| 451 | [1751. Maximum Number of Events That Can Be Attended II](../1001-2000/1701-1800/1751.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended%20II/README.md) | Hard |
-| 452 | [1755. Closest Subsequence Sum](../1001-2000/1701-1800/1755.%20Closest%20Subsequence%20Sum/README.md) | Hard |
-| 453 | [1782. Count Pairs Of Nodes](../1001-2000/1701-1800/1782.%20Count%20Pairs%20Of%20Nodes/README.md) | Hard |
-| 454 | [1840. Maximum Building Height](../1001-2000/1801-1900/1840.%20Maximum%20Building%20Height/README.md) | Hard |
-| 455 | [1847. Closest Room](../1001-2000/1801-1900/1847.%20Closest%20Room/README.md) | Hard |
-| 456 | [1851. Minimum Interval to Include Each Query](../1001-2000/1801-1900/1851.%20Minimum%20Interval%20to%20Include%20Each%20Query/README.md) | Hard |
-| 457 | [1889. Minimum Space Wasted From Packaging](../1001-2000/1801-1900/1889.%20Minimum%20Space%20Wasted%20From%20Packaging/README.md) | Hard |
-| 458 | [1948. Delete Duplicate Folders in System](../1001-2000/1901-2000/1948.%20Delete%20Duplicate%20Folders%20in%20System/README.md) | Hard |
-| 459 | [1982. Find Array Given Subset Sums](../1001-2000/1901-2000/1982.%20Find%20Array%20Given%20Subset%20Sums/README.md) | Hard |
-| 460 | [1998. GCD Sort of an Array](../1001-2000/1901-2000/1998.%20GCD%20Sort%20of%20an%20Array/README.md) | Hard |
-| 461 | [2035. Partition Array Into Two Arrays to Minimize Sum Difference](../2001-3000/2001-2100/2035.%20Partition%20Array%20Into%20Two%20Arrays%20to%20Minimize%20Sum%20Difference/README.md) | Hard |
-| 462 | [2071. Maximum Number of Tasks You Can Assign](../2001-3000/2001-2100/2071.%20Maximum%20Number%20of%20Tasks%20You%20Can%20Assign/README.md) | Hard |
-| 463 | [2092. Find All People With Secret](../2001-3000/2001-2100/2092.%20Find%20All%20People%20With%20Secret/README.md) | Hard |
-| 464 | [2122. Recover the Original Array](../2001-3000/2101-2200/2122.%20Recover%20the%20Original%20Array/README.md) | Hard |
-| 465 | [2136. Earliest Possible Day of Full Bloom](../2001-3000/2101-2200/2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom/README.md) | Hard |
-| 466 | [2141. Maximum Running Time of N Computers](../2001-3000/2101-2200/2141.%20Maximum%20Running%20Time%20of%20N%20Computers/README.md) | Hard |
-| 467 | [2234. Maximum Total Beauty of the Gardens](../2001-3000/2201-2300/2234.%20Maximum%20Total%20Beauty%20of%20the%20Gardens/README.md) | Hard |
-| 468 | [2242. Maximum Score of a Node Sequence](../2001-3000/2201-2300/2242.%20Maximum%20Score%20of%20a%20Node%20Sequence/README.md) | Hard |
-| 469 | [2251. Number of Flowers in Full Bloom](../2001-3000/2201-2300/2251.%20Number%20of%20Flowers%20in%20Full%20Bloom/README.md) | Hard |
-| 470 | [2344. Minimum Deletions to Make Array Divisible](../2001-3000/2301-2400/2344.%20Minimum%20Deletions%20to%20Make%20Array%20Divisible/README.md) | Hard |
-| 471 | [2371. Minimize Maximum Value in a Grid](../2001-3000/2301-2400/2371.%20Minimize%20Maximum%20Value%20in%20a%20Grid/README.md) | Hard (Premium) |
-| 472 | [2386. Find the K-Sum of an Array](../2001-3000/2301-2400/2386.%20Find%20the%20K-Sum%20of%20an%20Array/README.md) | Hard |
-| 473 | [2402. Meeting Rooms III](../2001-3000/2401-2500/2402.%20Meeting%20Rooms%20III/README.md) | Hard |
-| 474 | [2412. Minimum Money Required Before Transactions](../2001-3000/2401-2500/2412.%20Minimum%20Money%20Required%20Before%20Transactions/README.md) | Hard |
-| 475 | [2421. Number of Good Paths](../2001-3000/2401-2500/2421.%20Number%20of%20Good%20Paths/README.md) | Hard |
-| 476 | [2448. Minimum Cost to Make Array Equal](../2001-3000/2401-2500/2448.%20Minimum%20Cost%20to%20Make%20Array%20Equal/README.md) | Hard |
-| 477 | [2449. Minimum Number of Operations to Make Arrays Similar](../2001-3000/2401-2500/2449.%20Minimum%20Number%20of%20Operations%20to%20Make%20Arrays%20Similar/README.md) | Hard |
-| 478 | [2454. Next Greater Element IV](../2001-3000/2401-2500/2454.%20Next%20Greater%20Element%20IV/README.md) | Hard |
-| 479 | [2459. Sort Array by Moving Items to Empty Space](../2001-3000/2401-2500/2459.%20Sort%20Array%20by%20Moving%20Items%20to%20Empty%20Space/README.md) | Hard (Premium) |
-| 480 | [2463. Minimum Total Distance Traveled](../2001-3000/2401-2500/2463.%20Minimum%20Total%20Distance%20Traveled/README.md) | Hard |
-| 481 | [2503. Maximum Number of Points From Grid Queries](../2001-3000/2501-2600/2503.%20Maximum%20Number%20of%20Points%20From%20Grid%20Queries/README.md) | Hard |
-| 482 | [2551. Put Marbles in Bags](../2001-3000/2501-2600/2551.%20Put%20Marbles%20in%20Bags/README.md) | Hard |
-| 483 | [2589. Minimum Time to Complete All Tasks](../2001-3000/2501-2600/2589.%20Minimum%20Time%20to%20Complete%20All%20Tasks/README.md) | Hard |
-| 484 | [2604. Minimum Time to Eat All Grains](../2001-3000/2601-2700/2604.%20Minimum%20Time%20to%20Eat%20All%20Grains/README.md) | Hard (Premium) |
-| 485 | [2613. Beautiful Pairs](../2001-3000/2601-2700/2613.%20Beautiful%20Pairs/README.md) | Hard (Premium) |
-| 486 | [2659. Make Array Empty](../2001-3000/2601-2700/2659.%20Make%20Array%20Empty/README.md) | Hard |
-| 487 | [2681. Power of Heroes](../2001-3000/2601-2700/2681.%20Power%20of%20Heroes/README.md) | Hard |
-| 488 | [2713. Maximum Strictly Increasing Cells in a Matrix](../2001-3000/2701-2800/2713.%20Maximum%20Strictly%20Increasing%20Cells%20in%20a%20Matrix/README.md) | Hard |
-| 489 | [2736. Maximum Sum Queries](../2001-3000/2701-2800/2736.%20Maximum%20Sum%20Queries/README.md) | Hard |
-| 490 | [2751. Robot Collisions](../2001-3000/2701-2800/2751.%20Robot%20Collisions/README.md) | Hard |
-| 491 | [2790. Maximum Number of Groups With Increasing Length](../2001-3000/2701-2800/2790.%20Maximum%20Number%20of%20Groups%20With%20Increasing%20Length/README.md) | Hard |
-| 492 | [2809. Minimum Time to Make Array Sum At Most x](../2001-3000/2801-2900/2809.%20Minimum%20Time%20to%20Make%20Array%20Sum%20At%20Most%20x/README.md) | Hard |
-| 493 | [2813. Maximum Elegance of a K-Length Subsequence](../2001-3000/2801-2900/2813.%20Maximum%20Elegance%20of%20a%20K-Length%20Subsequence/README.md) | Hard |
-| 494 | [2818. Apply Operations to Maximize Score](../2001-3000/2801-2900/2818.%20Apply%20Operations%20to%20Maximize%20Score/README.md) | Hard |
-| 495 | [2819. Minimum Relative Loss After Buying Chocolates](../2001-3000/2801-2900/2819.%20Minimum%20Relative%20Loss%20After%20Buying%20Chocolates/README.md) | Hard (Premium) |
-| 496 | [2842. Count K-Subsequences of a String With Maximum Beauty](../2001-3000/2801-2900/2842.%20Count%20K-Subsequences%20of%20a%20String%20With%20Maximum%20Beauty/README.md) | Hard |
-| 497 | [2931. Maximum Spending After Buying Items](../2001-3000/2901-3000/2931.%20Maximum%20Spending%20After%20Buying%20Items/README.md) | Hard |
-| 498 | [2968. Apply Operations to Maximize Frequency Score](../2001-3000/2901-3000/2968.%20Apply%20Operations%20to%20Maximize%20Frequency%20Score/README.md) | Hard |
-| 499 | [2973. Find Number of Coins to Place in Tree Nodes](../2001-3000/2901-3000/2973.%20Find%20Number%20of%20Coins%20to%20Place%20in%20Tree%20Nodes/README.md) | Hard |
-| 500 | [3009. Maximum Number of Intersections on the Chart](../3001-4000/3001-3100/3009.%20Maximum%20Number%20of%20Intersections%20on%20the%20Chart/README.md) | Hard (Premium) |
-| 501 | [3027. Find the Number of Ways to Place People II](../3001-4000/3001-3100/3027.%20Find%20the%20Number%20of%20Ways%20to%20Place%20People%20II/README.md) | Hard |
-| 502 | [3041. Maximize Consecutive Elements in an Array After Modification](../3001-4000/3001-3100/3041.%20Maximize%20Consecutive%20Elements%20in%20an%20Array%20After%20Modification/README.md) | Hard |
-| 503 | [3068. Find the Maximum Sum of Node Values](../3001-4000/3001-3100/3068.%20Find%20the%20Maximum%20Sum%20of%20Node%20Values/README.md) | Hard |
-| 504 | [3088. Make String Anti-palindrome](../3001-4000/3001-3100/3088.%20Make%20String%20Anti-palindrome/README.md) | Hard (Premium) |
-| 505 | [3098. Find the Sum of Subsequence Powers](../3001-4000/3001-3100/3098.%20Find%20the%20Sum%20of%20Subsequence%20Powers/README.md) | Hard |
-| 506 | [3102. Minimize Manhattan Distances](../3001-4000/3101-3200/3102.%20Minimize%20Manhattan%20Distances/README.md) | Hard |
-| 507 | [3104. Find Longest Self-Contained Substring](../3001-4000/3101-3200/3104.%20Find%20Longest%20Self-Contained%20Substring/README.md) | Hard (Premium) |
-| 508 | [3181. Maximum Total Reward Using Operations II](../3001-4000/3101-3200/3181.%20Maximum%20Total%20Reward%20Using%20Operations%20II/README.md) | Hard |
-| 509 | [3219. Minimum Cost for Cutting Cake II](../3001-4000/3201-3300/3219.%20Minimum%20Cost%20for%20Cutting%20Cake%20II/README.md) | Hard |
-| 510 | [3267. Count Almost Equal Pairs II](../3001-4000/3201-3300/3267.%20Count%20Almost%20Equal%20Pairs%20II/README.md) | Hard |
-| 511 | [3273. Minimum Amount of Damage Dealt to Bob](../3001-4000/3201-3300/3273.%20Minimum%20Amount%20of%20Damage%20Dealt%20to%20Bob/README.md) | Hard |
-| 512 | [3288. Length of the Longest Increasing Path](../3001-4000/3201-3300/3288.%20Length%20of%20the%20Longest%20Increasing%20Path/README.md) | Hard |
-| 513 | [3347. Maximum Frequency of an Element After Performing Operations II](../3001-4000/3301-3400/3347.%20Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20II/README.md) | Hard |
-| 514 | [3367. Maximize Sum of Weights after Edge Removals](../3001-4000/3301-3400/3367.%20Maximize%20Sum%20of%20Weights%20after%20Edge%20Removals/README.md) | Hard |
-| 515 | [3382. Maximum Area Rectangle With Point Constraints II](../3001-4000/3301-3400/3382.%20Maximum%20Area%20Rectangle%20With%20Point%20Constraints%20II/README.md) | Hard |
-| 516 | [3414. Maximum Score of Non-overlapping Intervals](../3001-4000/3401-3500/3414.%20Maximum%20Score%20of%20Non-overlapping%20Intervals/README.md) | Hard |
-| 517 | [3464. Maximize the Distance Between Points on a Square](../3001-4000/3401-3500/3464.%20Maximize%20the%20Distance%20Between%20Points%20on%20a%20Square/README.md) | Hard |
-| 518 | [3534. Path Existence Queries in a Graph II](../3001-4000/3501-3600/3534.%20Path%20Existence%20Queries%20in%20a%20Graph%20II/README.md) | Hard |
-| 519 | [3661. Maximum Walls Destroyed by Robots](../3001-4000/3601-3700/3661.%20Maximum%20Walls%20Destroyed%20by%20Robots/README.md) | Hard |
-| 520 | [3695. Maximize Alternating Sum Using Swaps](../3001-4000/3601-3700/3695.%20Maximize%20Alternating%20Sum%20Using%20Swaps/README.md) | Hard |
-| 521 | [3762. Minimum Operations to Equalize Subarrays](../3001-4000/3701-3800/3762.%20Minimum%20Operations%20to%20Equalize%20Subarrays/README.md) | Hard |
-| 522 | [3806. Maximum Bitwise AND After Increment Operations](../3001-4000/3801-3900/3806.%20Maximum%20Bitwise%20AND%20After%20Increment%20Operations/README.md) | Hard |
-| 523 | [3812. Minimum Edge Toggles on a Tree](../3001-4000/3801-3900/3812.%20Minimum%20Edge%20Toggles%20on%20a%20Tree/README.md) | Hard |
-| 524 | [3886. Sum of Sortable Integers](../3001-4000/3801-3900/3886.%20Sum%20of%20Sortable%20Integers/README.md) | Hard |
-| 525 | [3897. Maximum Value of Concatenated Binary Segments](../3001-4000/3801-3900/3897.%20Maximum%20Value%20of%20Concatenated%20Binary%20Segments/README.md) | Hard |
-| 526 | [3920. Maximize Fixed Points After Deletions](../3001-4000/3901-4000/3920.%20Maximize%20Fixed%20Points%20After%20Deletions/README.md) | Hard |
-| 527 | [3930. Power Update After K-th Largest Insertion II](../3001-4000/3901-4000/3930.%20Power%20Update%20After%20K-th%20Largest%20Insertion%20II/README.md) | Hard (Premium) |
+| 403 | [3961. Maximize Sum of Device Ratings](../3001-4000/3901-4000/3961.%20Maximize%20Sum%20of%20Device%20Ratings/README.md) | Medium |
+| 404 | [3962. Maximum Subarray Sum After at Most K Swaps](../3001-4000/3901-4000/3962.%20Maximum%20Subarray%20Sum%20After%20at%20Most%20K%20Swaps/README.md) | Hard |
+| 405 | [3974. Maximum Total Sum of K Selected Elements](../3001-4000/3901-4000/3974.%20Maximum%20Total%20Sum%20of%20K%20Selected%20Elements/README.md) | Medium |
+| 406 | [3975. Filter Occupied Intervals](../3001-4000/3901-4000/3975.%20Filter%20Occupied%20Intervals/README.md) | Medium |
+| 407 | [218. The Skyline Problem](../1-1000/201-300/218.%20The%20Skyline%20Problem/README.md) | Hard |
+| 408 | [220. Contains Duplicate III](../1-1000/201-300/220.%20Contains%20Duplicate%20III/README.md) | Hard |
+| 409 | [295. Find Median from Data Stream](../1-1000/201-300/295.%20Find%20Median%20from%20Data%20Stream/README.md) | Hard |
+| 410 | [296. Best Meeting Point](../1-1000/201-300/296.%20Best%20Meeting%20Point/README.md) | Hard (Premium) |
+| 411 | [332. Reconstruct Itinerary](../1-1000/301-400/332.%20Reconstruct%20Itinerary/README.md) | Hard |
+| 412 | [354. Russian Doll Envelopes](../1-1000/301-400/354.%20Russian%20Doll%20Envelopes/README.md) | Hard |
+| 413 | [358. Rearrange String k Distance Apart](../1-1000/301-400/358.%20Rearrange%20String%20k%20Distance%20Apart/README.md) | Hard (Premium) |
+| 414 | [472. Concatenated Words](../1-1000/401-500/472.%20Concatenated%20Words/README.md) | Hard |
+| 415 | [502. IPO](../1-1000/501-600/502.%20IPO/README.md) | Hard |
+| 416 | [527. Word Abbreviation](../1-1000/501-600/527.%20Word%20Abbreviation/README.md) | Hard (Premium) |
+| 417 | [588. Design In-Memory File System](../1-1000/501-600/588.%20Design%20In-Memory%20File%20System/README.md) | Hard (Premium) |
+| 418 | [630. Course Schedule III](../1-1000/601-700/630.%20Course%20Schedule%20III/README.md) | Hard |
+| 419 | [632. Smallest Range Covering Elements from K Lists](../1-1000/601-700/632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists/README.md) | Hard |
+| 420 | [642. Design Search Autocomplete System](../1-1000/601-700/642.%20Design%20Search%20Autocomplete%20System/README.md) | Hard (Premium) |
+| 421 | [710. Random Pick with Blacklist](../1-1000/701-800/710.%20Random%20Pick%20with%20Blacklist/README.md) | Hard |
+| 422 | [711. Number of Distinct Islands II](../1-1000/701-800/711.%20Number%20of%20Distinct%20Islands%20II/README.md) | Hard (Premium) |
+| 423 | [719. Find K-th Smallest Pair Distance](../1-1000/701-800/719.%20Find%20K-th%20Smallest%20Pair%20Distance/README.md) | Hard |
+| 424 | [726. Number of Atoms](../1-1000/701-800/726.%20Number%20of%20Atoms/README.md) | Hard |
+| 425 | [757. Set Intersection Size At Least Two](../1-1000/701-800/757.%20Set%20Intersection%20Size%20At%20Least%20Two/README.md) | Hard |
+| 426 | [759. Employee Free Time](../1-1000/701-800/759.%20Employee%20Free%20Time/README.md) | Hard (Premium) |
+| 427 | [761. Special Binary String](../1-1000/701-800/761.%20Special%20Binary%20String/README.md) | Hard |
+| 428 | [768. Max Chunks To Make Sorted II](../1-1000/701-800/768.%20Max%20Chunks%20To%20Make%20Sorted%20II/README.md) | Hard |
+| 429 | [857. Minimum Cost to Hire K Workers](../1-1000/801-900/857.%20Minimum%20Cost%20to%20Hire%20K%20Workers/README.md) | Hard |
+| 430 | [891. Sum of Subsequence Widths](../1-1000/801-900/891.%20Sum%20of%20Subsequence%20Widths/README.md) | Hard |
+| 431 | [899. Orderly Queue](../1-1000/801-900/899.%20Orderly%20Queue/README.md) | Hard |
+| 432 | [975. Odd Even Jump](../1-1000/901-1000/975.%20Odd%20Even%20Jump/README.md) | Hard |
+| 433 | [987. Vertical Order Traversal of a Binary Tree](../1-1000/901-1000/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree/README.md) | Hard |
+| 434 | [1096. Brace Expansion II](../1001-2000/1001-1100/1096.%20Brace%20Expansion%20II/README.md) | Hard |
+| 435 | [1183. Maximum Number of Ones](../1001-2000/1101-1200/1183.%20Maximum%20Number%20of%20Ones/README.md) | Hard (Premium) |
+| 436 | [1187. Make Array Strictly Increasing](../1001-2000/1101-1200/1187.%20Make%20Array%20Strictly%20Increasing/README.md) | Hard |
+| 437 | [1235. Maximum Profit in Job Scheduling](../1001-2000/1201-1300/1235.%20Maximum%20Profit%20in%20Job%20Scheduling/README.md) | Hard |
+| 438 | [1340. Jump Game V](../1001-2000/1301-1400/1340.%20Jump%20Game%20V/README.md) | Hard |
+| 439 | [1363. Largest Multiple of Three](../1001-2000/1301-1400/1363.%20Largest%20Multiple%20of%20Three/README.md) | Hard |
+| 440 | [1383. Maximum Performance of a Team](../1001-2000/1301-1400/1383.%20Maximum%20Performance%20of%20a%20Team/README.md) | Hard |
+| 441 | [1402. Reducing Dishes](../1001-2000/1401-1500/1402.%20Reducing%20Dishes/README.md) | Hard |
+| 442 | [1478. Allocate Mailboxes](../1001-2000/1401-1500/1478.%20Allocate%20Mailboxes/README.md) | Hard |
+| 443 | [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](../1001-2000/1401-1500/1489.%20Find%20Critical%20and%20Pseudo-Critical%20Edges%20in%20Minimum%20Spanning%20Tree/README.md) | Hard |
+| 444 | [1520. Maximum Number of Non-Overlapping Substrings](../1001-2000/1501-1600/1520.%20Maximum%20Number%20of%20Non-Overlapping%20Substrings/README.md) | Hard |
+| 445 | [1547. Minimum Cost to Cut a Stick](../1001-2000/1501-1600/1547.%20Minimum%20Cost%20to%20Cut%20a%20Stick/README.md) | Hard |
+| 446 | [1585. Check If String Is Transformable With Substring Sort Operations](../1001-2000/1501-1600/1585.%20Check%20If%20String%20Is%20Transformable%20With%20Substring%20Sort%20Operations/README.md) | Hard |
+| 447 | [1610. Maximum Number of Visible Points](../1001-2000/1601-1700/1610.%20Maximum%20Number%20of%20Visible%20Points/README.md) | Hard |
+| 448 | [1632. Rank Transform of a Matrix](../1001-2000/1601-1700/1632.%20Rank%20Transform%20of%20a%20Matrix/README.md) | Hard |
+| 449 | [1665. Minimum Initial Energy to Finish Tasks](../1001-2000/1601-1700/1665.%20Minimum%20Initial%20Energy%20to%20Finish%20Tasks/README.md) | Hard |
+| 450 | [1691. Maximum Height by Stacking Cuboids](../1001-2000/1601-1700/1691.%20Maximum%20Height%20by%20Stacking%20Cuboids/README.md) | Hard |
+| 451 | [1697. Checking Existence of Edge Length Limited Paths](../1001-2000/1601-1700/1697.%20Checking%20Existence%20of%20Edge%20Length%20Limited%20Paths/README.md) | Hard |
+| 452 | [1724. Checking Existence of Edge Length Limited Paths II](../1001-2000/1701-1800/1724.%20Checking%20Existence%20of%20Edge%20Length%20Limited%20Paths%20II/README.md) | Hard (Premium) |
+| 453 | [1751. Maximum Number of Events That Can Be Attended II](../1001-2000/1701-1800/1751.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended%20II/README.md) | Hard |
+| 454 | [1755. Closest Subsequence Sum](../1001-2000/1701-1800/1755.%20Closest%20Subsequence%20Sum/README.md) | Hard |
+| 455 | [1782. Count Pairs Of Nodes](../1001-2000/1701-1800/1782.%20Count%20Pairs%20Of%20Nodes/README.md) | Hard |
+| 456 | [1840. Maximum Building Height](../1001-2000/1801-1900/1840.%20Maximum%20Building%20Height/README.md) | Hard |
+| 457 | [1847. Closest Room](../1001-2000/1801-1900/1847.%20Closest%20Room/README.md) | Hard |
+| 458 | [1851. Minimum Interval to Include Each Query](../1001-2000/1801-1900/1851.%20Minimum%20Interval%20to%20Include%20Each%20Query/README.md) | Hard |
+| 459 | [1889. Minimum Space Wasted From Packaging](../1001-2000/1801-1900/1889.%20Minimum%20Space%20Wasted%20From%20Packaging/README.md) | Hard |
+| 460 | [1948. Delete Duplicate Folders in System](../1001-2000/1901-2000/1948.%20Delete%20Duplicate%20Folders%20in%20System/README.md) | Hard |
+| 461 | [1982. Find Array Given Subset Sums](../1001-2000/1901-2000/1982.%20Find%20Array%20Given%20Subset%20Sums/README.md) | Hard |
+| 462 | [1998. GCD Sort of an Array](../1001-2000/1901-2000/1998.%20GCD%20Sort%20of%20an%20Array/README.md) | Hard |
+| 463 | [2035. Partition Array Into Two Arrays to Minimize Sum Difference](../2001-3000/2001-2100/2035.%20Partition%20Array%20Into%20Two%20Arrays%20to%20Minimize%20Sum%20Difference/README.md) | Hard |
+| 464 | [2071. Maximum Number of Tasks You Can Assign](../2001-3000/2001-2100/2071.%20Maximum%20Number%20of%20Tasks%20You%20Can%20Assign/README.md) | Hard |
+| 465 | [2092. Find All People With Secret](../2001-3000/2001-2100/2092.%20Find%20All%20People%20With%20Secret/README.md) | Hard |
+| 466 | [2122. Recover the Original Array](../2001-3000/2101-2200/2122.%20Recover%20the%20Original%20Array/README.md) | Hard |
+| 467 | [2136. Earliest Possible Day of Full Bloom](../2001-3000/2101-2200/2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom/README.md) | Hard |
+| 468 | [2141. Maximum Running Time of N Computers](../2001-3000/2101-2200/2141.%20Maximum%20Running%20Time%20of%20N%20Computers/README.md) | Hard |
+| 469 | [2234. Maximum Total Beauty of the Gardens](../2001-3000/2201-2300/2234.%20Maximum%20Total%20Beauty%20of%20the%20Gardens/README.md) | Hard |
+| 470 | [2242. Maximum Score of a Node Sequence](../2001-3000/2201-2300/2242.%20Maximum%20Score%20of%20a%20Node%20Sequence/README.md) | Hard |
+| 471 | [2251. Number of Flowers in Full Bloom](../2001-3000/2201-2300/2251.%20Number%20of%20Flowers%20in%20Full%20Bloom/README.md) | Hard |
+| 472 | [2344. Minimum Deletions to Make Array Divisible](../2001-3000/2301-2400/2344.%20Minimum%20Deletions%20to%20Make%20Array%20Divisible/README.md) | Hard |
+| 473 | [2371. Minimize Maximum Value in a Grid](../2001-3000/2301-2400/2371.%20Minimize%20Maximum%20Value%20in%20a%20Grid/README.md) | Hard (Premium) |
+| 474 | [2386. Find the K-Sum of an Array](../2001-3000/2301-2400/2386.%20Find%20the%20K-Sum%20of%20an%20Array/README.md) | Hard |
+| 475 | [2402. Meeting Rooms III](../2001-3000/2401-2500/2402.%20Meeting%20Rooms%20III/README.md) | Hard |
+| 476 | [2412. Minimum Money Required Before Transactions](../2001-3000/2401-2500/2412.%20Minimum%20Money%20Required%20Before%20Transactions/README.md) | Hard |
+| 477 | [2421. Number of Good Paths](../2001-3000/2401-2500/2421.%20Number%20of%20Good%20Paths/README.md) | Hard |
+| 478 | [2448. Minimum Cost to Make Array Equal](../2001-3000/2401-2500/2448.%20Minimum%20Cost%20to%20Make%20Array%20Equal/README.md) | Hard |
+| 479 | [2449. Minimum Number of Operations to Make Arrays Similar](../2001-3000/2401-2500/2449.%20Minimum%20Number%20of%20Operations%20to%20Make%20Arrays%20Similar/README.md) | Hard |
+| 480 | [2454. Next Greater Element IV](../2001-3000/2401-2500/2454.%20Next%20Greater%20Element%20IV/README.md) | Hard |
+| 481 | [2459. Sort Array by Moving Items to Empty Space](../2001-3000/2401-2500/2459.%20Sort%20Array%20by%20Moving%20Items%20to%20Empty%20Space/README.md) | Hard (Premium) |
+| 482 | [2463. Minimum Total Distance Traveled](../2001-3000/2401-2500/2463.%20Minimum%20Total%20Distance%20Traveled/README.md) | Hard |
+| 483 | [2503. Maximum Number of Points From Grid Queries](../2001-3000/2501-2600/2503.%20Maximum%20Number%20of%20Points%20From%20Grid%20Queries/README.md) | Hard |
+| 484 | [2551. Put Marbles in Bags](../2001-3000/2501-2600/2551.%20Put%20Marbles%20in%20Bags/README.md) | Hard |
+| 485 | [2589. Minimum Time to Complete All Tasks](../2001-3000/2501-2600/2589.%20Minimum%20Time%20to%20Complete%20All%20Tasks/README.md) | Hard |
+| 486 | [2604. Minimum Time to Eat All Grains](../2001-3000/2601-2700/2604.%20Minimum%20Time%20to%20Eat%20All%20Grains/README.md) | Hard (Premium) |
+| 487 | [2613. Beautiful Pairs](../2001-3000/2601-2700/2613.%20Beautiful%20Pairs/README.md) | Hard (Premium) |
+| 488 | [2659. Make Array Empty](../2001-3000/2601-2700/2659.%20Make%20Array%20Empty/README.md) | Hard |
+| 489 | [2681. Power of Heroes](../2001-3000/2601-2700/2681.%20Power%20of%20Heroes/README.md) | Hard |
+| 490 | [2713. Maximum Strictly Increasing Cells in a Matrix](../2001-3000/2701-2800/2713.%20Maximum%20Strictly%20Increasing%20Cells%20in%20a%20Matrix/README.md) | Hard |
+| 491 | [2736. Maximum Sum Queries](../2001-3000/2701-2800/2736.%20Maximum%20Sum%20Queries/README.md) | Hard |
+| 492 | [2751. Robot Collisions](../2001-3000/2701-2800/2751.%20Robot%20Collisions/README.md) | Hard |
+| 493 | [2790. Maximum Number of Groups With Increasing Length](../2001-3000/2701-2800/2790.%20Maximum%20Number%20of%20Groups%20With%20Increasing%20Length/README.md) | Hard |
+| 494 | [2809. Minimum Time to Make Array Sum At Most x](../2001-3000/2801-2900/2809.%20Minimum%20Time%20to%20Make%20Array%20Sum%20At%20Most%20x/README.md) | Hard |
+| 495 | [2813. Maximum Elegance of a K-Length Subsequence](../2001-3000/2801-2900/2813.%20Maximum%20Elegance%20of%20a%20K-Length%20Subsequence/README.md) | Hard |
+| 496 | [2818. Apply Operations to Maximize Score](../2001-3000/2801-2900/2818.%20Apply%20Operations%20to%20Maximize%20Score/README.md) | Hard |
+| 497 | [2819. Minimum Relative Loss After Buying Chocolates](../2001-3000/2801-2900/2819.%20Minimum%20Relative%20Loss%20After%20Buying%20Chocolates/README.md) | Hard (Premium) |
+| 498 | [2842. Count K-Subsequences of a String With Maximum Beauty](../2001-3000/2801-2900/2842.%20Count%20K-Subsequences%20of%20a%20String%20With%20Maximum%20Beauty/README.md) | Hard |
+| 499 | [2931. Maximum Spending After Buying Items](../2001-3000/2901-3000/2931.%20Maximum%20Spending%20After%20Buying%20Items/README.md) | Hard |
+| 500 | [2968. Apply Operations to Maximize Frequency Score](../2001-3000/2901-3000/2968.%20Apply%20Operations%20to%20Maximize%20Frequency%20Score/README.md) | Hard |
+| 501 | [2973. Find Number of Coins to Place in Tree Nodes](../2001-3000/2901-3000/2973.%20Find%20Number%20of%20Coins%20to%20Place%20in%20Tree%20Nodes/README.md) | Hard |
+| 502 | [3009. Maximum Number of Intersections on the Chart](../3001-4000/3001-3100/3009.%20Maximum%20Number%20of%20Intersections%20on%20the%20Chart/README.md) | Hard (Premium) |
+| 503 | [3027. Find the Number of Ways to Place People II](../3001-4000/3001-3100/3027.%20Find%20the%20Number%20of%20Ways%20to%20Place%20People%20II/README.md) | Hard |
+| 504 | [3041. Maximize Consecutive Elements in an Array After Modification](../3001-4000/3001-3100/3041.%20Maximize%20Consecutive%20Elements%20in%20an%20Array%20After%20Modification/README.md) | Hard |
+| 505 | [3068. Find the Maximum Sum of Node Values](../3001-4000/3001-3100/3068.%20Find%20the%20Maximum%20Sum%20of%20Node%20Values/README.md) | Hard |
+| 506 | [3088. Make String Anti-palindrome](../3001-4000/3001-3100/3088.%20Make%20String%20Anti-palindrome/README.md) | Hard (Premium) |
+| 507 | [3098. Find the Sum of Subsequence Powers](../3001-4000/3001-3100/3098.%20Find%20the%20Sum%20of%20Subsequence%20Powers/README.md) | Hard |
+| 508 | [3102. Minimize Manhattan Distances](../3001-4000/3101-3200/3102.%20Minimize%20Manhattan%20Distances/README.md) | Hard |
+| 509 | [3104. Find Longest Self-Contained Substring](../3001-4000/3101-3200/3104.%20Find%20Longest%20Self-Contained%20Substring/README.md) | Hard (Premium) |
+| 510 | [3181. Maximum Total Reward Using Operations II](../3001-4000/3101-3200/3181.%20Maximum%20Total%20Reward%20Using%20Operations%20II/README.md) | Hard |
+| 511 | [3219. Minimum Cost for Cutting Cake II](../3001-4000/3201-3300/3219.%20Minimum%20Cost%20for%20Cutting%20Cake%20II/README.md) | Hard |
+| 512 | [3267. Count Almost Equal Pairs II](../3001-4000/3201-3300/3267.%20Count%20Almost%20Equal%20Pairs%20II/README.md) | Hard |
+| 513 | [3273. Minimum Amount of Damage Dealt to Bob](../3001-4000/3201-3300/3273.%20Minimum%20Amount%20of%20Damage%20Dealt%20to%20Bob/README.md) | Hard |
+| 514 | [3288. Length of the Longest Increasing Path](../3001-4000/3201-3300/3288.%20Length%20of%20the%20Longest%20Increasing%20Path/README.md) | Hard |
+| 515 | [3347. Maximum Frequency of an Element After Performing Operations II](../3001-4000/3301-3400/3347.%20Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20II/README.md) | Hard |
+| 516 | [3367. Maximize Sum of Weights after Edge Removals](../3001-4000/3301-3400/3367.%20Maximize%20Sum%20of%20Weights%20after%20Edge%20Removals/README.md) | Hard |
+| 517 | [3382. Maximum Area Rectangle With Point Constraints II](../3001-4000/3301-3400/3382.%20Maximum%20Area%20Rectangle%20With%20Point%20Constraints%20II/README.md) | Hard |
+| 518 | [3414. Maximum Score of Non-overlapping Intervals](../3001-4000/3401-3500/3414.%20Maximum%20Score%20of%20Non-overlapping%20Intervals/README.md) | Hard |
+| 519 | [3464. Maximize the Distance Between Points on a Square](../3001-4000/3401-3500/3464.%20Maximize%20the%20Distance%20Between%20Points%20on%20a%20Square/README.md) | Hard |
+| 520 | [3534. Path Existence Queries in a Graph II](../3001-4000/3501-3600/3534.%20Path%20Existence%20Queries%20in%20a%20Graph%20II/README.md) | Hard |
+| 521 | [3661. Maximum Walls Destroyed by Robots](../3001-4000/3601-3700/3661.%20Maximum%20Walls%20Destroyed%20by%20Robots/README.md) | Hard |
+| 522 | [3695. Maximize Alternating Sum Using Swaps](../3001-4000/3601-3700/3695.%20Maximize%20Alternating%20Sum%20Using%20Swaps/README.md) | Hard |
+| 523 | [3762. Minimum Operations to Equalize Subarrays](../3001-4000/3701-3800/3762.%20Minimum%20Operations%20to%20Equalize%20Subarrays/README.md) | Hard |
+| 524 | [3806. Maximum Bitwise AND After Increment Operations](../3001-4000/3801-3900/3806.%20Maximum%20Bitwise%20AND%20After%20Increment%20Operations/README.md) | Hard |
+| 525 | [3812. Minimum Edge Toggles on a Tree](../3001-4000/3801-3900/3812.%20Minimum%20Edge%20Toggles%20on%20a%20Tree/README.md) | Hard |
+| 526 | [3886. Sum of Sortable Integers](../3001-4000/3801-3900/3886.%20Sum%20of%20Sortable%20Integers/README.md) | Hard |
+| 527 | [3897. Maximum Value of Concatenated Binary Segments](../3001-4000/3801-3900/3897.%20Maximum%20Value%20of%20Concatenated%20Binary%20Segments/README.md) | Hard |
+| 528 | [3920. Maximize Fixed Points After Deletions](../3001-4000/3901-4000/3920.%20Maximize%20Fixed%20Points%20After%20Deletions/README.md) | Hard |
+| 529 | [3930. Power Update After K-th Largest Insertion II](../3001-4000/3901-4000/3930.%20Power%20Update%20After%20K-th%20Largest%20Insertion%20II/README.md) | Hard (Premium) |

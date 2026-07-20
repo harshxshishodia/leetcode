@@ -63,7 +63,7 @@
 
 <ul>
 	<li><code>1 &lt;= n == technique1.length == technique2.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>1 &lt;= technique1[i], technique2???????[i] &lt;= 10<sup>???????5</sup></code></li>
+	<li><code>1 &lt;= technique1[i], technique2[i] &lt;= 10<sup>5</sup></code></li>
 	<li><code>0 &lt;= k &lt;= n</code></li>
 </ul>
 

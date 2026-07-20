@@ -140,3 +140,5 @@ The first yielded promise immediately rejects. This error is caught. Because the
 ---
 
 **Difficulty:** Hard
+
+**Topics:** JavaScript

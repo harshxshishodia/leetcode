@@ -268,7 +268,7 @@
 <ul>
 	<li>Path: <code>(0,0) &rarr; (0,1) &rarr; (0,2) &rarr; (0,3) &rarr; (1,3) &rarr; (2,3) &rarr; (3,3)</code></li>
 	<li>The sequence of digits visited is <code>[1, 2, 8, 8, 3, 6, 8]</code>.</li>
-	<li>???????As the sequence of digits visited is not non-decreasing, 1288561398769758 is not a good integer.</li>
+	<li>As the sequence of digits visited is not non-decreasing, 1288561398769758 is not a good integer.</li>
 	<li>No numbers are good, giving a total of 0 good integers in the range.</li>
 </ul>
 </div>

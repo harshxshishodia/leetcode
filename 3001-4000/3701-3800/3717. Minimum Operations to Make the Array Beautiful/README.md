@@ -50,7 +50,7 @@
 
 <ul>
 	<li><code>1 &lt;= nums.length &lt;= 100</code></li>
-	<li><code>1 &lt;= nums[i] &lt;= 50???</code></li>
+	<li><code>1 &lt;= nums[i] &lt;= 50</code></li>
 </ul>
 
 ---

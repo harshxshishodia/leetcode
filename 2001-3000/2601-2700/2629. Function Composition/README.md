@@ -55,3 +55,5 @@ The composition of zero functions is the identity function</pre>
 ---
 
 **Difficulty:** Easy
+
+**Topics:** JavaScript

@@ -149,3 +149,5 @@ The <em>polarization score</em> should be rounded to 2 decimal places.</p>
 ---
 
 **Difficulty:** Medium
+
+**Topics:** Database

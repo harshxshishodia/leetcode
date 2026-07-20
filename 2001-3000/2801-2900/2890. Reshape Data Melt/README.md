@@ -49,3 +49,5 @@ The DataFrame is reshaped from wide to long format. Each row represents the sale
 ---
 
 **Difficulty:** Easy
+
+**Topics:** Database, Pandas, DataFrame

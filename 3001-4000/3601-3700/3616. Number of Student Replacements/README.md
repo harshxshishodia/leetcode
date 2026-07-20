@@ -46,7 +46,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= ranks.length &lt;= 10<sup>5</sup>???????</code></li>
+	<li><code>1 &lt;= ranks.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>1 &lt;= ranks[i] &lt;= 10<sup>5</sup></code></li>
 </ul>
 

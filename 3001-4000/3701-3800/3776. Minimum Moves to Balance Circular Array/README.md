@@ -50,7 +50,7 @@
 	<li>Move 1 unit from <code>i = 1</code> to <code>i = 2</code>, resulting in <code>balance = [0, 0, 0, 0]</code></li>
 </ul>
 
-<p>Thus, the minimum number of moves required is 6.???</p>
+<p>Thus, the minimum number of moves required is 6.</p>
 </div>
 
 <p><strong class="example">Example 3:</strong></p>
@@ -62,7 +62,7 @@
 
 <p><strong>Explanation:</strong></p>
 
-<p><strong>???????</strong>It is impossible to make all balances non-negative for <code>balance = [-3, 2]</code>, so the answer is -1.</p>
+<p><strong></strong>It is impossible to make all balances non-negative for <code>balance = [-3, 2]</code>, so the answer is -1.</p>
 </div>
 
 <p>&nbsp;</p>

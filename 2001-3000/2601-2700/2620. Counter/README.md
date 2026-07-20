@@ -39,3 +39,5 @@ n = -2
 ---
 
 **Difficulty:** Easy
+
+**Topics:** JavaScript

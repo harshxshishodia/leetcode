@@ -17,7 +17,7 @@
 <p><strong>Explanation:</strong></p>
 
 <p>The elements 1 and 2 each have at least <code>k = 1</code> element greater than themselves.<br />
-???????No element is greater than 3. Therefore, the answer is 2.</p>
+No element is greater than 3. Therefore, the answer is 2.</p>
 </div>
 
 <p><strong class="example">Example 2:</strong></p>

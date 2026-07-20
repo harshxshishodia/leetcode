@@ -56,3 +56,5 @@
 ---
 
 **Difficulty:** Hard
+
+**Topics:** Math, Dynamic Programming, Digit DP

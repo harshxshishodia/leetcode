@@ -50,3 +50,5 @@ counter.reset(); // 0
 ---
 
 **Difficulty:** Easy
+
+**Topics:** JavaScript

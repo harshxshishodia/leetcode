@@ -13,3 +13,4 @@
 | 9 | [3189. Minimum Moves to Get a Peaceful Board](../3001-4000/3101-3200/3189.%20Minimum%20Moves%20to%20Get%20a%20Peaceful%20Board/README.md) | Medium (Premium) |
 | 10 | [3517. Smallest Palindromic Rearrangement I](../3001-4000/3501-3600/3517.%20Smallest%20Palindromic%20Rearrangement%20I/README.md) | Medium |
 | 11 | [3088. Make String Anti-palindrome](../3001-4000/3001-3100/3088.%20Make%20String%20Anti-palindrome/README.md) | Hard (Premium) |
+| 12 | [3992. Rearrange String to Avoid Character Pair](../3001-4000/3901-4000/3992.%20Rearrange%20String%20to%20Avoid%20Character%20Pair/README.md) | Easy |

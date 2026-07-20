@@ -26,7 +26,7 @@
 
 <ul>
 	<li>Alice removes <code>[1]</code>, array becomes <code>[5, 2]</code>.</li>
-	<li>Bob removes <code>[5]</code>, array becomes <code>[2]</code>???????. Thus, the answer is 2.</li>
+	<li>Bob removes <code>[5]</code>, array becomes <code>[2]</code>. Thus, the answer is 2.</li>
 </ul>
 </div>
 

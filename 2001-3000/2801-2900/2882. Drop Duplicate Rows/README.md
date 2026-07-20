@@ -49,3 +49,5 @@ Alic (customer_id = 4) and Finn (customer_id = 5) both use john@example.com, so 
 ---
 
 **Difficulty:** Easy
+
+**Topics:** Database, Pandas, DataFrame

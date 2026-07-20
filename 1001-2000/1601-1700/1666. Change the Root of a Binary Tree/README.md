@@ -2,7 +2,7 @@
 
 <p>Given the <code>root</code> of a binary tree and a <code>leaf</code> node, reroot the tree so that the <code>leaf</code> is the new root.</p>
 
-<p>You can reroot the tree with the following steps for each node <code>cur</code> on the path <strong>starting from the </strong><code>leaf</code> up to the <code>root</code>??? <strong>excluding the root</strong>:</p>
+<p>You can reroot the tree with the following steps for each node <code>cur</code> on the path <strong>starting from the </strong><code>leaf</code> up to the <code>root</code> <strong>excluding the root</strong>:</p>
 
 <ol>
 	<li>If <code>cur</code> has a left child, then that child becomes <code>cur</code>&#39;s right child.</li>

@@ -41,7 +41,7 @@
 
 <p><strong>Output:</strong> <span>11</span></p>
 
-<p><strong>Explanation:???????</strong></p>
+<p><strong>Explanation:</strong></p>
 
 <p>We split the points into two groups: <code>{[0, 1], [10, 0]}</code> and <code>{[0, 0]}</code>.</p>
 

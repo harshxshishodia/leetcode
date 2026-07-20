@@ -71,3 +71,5 @@
 ---
 
 **Difficulty:** Medium
+
+**Topics:** Graph, Shortest Path, Dijkstra

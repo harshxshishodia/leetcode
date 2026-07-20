@@ -34,7 +34,7 @@
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">str1 = &quot;AAAAAB&quot;, str2 = &quot;AAA&quot;</span></p>
 
-<p><strong>Output:</strong> <span class="example-io">&quot;&quot;</span>???????</p>
+<p><strong>Output:</strong> <span class="example-io">&quot;&quot;</span></p>
 </div>
 
 <p>&nbsp;</p>

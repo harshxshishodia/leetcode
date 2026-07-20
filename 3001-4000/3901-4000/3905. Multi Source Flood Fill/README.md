@@ -2,7 +2,7 @@
 
 <p>You are given two integers <code>n</code> and <code>m</code> representing the number of rows and columns of a grid, respectively.</p>
 
-<p>You are also given a 2D integer array <code>sources</code>, where <code>sources[i] = [r<sub>i</sub>, c<sub>i</sub>, color<sub>???????i</sub>]</code> indicates that the cell <code>(r<sub>i</sub>, c<sub>i</sub>)</code> is initially colored with <code>color<sub>i</sub></code>. All other cells are initially uncolored and represented as 0.</p>
+<p>You are also given a 2D integer array <code>sources</code>, where <code>sources[i] = [r<sub>i</sub>, c<sub>i</sub>, color<sub>i</sub>]</code> indicates that the cell <code>(r<sub>i</sub>, c<sub>i</sub>)</code> is initially colored with <code>color<sub>i</sub></code>. All other cells are initially uncolored and represented as 0.</p>
 
 <p>At each time step, every currently colored cell spreads its color to all adjacent <strong>uncolored</strong> cells in the four directions: up, down, left, and right. All spreads happen simultaneously.</p>
 
@@ -24,7 +24,7 @@
 
 <p>The grid at each time step is as follows:</p>
 
-<p><img alt="" src="../../../images/3905-g50new.png" style="width: 500px; height: 174px;" />???????</p>
+<p><img alt="" src="../../../images/3905-g50new.png" style="width: 500px; height: 174px;" /></p>
 
 <p>At time step 2, cells <code>(0, 2)</code>, <code>(1, 1)</code>, and <code>(2, 0)</code> are reached by both colors, so they are assigned color 2 as it has the maximum value among them.</p>
 </div>
@@ -54,7 +54,7 @@
 
 <p>The grid at each time step is as follows:</p>
 
-<p><img alt="" src="../../../images/3905-g52new.png" style="width: 500px; height: 150px;" />???????</p>
+<p><img alt="" src="../../../images/3905-g52new.png" style="width: 500px; height: 150px;" /></p>
 
 <p>Since there is only one source, all cells are assigned the same color.</p>
 </div>
@@ -69,8 +69,8 @@
 	<li><code>sources[i] = [r<sub>i</sub>, c<sub>i</sub>, color<sub>i</sub>]</code></li>
 	<li><code>0 &lt;= r<sub>i</sub> &lt;= n - 1</code></li>
 	<li><code>0 &lt;= c<sub>i</sub> &lt;= m - 1</code></li>
-	<li><code>1 &lt;= color<sub>i</sub> &lt;= 10<sup>6</sup>???????</code></li>
-	<li>All <code>(r<sub>i</sub>, c<sub>i</sub>???????)</code> in <code>sources</code> are distinct.</li>
+	<li><code>1 &lt;= color<sub>i</sub> &lt;= 10<sup>6</sup></code></li>
+	<li>All <code>(r<sub>i</sub>, c<sub>i</sub>)</code> in <code>sources</code> are distinct.</li>
 </ul>
 
 

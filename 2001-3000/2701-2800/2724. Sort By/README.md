@@ -42,3 +42,5 @@
 ---
 
 **Difficulty:** Easy
+
+**Topics:** JavaScript

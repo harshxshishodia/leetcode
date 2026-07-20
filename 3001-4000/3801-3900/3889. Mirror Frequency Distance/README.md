@@ -130,7 +130,7 @@
 	</tbody>
 </table>
 
-<p>Thus, the answer is <code>1 + 0 + 1 = 2</code>.???????</p>
+<p>Thus, the answer is <code>1 + 0 + 1 = 2</code>.</p>
 </div>
 
 <p><strong class="example">Example 3:</strong></p>

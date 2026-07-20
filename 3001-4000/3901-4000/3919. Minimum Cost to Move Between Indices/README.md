@@ -27,7 +27,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">[6,2,5]</span></p>
 
-<p><strong>Explanation:</strong>????????????????????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>The closest indices are <code>[1, 0, 1]</code> respectively.</li>
@@ -66,7 +66,7 @@
 	<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 	<li><code>nums</code> is strictly increasing</li>
 	<li><code>1 &lt;= queries.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>queries[i] = [l<sub>i</sub>, r<sub>i</sub>]</code>???????</li>
+	<li><code>queries[i] = [l<sub>i</sub>, r<sub>i</sub>]</code></li>
 	<li><code>0 &lt;= l<sub>i</sub>, r<sub>i</sub> &lt; nums.length</code></li>
 </ul>
 

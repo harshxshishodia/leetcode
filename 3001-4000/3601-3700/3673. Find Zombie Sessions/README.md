@@ -132,3 +132,5 @@ event_value represents: for purchase - amount in dollars, for scroll - pixels sc
 ---
 
 **Difficulty:** Hard
+
+**Topics:** Database

@@ -65,3 +65,5 @@ At t=250, count() returns 0 because the cache is empty.
 ---
 
 **Difficulty:** Medium
+
+**Topics:** JavaScript

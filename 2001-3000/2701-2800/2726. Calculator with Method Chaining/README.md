@@ -68,3 +68,5 @@ The error should be thrown because we cannot divide by zero.
 ---
 
 **Difficulty:** Easy
+
+**Topics:** JavaScript

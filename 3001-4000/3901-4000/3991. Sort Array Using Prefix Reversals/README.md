@@ -59,10 +59,12 @@
 	<li><code>0 &lt;= nums[i] &lt;= n - 1</code></li>
 	<li><code>1 &lt;= pre.length &lt;= n</code></li>
 	<li><code>1 &lt;= pre[i] &lt;= n</code></li>
-	<li><code>???????nums</code> is a permutation of integers from 0 to <code>n - 1</code>.</li>
+	<li><code>nums</code> is a permutation of integers from 0 to <code>n - 1</code>.</li>
 	<li><code>pre</code> consists of <strong>unique</strong> integers.</li>
 </ul>
 
 ---
 
 **Difficulty:** Medium
+
+**Topics:** Array, Breadth-First Search, Graph

@@ -70,7 +70,7 @@
 <ul>
 	<li><code>selectedValue = 2</code></li>
 	<li><code>modificationCost = 1</code></li>
-	<li>The score is ???????<code>2 - 1 = 1</code></li>
+	<li>The score is <code>2 - 1 = 1</code></li>
 </ul>
 </div>
 
@@ -80,7 +80,7 @@
 <ul>
 	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
-	<li><code>1 &lt;= maxVal &lt;= 10<sup>???????5</sup></code></li>
+	<li><code>1 &lt;= maxVal &lt;= 10<sup>5</sup></code></li>
 </ul>
 
 

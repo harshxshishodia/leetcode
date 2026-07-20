@@ -106,3 +106,5 @@ Cancelled at 180ms
 ---
 
 **Difficulty:** Easy
+
+**Topics:** JavaScript

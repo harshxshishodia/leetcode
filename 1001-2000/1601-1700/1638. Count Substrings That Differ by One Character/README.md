@@ -32,7 +32,7 @@ The underlined portions are the substrings that are chosen from s and t.
 (&quot;<u>a</u>b&quot;, &quot;<u>b</u>b&quot;)
 (&quot;<u>a</u>b&quot;, &quot;b<u>b</u>&quot;)
 (&quot;<u>ab</u>&quot;, &quot;<u>bb</u>&quot;)
-????The underlined portions are the substrings that are chosen from s and t.
+The underlined portions are the substrings that are chosen from s and t.
 </pre>
 
 <p>&nbsp;</p>

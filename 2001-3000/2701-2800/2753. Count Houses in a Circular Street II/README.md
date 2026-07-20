@@ -47,3 +47,5 @@ The number of houses is equal to k, which is 5.
 ---
 
 **Difficulty:** Hard
+
+**Topics:** JavaScript

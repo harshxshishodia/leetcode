@@ -88,3 +88,5 @@
 ---
 
 **Difficulty:** Medium
+
+**Topics:** Array, Math, Enumeration

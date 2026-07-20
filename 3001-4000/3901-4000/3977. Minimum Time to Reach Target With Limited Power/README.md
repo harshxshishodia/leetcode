@@ -67,7 +67,7 @@
 
 <p><strong class="example">Example 3:</strong></p>
 
-<p><img alt="" src="../../../images/3977-g23.png" style="height: 120px; width: 171px;" />???????</p>
+<p><img alt="" src="../../../images/3977-g23.png" style="height: 120px; width: 171px;" /></p>
 
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">n = 4, edges = [[0,1,3],[2,3,4]], power = 3, cost = [1,1,1,1], source = 0, target = 3</span></p>

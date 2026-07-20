@@ -31,7 +31,7 @@
 	<li>The entire string <code>s = &quot;1010&quot;</code> has length 4 and contains 2 sensitive elements, giving a cost of <code>4 * 2 * 2 = 16</code>.</li>
 	<li>Since the length is even, it can be split into <code>&quot;10&quot;</code> and <code>&quot;10&quot;</code>. Each segment has length 2 and contains 1 sensitive element, so each costs <code>2 * 1 * 2 = 4</code>, giving a total of 8.</li>
 	<li>Splitting both segments into four single-character segments yields the segments <code>&quot;1&quot;</code>, <code>&quot;0&quot;</code>, <code>&quot;1&quot;</code>, and <code>&quot;0&quot;</code>. A segment containing <code>&quot;1&quot;</code> has length 1 and exactly one sensitive element, giving a cost of <code>1 * 1 * 2 = 2</code>, while a segment containing <code>&quot;0&quot;</code> has no sensitive elements and therefore costs <code>flatCost = 1</code>.</li>
-	<li>???????The total cost is thus <code>2 + 1 + 2 + 1 = 6</code>, which is the minimum possible total cost.</li>
+	<li>The total cost is thus <code>2 + 1 + 2 + 1 = 6</code>, which is the minimum possible total cost.</li>
 </ul>
 </div>
 

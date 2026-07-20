@@ -36,3 +36,5 @@ Three values were passed to the function so it should return 3.
 ---
 
 **Difficulty:** Easy
+
+**Topics:** JavaScript

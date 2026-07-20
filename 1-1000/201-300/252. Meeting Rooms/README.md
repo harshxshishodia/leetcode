@@ -4,7 +4,7 @@
 
 <p>A person can attend all meetings if no two meeting intervals overlap. Meetings ending at time <code>t</code> and starting at time <code>t</code> <strong>do not</strong> overlap.</p>
 
-<p>???????Return <code>true</code> if a person can attend all meetings. Otherwise, return <code>false</code>.</p>
+<p>Return <code>true</code> if a person can attend all meetings. Otherwise, return <code>false</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>

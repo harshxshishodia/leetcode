@@ -16,7 +16,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">&quot;cat dna mice&quot;</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>The first word <code>&quot;cat&quot;</code> has 1 vowel.</li>

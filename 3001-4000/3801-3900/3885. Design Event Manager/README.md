@@ -5,7 +5,7 @@
 <p>Implement the <code>EventManager</code> class:</p>
 
 <ul>
-	<li><code>EventManager(int[][] events)</code> Initializes the manager with the given events, where <code>events[i] = [eventId<sub>i</sub>, priority<sub>???????i</sub>]</code>.</li>
+	<li><code>EventManager(int[][] events)</code> Initializes the manager with the given events, where <code>events[i] = [eventId<sub>i</sub>, priority<sub>i</sub>]</code>.</li>
 	<li><code>void updatePriority(int eventId, int newPriority)</code> Updates the priority of the <strong>active</strong> event with id <code>eventId</code> to <code>newPriority</code>.</li>
 	<li><code>int pollHighest()</code> Removes and returns the <code>eventId</code> of the <strong>active</strong> event with the <strong>highest</strong> priority. If multiple active events have the same priority, return the <strong>smallest</strong> <code>eventId</code> among them. If there are no active events, return -1.</li>
 </ul>

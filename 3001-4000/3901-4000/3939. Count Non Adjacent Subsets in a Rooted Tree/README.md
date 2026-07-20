@@ -28,7 +28,7 @@
 
 <p><strong>Explanation:</strong></p>
 
-<p><strong><img alt="" src="../../../images/3939-image1.png" style="width: 230px; height: 75px;" />???????</strong></p>
+<p><strong><img alt="" src="../../../images/3939-image1.png" style="width: 230px; height: 75px;" /></strong></p>
 
 <p>The only valid subset is <code>{2}</code>. It contains node 2 with value 3, which is divisible by 3.</p>
 </div>
@@ -42,7 +42,7 @@
 
 <p><strong>Explanation:</strong></p>
 
-<p><strong><img alt="" src="../../../images/3939-image2.png" style="width: 250px; height: 180px;" />???????</strong>???????</p>
+<p><strong><img alt="" src="../../../images/3939-image2.png" style="width: 250px; height: 180px;" /></strong></p>
 
 <p>The valid subsets are:</p>
 
@@ -67,7 +67,7 @@
 	</ul>
 	</li>
 	<li data-end="174" data-start="150"><code data-end="172" data-start="150">1 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
-	<li data-end="195" data-start="177"><code data-end="193" data-start="177">1 &lt;= k &lt;= 100</code>??????????????<code data-end="193" data-start="177">???????</code></li>
+	<li data-end="195" data-start="177"><code data-end="193" data-start="177">1 &lt;= k &lt;= 100</code><code data-end="193" data-start="177"></code></li>
 	<li data-end="195" data-start="177"><code data-end="206" data-start="198">parent</code> describes a valid rooted tree.</li>
 </ul>
 

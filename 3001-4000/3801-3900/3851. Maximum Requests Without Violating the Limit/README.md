@@ -8,7 +8,7 @@
 
 <p>You may drop any number of requests.</p>
 
-<p>Return an integer denoting the <strong>maximum</strong>??????? number of requests that can <strong>remain</strong> such that no user violates the limit.</p>
+<p>Return an integer denoting the <strong>maximum</strong> number of requests that can <strong>remain</strong> such that no user violates the limit.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
@@ -18,7 +18,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">4</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>For user 1, the request times are <code>[1, 7]</code>. The difference between them is 6, which is greater than <code>window = 4</code>.</li>
@@ -34,7 +34,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">2</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>For user 1, the request times are <code>[2, 2, 5, 6]</code>. The inclusive interval <code>[2, 7]</code> of length <code>window = 5</code> contains all 4 requests.</li>

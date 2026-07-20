@@ -261,3 +261,4 @@
 | 257 | [3710. Maximum Partition Factor](../3001-4000/3701-3800/3710.%20Maximum%20Partition%20Factor/README.md) | Hard |
 | 258 | [3910. Count Connected Subgraphs with Even Node Sum](../3001-4000/3901-4000/3910.%20Count%20Connected%20Subgraphs%20with%20Even%20Node%20Sum/README.md) | Hard |
 | 259 | [3924. Minimum Threshold Path With Limited Heavy Edges](../3001-4000/3901-4000/3924.%20Minimum%20Threshold%20Path%20With%20Limited%20Heavy%20Edges/README.md) | Hard |
+| 260 | [3991. Sort Array Using Prefix Reversals](../3001-4000/3901-4000/3991.%20Sort%20Array%20Using%20Prefix%20Reversals/README.md) | Medium |

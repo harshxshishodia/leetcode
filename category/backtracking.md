@@ -116,3 +116,4 @@
 | 112 | [2151. Maximum Good People Based on Statements](../2001-3000/2101-2200/2151.%20Maximum%20Good%20People%20Based%20on%20Statements/README.md) | Hard |
 | 113 | [3348. Smallest Divisible Digit Product II](../3001-4000/3301-3400/3348.%20Smallest%20Divisible%20Digit%20Product%20II/README.md) | Hard |
 | 114 | [3646. Next Special Palindrome Number](../3001-4000/3601-3700/3646.%20Next%20Special%20Palindrome%20Number/README.md) | Hard |
+| 115 | [3988. Create Grid With Exactly K Paths I](../3001-4000/3901-4000/3988.%20Create%20Grid%20With%20Exactly%20K%20Paths%20I/README.md) | Medium |

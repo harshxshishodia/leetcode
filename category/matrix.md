@@ -279,3 +279,6 @@
 | 275 | [3725. Count Ways to Choose Coprime Integers from Rows](../3001-4000/3701-3800/3725.%20Count%20Ways%20to%20Choose%20Coprime%20Integers%20from%20Rows/README.md) | Hard |
 | 276 | [3797. Count Routes to Climb a Rectangular Grid](../3001-4000/3701-3800/3797.%20Count%20Routes%20to%20Climb%20a%20Rectangular%20Grid/README.md) | Hard |
 | 277 | [3888. Minimum Operations to Make All Grid Elements Equal](../3001-4000/3801-3900/3888.%20Minimum%20Operations%20to%20Make%20All%20Grid%20Elements%20Equal/README.md) | Hard (Premium) |
+| 278 | [3963. Create Grid With Exactly One Path](../3001-4000/3901-4000/3963.%20Create%20Grid%20With%20Exactly%20One%20Path/README.md) | Easy |
+| 279 | [3988. Create Grid With Exactly K Paths I](../3001-4000/3901-4000/3988.%20Create%20Grid%20With%20Exactly%20K%20Paths%20I/README.md) | Medium |
+| 280 | [3990. Create Grid With Exactly K Paths II](../3001-4000/3901-4000/3990.%20Create%20Grid%20With%20Exactly%20K%20Paths%20II/README.md) | Hard |

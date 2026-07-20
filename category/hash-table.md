@@ -664,165 +664,167 @@
 | 660 | [3927. Minimize Array Sum Using Divisible Replacements](../3001-4000/3901-4000/3927.%20Minimize%20Array%20Sum%20Using%20Divisible%20Replacements/README.md) | Medium |
 | 661 | [3935. Power Update After K-th Largest Insertion I](../3001-4000/3901-4000/3935.%20Power%20Update%20After%20K-th%20Largest%20Insertion%20I/README.md) | Medium (Premium) |
 | 662 | [3941. Password Strength](../3001-4000/3901-4000/3941.%20Password%20Strength/README.md) | Medium |
-| 663 | [3969. Valid Subarrays With Matching Sum Digits I](../3001-4000/3901-4000/3969.%20Valid%20Subarrays%20With%20Matching%20Sum%20Digits%20I/README.md) | Medium |
-| 664 | [30. Substring with Concatenation of All Words](../1-1000/1-100/30.%20Substring%20with%20Concatenation%20of%20All%20Words/README.md) | Hard |
-| 665 | [37. Sudoku Solver](../1-1000/1-100/37.%20Sudoku%20Solver/README.md) | Hard |
-| 666 | [41. First Missing Positive](../1-1000/1-100/41.%20First%20Missing%20Positive/README.md) | Hard |
-| 667 | [76. Minimum Window Substring](../1-1000/1-100/76.%20Minimum%20Window%20Substring/README.md) | Hard |
-| 668 | [126. Word Ladder II](../1-1000/101-200/126.%20Word%20Ladder%20II/README.md) | Hard |
-| 669 | [127. Word Ladder](../1-1000/101-200/127.%20Word%20Ladder/README.md) | Hard |
-| 670 | [140. Word Break II](../1-1000/101-200/140.%20Word%20Break%20II/README.md) | Hard |
-| 671 | [149. Max Points on a Line](../1-1000/101-200/149.%20Max%20Points%20on%20a%20Line/README.md) | Hard |
-| 672 | [305. Number of Islands II](../1-1000/301-400/305.%20Number%20of%20Islands%20II/README.md) | Hard (Premium) |
-| 673 | [336. Palindrome Pairs](../1-1000/301-400/336.%20Palindrome%20Pairs/README.md) | Hard |
-| 674 | [352. Data Stream as Disjoint Intervals](../1-1000/301-400/352.%20Data%20Stream%20as%20Disjoint%20Intervals/README.md) | Hard |
-| 675 | [358. Rearrange String k Distance Apart](../1-1000/301-400/358.%20Rearrange%20String%20k%20Distance%20Apart/README.md) | Hard (Premium) |
-| 676 | [381. Insert Delete GetRandom O(1) - Duplicates allowed](../1-1000/301-400/381.%20Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/README.md) | Hard |
-| 677 | [391. Perfect Rectangle](../1-1000/301-400/391.%20Perfect%20Rectangle/README.md) | Hard |
-| 678 | [432. All O`one Data Structure](../1-1000/401-500/432.%20All%20O`one%20Data%20Structure/README.md) | Hard |
-| 679 | [460. LFU Cache](../1-1000/401-500/460.%20LFU%20Cache/README.md) | Hard |
-| 680 | [480. Sliding Window Median](../1-1000/401-500/480.%20Sliding%20Window%20Median/README.md) | Hard |
-| 681 | [548. Split Array with Equal Sum](../1-1000/501-600/548.%20Split%20Array%20with%20Equal%20Sum/README.md) | Hard (Premium) |
-| 682 | [588. Design In-Memory File System](../1-1000/501-600/588.%20Design%20In-Memory%20File%20System/README.md) | Hard (Premium) |
-| 683 | [631. Design Excel Sum Formula](../1-1000/601-700/631.%20Design%20Excel%20Sum%20Formula/README.md) | Hard (Premium) |
-| 684 | [632. Smallest Range Covering Elements from K Lists](../1-1000/601-700/632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists/README.md) | Hard |
-| 685 | [691. Stickers to Spell Word](../1-1000/601-700/691.%20Stickers%20to%20Spell%20Word/README.md) | Hard |
-| 686 | [710. Random Pick with Blacklist](../1-1000/701-800/710.%20Random%20Pick%20with%20Blacklist/README.md) | Hard |
-| 687 | [711. Number of Distinct Islands II](../1-1000/701-800/711.%20Number%20of%20Distinct%20Islands%20II/README.md) | Hard (Premium) |
-| 688 | [726. Number of Atoms](../1-1000/701-800/726.%20Number%20of%20Atoms/README.md) | Hard |
-| 689 | [736. Parse Lisp Expression](../1-1000/701-800/736.%20Parse%20Lisp%20Expression/README.md) | Hard |
-| 690 | [745. Prefix and Suffix Search](../1-1000/701-800/745.%20Prefix%20and%20Suffix%20Search/README.md) | Hard |
-| 691 | [770. Basic Calculator IV](../1-1000/701-800/770.%20Basic%20Calculator%20IV/README.md) | Hard |
-| 692 | [805. Split Array With Same Average](../1-1000/801-900/805.%20Split%20Array%20With%20Same%20Average/README.md) | Hard |
-| 693 | [815. Bus Routes](../1-1000/801-900/815.%20Bus%20Routes/README.md) | Hard |
-| 694 | [828. Count Unique Characters of All Substrings of a Given String](../1-1000/801-900/828.%20Count%20Unique%20Characters%20of%20All%20Substrings%20of%20a%20Given%20String/README.md) | Hard |
-| 695 | [839. Similar String Groups](../1-1000/801-900/839.%20Similar%20String%20Groups/README.md) | Hard |
-| 696 | [854. K-Similar Strings](../1-1000/801-900/854.%20K-Similar%20Strings/README.md) | Hard |
-| 697 | [895. Maximum Frequency Stack](../1-1000/801-900/895.%20Maximum%20Frequency%20Stack/README.md) | Hard |
-| 698 | [924. Minimize Malware Spread](../1-1000/901-1000/924.%20Minimize%20Malware%20Spread/README.md) | Hard |
-| 699 | [928. Minimize Malware Spread II](../1-1000/901-1000/928.%20Minimize%20Malware%20Spread%20II/README.md) | Hard |
-| 700 | [952. Largest Component Size by Common Factor](../1-1000/901-1000/952.%20Largest%20Component%20Size%20by%20Common%20Factor/README.md) | Hard |
-| 701 | [982. Triples with Bitwise AND Equal To Zero](../1-1000/901-1000/982.%20Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero/README.md) | Hard |
-| 702 | [987. Vertical Order Traversal of a Binary Tree](../1-1000/901-1000/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree/README.md) | Hard |
-| 703 | [992. Subarrays with K Different Integers](../1-1000/901-1000/992.%20Subarrays%20with%20K%20Different%20Integers/README.md) | Hard |
-| 704 | [996. Number of Squareful Arrays](../1-1000/901-1000/996.%20Number%20of%20Squareful%20Arrays/README.md) | Hard |
-| 705 | [1001. Grid Illumination](../1001-2000/1001-1100/1001.%20Grid%20Illumination/README.md) | Hard |
-| 706 | [1036. Escape a Large Maze](../1001-2000/1001-1100/1036.%20Escape%20a%20Large%20Maze/README.md) | Hard |
-| 707 | [1074. Number of Submatrices That Sum to Target](../1001-2000/1001-1100/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target/README.md) | Hard |
-| 708 | [1096. Brace Expansion II](../1001-2000/1001-1100/1096.%20Brace%20Expansion%20II/README.md) | Hard |
-| 709 | [1153. String Transforms Into Another String](../1001-2000/1101-1200/1153.%20String%20Transforms%20Into%20Another%20String/README.md) | Hard (Premium) |
-| 710 | [1172. Dinner Plate Stacks](../1001-2000/1101-1200/1172.%20Dinner%20Plate%20Stacks/README.md) | Hard |
-| 711 | [1178. Number of Valid Words for Each Puzzle](../1001-2000/1101-1200/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle/README.md) | Hard |
-| 712 | [1224. Maximum Equal Frequency](../1001-2000/1201-1300/1224.%20Maximum%20Equal%20Frequency/README.md) | Hard |
-| 713 | [1255. Maximum Score Words Formed by Letters](../1001-2000/1201-1300/1255.%20Maximum%20Score%20Words%20Formed%20by%20Letters/README.md) | Hard |
-| 714 | [1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](../1001-2000/1201-1300/1284.%20Minimum%20Number%20of%20Flips%20to%20Convert%20Binary%20Matrix%20to%20Zero%20Matrix/README.md) | Hard |
-| 715 | [1345. Jump Game IV](../1001-2000/1301-1400/1345.%20Jump%20Game%20IV/README.md) | Hard |
-| 716 | [1520. Maximum Number of Non-Overlapping Substrings](../1001-2000/1501-1600/1520.%20Maximum%20Number%20of%20Non-Overlapping%20Substrings/README.md) | Hard |
-| 717 | [1542. Find Longest Awesome Substring](../1001-2000/1501-1600/1542.%20Find%20Longest%20Awesome%20Substring/README.md) | Hard |
-| 718 | [1655. Distribute Repeating Integers](../1001-2000/1601-1700/1655.%20Distribute%20Repeating%20Integers/README.md) | Hard |
-| 719 | [1681. Minimum Incompatibility](../1001-2000/1601-1700/1681.%20Minimum%20Incompatibility/README.md) | Hard |
-| 720 | [1713. Minimum Operations to Make a Subsequence](../1001-2000/1701-1800/1713.%20Minimum%20Operations%20to%20Make%20a%20Subsequence/README.md) | Hard |
-| 721 | [1719. Number Of Ways To Reconstruct A Tree](../1001-2000/1701-1800/1719.%20Number%20Of%20Ways%20To%20Reconstruct%20A%20Tree/README.md) | Hard |
-| 722 | [1782. Count Pairs Of Nodes](../1001-2000/1701-1800/1782.%20Count%20Pairs%20Of%20Nodes/README.md) | Hard |
-| 723 | [1787. Make the XOR of All Segments Equal to Zero](../1001-2000/1701-1800/1787.%20Make%20the%20XOR%20of%20All%20Segments%20Equal%20to%20Zero/README.md) | Hard |
-| 724 | [1788. Maximize the Beauty of the Garden](../1001-2000/1701-1800/1788.%20Maximize%20the%20Beauty%20of%20the%20Garden/README.md) | Hard (Premium) |
-| 725 | [1830. Minimum Number of Operations to Make String Sorted](../1001-2000/1801-1900/1830.%20Minimum%20Number%20of%20Operations%20to%20Make%20String%20Sorted/README.md) | Hard |
-| 726 | [1857. Largest Color Value in a Directed Graph](../1001-2000/1801-1900/1857.%20Largest%20Color%20Value%20in%20a%20Directed%20Graph/README.md) | Hard |
-| 727 | [1912. Design Movie Rental System](../1001-2000/1901-2000/1912.%20Design%20Movie%20Rental%20System/README.md) | Hard |
-| 728 | [1932. Merge BSTs to Create Single BST](../1001-2000/1901-2000/1932.%20Merge%20BSTs%20to%20Create%20Single%20BST/README.md) | Hard |
-| 729 | [1938. Maximum Genetic Difference Query](../1001-2000/1901-2000/1938.%20Maximum%20Genetic%20Difference%20Query/README.md) | Hard |
-| 730 | [1948. Delete Duplicate Folders in System](../1001-2000/1901-2000/1948.%20Delete%20Duplicate%20Folders%20in%20System/README.md) | Hard |
-| 731 | [1982. Find Array Given Subset Sums](../1001-2000/1901-2000/1982.%20Find%20Array%20Given%20Subset%20Sums/README.md) | Hard |
-| 732 | [1994. The Number of Good Subsets](../1001-2000/1901-2000/1994.%20The%20Number%20of%20Good%20Subsets/README.md) | Hard |
-| 733 | [2009. Minimum Number of Operations to Make Array Continuous](../2001-3000/2001-2100/2009.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Continuous/README.md) | Hard |
-| 734 | [2014. Longest Subsequence Repeated k Times](../2001-3000/2001-2100/2014.%20Longest%20Subsequence%20Repeated%20k%20Times/README.md) | Hard |
-| 735 | [2019. The Score of Students Solving Math Expression](../2001-3000/2001-2100/2019.%20The%20Score%20of%20Students%20Solving%20Math%20Expression/README.md) | Hard |
-| 736 | [2025. Maximum Number of Ways to Partition an Array](../2001-3000/2001-2100/2025.%20Maximum%20Number%20of%20Ways%20to%20Partition%20an%20Array/README.md) | Hard |
-| 737 | [2122. Recover the Original Array](../2001-3000/2101-2200/2122.%20Recover%20the%20Original%20Array/README.md) | Hard |
-| 738 | [2157. Groups of Strings](../2001-3000/2101-2200/2157.%20Groups%20of%20Strings/README.md) | Hard |
-| 739 | [2183. Count Array Pairs Divisible by K](../2001-3000/2101-2200/2183.%20Count%20Array%20Pairs%20Divisible%20by%20K/README.md) | Hard |
-| 740 | [2227. Encrypt and Decrypt Strings](../2001-3000/2201-2300/2227.%20Encrypt%20and%20Decrypt%20Strings/README.md) | Hard |
-| 741 | [2251. Number of Flowers in Full Bloom](../2001-3000/2201-2300/2251.%20Number%20of%20Flowers%20in%20Full%20Bloom/README.md) | Hard |
-| 742 | [2254. Design Video Sharing Platform](../2001-3000/2201-2300/2254.%20Design%20Video%20Sharing%20Platform/README.md) | Hard (Premium) |
-| 743 | [2262. Total Appeal of A String](../2001-3000/2201-2300/2262.%20Total%20Appeal%20of%20A%20String/README.md) | Hard |
-| 744 | [2272. Substring With Largest Variance](../2001-3000/2201-2300/2272.%20Substring%20With%20Largest%20Variance/README.md) | Hard |
-| 745 | [2301. Match Substring After Replacement](../2001-3000/2301-2400/2301.%20Match%20Substring%20After%20Replacement/README.md) | Hard |
-| 746 | [2306. Naming a Company](../2001-3000/2301-2400/2306.%20Naming%20a%20Company/README.md) | Hard |
-| 747 | [2350. Shortest Impossible Sequence of Rolls](../2001-3000/2301-2400/2350.%20Shortest%20Impossible%20Sequence%20of%20Rolls/README.md) | Hard |
-| 748 | [2354. Number of Excellent Pairs](../2001-3000/2301-2400/2354.%20Number%20of%20Excellent%20Pairs/README.md) | Hard |
-| 749 | [2402. Meeting Rooms III](../2001-3000/2401-2500/2402.%20Meeting%20Rooms%20III/README.md) | Hard |
-| 750 | [2421. Number of Good Paths](../2001-3000/2401-2500/2421.%20Number%20of%20Good%20Paths/README.md) | Hard |
-| 751 | [2459. Sort Array by Moving Items to Empty Space](../2001-3000/2401-2500/2459.%20Sort%20Array%20by%20Moving%20Items%20to%20Empty%20Space/README.md) | Hard (Premium) |
-| 752 | [2488. Count Subarrays With Median K](../2001-3000/2401-2500/2488.%20Count%20Subarrays%20With%20Median%20K/README.md) | Hard |
-| 753 | [2499. Minimum Total Cost to Make Arrays Unequal](../2001-3000/2401-2500/2499.%20Minimum%20Total%20Cost%20to%20Make%20Arrays%20Unequal/README.md) | Hard |
-| 754 | [2508. Add Edges to Make Degrees of All Nodes Even](../2001-3000/2501-2600/2508.%20Add%20Edges%20to%20Make%20Degrees%20of%20All%20Nodes%20Even/README.md) | Hard |
-| 755 | [2514. Count Anagrams](../2001-3000/2501-2600/2514.%20Count%20Anagrams/README.md) | Hard |
-| 756 | [2524. Maximum Frequency Score of a Subarray](../2001-3000/2501-2600/2524.%20Maximum%20Frequency%20Score%20of%20a%20Subarray/README.md) | Hard (Premium) |
-| 757 | [2547. Minimum Cost to Split an Array](../2001-3000/2501-2600/2547.%20Minimum%20Cost%20to%20Split%20an%20Array/README.md) | Hard |
-| 758 | [2561. Rearranging Fruits](../2001-3000/2501-2600/2561.%20Rearranging%20Fruits/README.md) | Hard |
-| 759 | [2581. Count Number of Possible Root Nodes](../2001-3000/2501-2600/2581.%20Count%20Number%20of%20Possible%20Root%20Nodes/README.md) | Hard |
-| 760 | [2584. Split the Array to Make Coprime Products](../2001-3000/2501-2600/2584.%20Split%20the%20Array%20to%20Make%20Coprime%20Products/README.md) | Hard |
-| 761 | [2612. Minimum Reverse Operations](../2001-3000/2601-2700/2612.%20Minimum%20Reverse%20Operations/README.md) | Hard |
-| 762 | [2713. Maximum Strictly Increasing Cells in a Matrix](../2001-3000/2701-2800/2713.%20Maximum%20Strictly%20Increasing%20Cells%20in%20a%20Matrix/README.md) | Hard |
-| 763 | [2732. Find a Good Subset of the Matrix](../2001-3000/2701-2800/2732.%20Find%20a%20Good%20Subset%20of%20the%20Matrix/README.md) | Hard |
-| 764 | [2763. Sum of Imbalance Numbers of All Subarrays](../2001-3000/2701-2800/2763.%20Sum%20of%20Imbalance%20Numbers%20of%20All%20Subarrays/README.md) | Hard |
-| 765 | [2781. Length of the Longest Valid Substring](../2001-3000/2701-2800/2781.%20Length%20of%20the%20Longest%20Valid%20Substring/README.md) | Hard |
-| 766 | [2791. Count Paths That Can Form a Palindrome in a Tree](../2001-3000/2701-2800/2791.%20Count%20Paths%20That%20Can%20Form%20a%20Palindrome%20in%20a%20Tree/README.md) | Hard |
-| 767 | [2813. Maximum Elegance of a K-Length Subsequence](../2001-3000/2801-2900/2813.%20Maximum%20Elegance%20of%20a%20K-Length%20Subsequence/README.md) | Hard |
-| 768 | [2842. Count K-Subsequences of a String With Maximum Beauty](../2001-3000/2801-2900/2842.%20Count%20K-Subsequences%20of%20a%20String%20With%20Maximum%20Beauty/README.md) | Hard |
-| 769 | [2897. Apply Operations on Array to Maximize Sum of Squares](../2001-3000/2801-2900/2897.%20Apply%20Operations%20on%20Array%20to%20Maximize%20Sum%20of%20Squares/README.md) | Hard |
-| 770 | [2902. Count of Sub-Multisets With Bounded Sum](../2001-3000/2901-3000/2902.%20Count%20of%20Sub-Multisets%20With%20Bounded%20Sum/README.md) | Hard |
-| 771 | [2916. Subarrays Distinct Element Sum of Squares II](../2001-3000/2901-3000/2916.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20II/README.md) | Hard |
-| 772 | [2935. Maximum Strong Pair XOR II](../2001-3000/2901-3000/2935.%20Maximum%20Strong%20Pair%20XOR%20II/README.md) | Hard |
-| 773 | [2949. Count Beautiful Substrings II](../2001-3000/2901-3000/2949.%20Count%20Beautiful%20Substrings%20II/README.md) | Hard |
-| 774 | [2953. Count Complete Substrings](../2001-3000/2901-3000/2953.%20Count%20Complete%20Substrings/README.md) | Hard |
-| 775 | [2963. Count the Number of Good Partitions](../2001-3000/2901-3000/2963.%20Count%20the%20Number%20of%20Good%20Partitions/README.md) | Hard |
-| 776 | [2983. Palindrome Rearrangement Queries](../2001-3000/2901-3000/2983.%20Palindrome%20Rearrangement%20Queries/README.md) | Hard |
-| 777 | [3009. Maximum Number of Intersections on the Chart](../3001-4000/3001-3100/3009.%20Maximum%20Number%20of%20Intersections%20on%20the%20Chart/README.md) | Hard (Premium) |
-| 778 | [3013. Divide an Array Into Subarrays With Minimum Cost II](../3001-4000/3001-3100/3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/README.md) | Hard |
-| 779 | [3104. Find Longest Self-Contained Substring](../3001-4000/3101-3200/3104.%20Find%20Longest%20Self-Contained%20Substring/README.md) | Hard (Premium) |
-| 780 | [3134. Find the Median of the Uniqueness Array](../3001-4000/3101-3200/3134.%20Find%20the%20Median%20of%20the%20Uniqueness%20Array/README.md) | Hard |
-| 781 | [3177. Find the Maximum Length of a Good Subsequence II](../3001-4000/3101-3200/3177.%20Find%20the%20Maximum%20Length%20of%20a%20Good%20Subsequence%20II/README.md) | Hard |
-| 782 | [3267. Count Almost Equal Pairs II](../3001-4000/3201-3300/3267.%20Count%20Almost%20Equal%20Pairs%20II/README.md) | Hard |
-| 783 | [3272. Find the Count of Good Integers](../3001-4000/3201-3300/3272.%20Find%20the%20Count%20of%20Good%20Integers/README.md) | Hard |
-| 784 | [3279. Maximum Total Area Occupied by Pistons](../3001-4000/3201-3300/3279.%20Maximum%20Total%20Area%20Occupied%20by%20Pistons/README.md) | Hard (Premium) |
-| 785 | [3298. Count Substrings That Can Be Rearranged to Contain a String II](../3001-4000/3201-3300/3298.%20Count%20Substrings%20That%20Can%20Be%20Rearranged%20to%20Contain%20a%20String%20II/README.md) | Hard |
-| 786 | [3299. Sum of Consecutive Subsequences](../3001-4000/3201-3300/3299.%20Sum%20of%20Consecutive%20Subsequences/README.md) | Hard (Premium) |
-| 787 | [3311. Construct 2D Grid Matching Graph Layout](../3001-4000/3301-3400/3311.%20Construct%202D%20Grid%20Matching%20Graph%20Layout/README.md) | Hard |
-| 788 | [3312. Sorted GCD Pair Queries](../3001-4000/3301-3400/3312.%20Sorted%20GCD%20Pair%20Queries/README.md) | Hard |
-| 789 | [3321. Find X-Sum of All K-Long Subarrays II](../3001-4000/3301-3400/3321.%20Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20II/README.md) | Hard |
-| 790 | [3327. Check if DFS Strings Are Palindromes](../3001-4000/3301-3400/3327.%20Check%20if%20DFS%20Strings%20Are%20Palindromes/README.md) | Hard |
-| 791 | [3329. Count Substrings With K-Frequency Characters II](../3001-4000/3301-3400/3329.%20Count%20Substrings%20With%20K-Frequency%20Characters%20II/README.md) | Hard (Premium) |
-| 792 | [3337. Total Characters in String After Transformations II](../3001-4000/3301-3400/3337.%20Total%20Characters%20in%20String%20After%20Transformations%20II/README.md) | Hard |
-| 793 | [3351. Sum of Good Subsequences](../3001-4000/3301-3400/3351.%20Sum%20of%20Good%20Subsequences/README.md) | Hard |
-| 794 | [3369. Design an Array Statistics Tracker](../3001-4000/3301-3400/3369.%20Design%20an%20Array%20Statistics%20Tracker/README.md) | Hard (Premium) |
-| 795 | [3378. Count Connected Components in LCM Graph](../3001-4000/3301-3400/3378.%20Count%20Connected%20Components%20in%20LCM%20Graph/README.md) | Hard |
-| 796 | [3389. Minimum Operations to Make Character Frequencies Equal](../3001-4000/3301-3400/3389.%20Minimum%20Operations%20to%20Make%20Character%20Frequencies%20Equal/README.md) | Hard |
-| 797 | [3395. Subsequences with a Unique Middle Mode I](../3001-4000/3301-3400/3395.%20Subsequences%20with%20a%20Unique%20Middle%20Mode%20I/README.md) | Hard |
-| 798 | [3410. Maximize Subarray Sum After Removing All Occurrences of One Element](../3001-4000/3401-3500/3410.%20Maximize%20Subarray%20Sum%20After%20Removing%20All%20Occurrences%20of%20One%20Element/README.md) | Hard |
-| 799 | [3416. Subsequences with a Unique Middle Mode II](../3001-4000/3401-3500/3416.%20Subsequences%20with%20a%20Unique%20Middle%20Mode%20II/README.md) | Hard (Premium) |
-| 800 | [3425. Longest Special Path](../3001-4000/3401-3500/3425.%20Longest%20Special%20Path/README.md) | Hard |
-| 801 | [3486. Longest Special Path II](../3001-4000/3401-3500/3486.%20Longest%20Special%20Path%20II/README.md) | Hard |
-| 802 | [3505. Minimum Operations to Make Elements Within K Subarrays Equal](../3001-4000/3501-3600/3505.%20Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal/README.md) | Hard |
-| 803 | [3509. Maximum Product of Subsequences With an Alternating Sum Equal to K](../3001-4000/3501-3600/3509.%20Maximum%20Product%20of%20Subsequences%20With%20an%20Alternating%20Sum%20Equal%20to%20K/README.md) | Hard |
-| 804 | [3510. Minimum Pair Removal to Sort Array II](../3001-4000/3501-3600/3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/README.md) | Hard |
-| 805 | [3518. Smallest Palindromic Rearrangement II](../3001-4000/3501-3600/3518.%20Smallest%20Palindromic%20Rearrangement%20II/README.md) | Hard |
-| 806 | [3548. Equal Sum Grid Partition II](../3001-4000/3501-3600/3548.%20Equal%20Sum%20Grid%20Partition%20II/README.md) | Hard |
-| 807 | [3569. Maximize Count of Distinct Primes After Split](../3001-4000/3501-3600/3569.%20Maximize%20Count%20of%20Distinct%20Primes%20After%20Split/README.md) | Hard |
-| 808 | [3625. Count Number of Trapezoids II](../3001-4000/3601-3700/3625.%20Count%20Number%20of%20Trapezoids%20II/README.md) | Hard |
-| 809 | [3636. Threshold Majority Queries](../3001-4000/3601-3700/3636.%20Threshold%20Majority%20Queries/README.md) | Hard |
-| 810 | [3715. Sum of Perfect Square Ancestors](../3001-4000/3701-3800/3715.%20Sum%20of%20Perfect%20Square%20Ancestors/README.md) | Hard |
-| 811 | [3721. Longest Balanced Subarray II](../3001-4000/3701-3800/3721.%20Longest%20Balanced%20Subarray%20II/README.md) | Hard |
-| 812 | [3729. Count Distinct Subarrays Divisible by K in Sorted Array](../3001-4000/3701-3800/3729.%20Count%20Distinct%20Subarrays%20Divisible%20by%20K%20in%20Sorted%20Array/README.md) | Hard |
-| 813 | [3739. Count Subarrays With Majority Element II](../3001-4000/3701-3800/3739.%20Count%20Subarrays%20With%20Majority%20Element%20II/README.md) | Hard |
-| 814 | [3749. Evaluate Valid Expressions](../3001-4000/3701-3800/3749.%20Evaluate%20Valid%20Expressions/README.md) | Hard (Premium) |
-| 815 | [3785. Minimum Swaps to Avoid Forbidden Values](../3001-4000/3701-3800/3785.%20Minimum%20Swaps%20to%20Avoid%20Forbidden%20Values/README.md) | Hard |
-| 816 | [3816. Lexicographically Smallest String After Deleting Duplicate Characters](../3001-4000/3801-3900/3816.%20Lexicographically%20Smallest%20String%20After%20Deleting%20Duplicate%20Characters/README.md) | Hard |
-| 817 | [3859. Count Subarrays With K Distinct Integers](../3001-4000/3801-3900/3859.%20Count%20Subarrays%20With%20K%20Distinct%20Integers/README.md) | Hard |
-| 818 | [3873. Maximum Points Activated with One Addition](../3001-4000/3801-3900/3873.%20Maximum%20Points%20Activated%20with%20One%20Addition/README.md) | Hard |
-| 819 | [3930. Power Update After K-th Largest Insertion II](../3001-4000/3901-4000/3930.%20Power%20Update%20After%20K-th%20Largest%20Insertion%20II/README.md) | Hard (Premium) |
-| 820 | [3934. Smallest Unique Subarray](../3001-4000/3901-4000/3934.%20Smallest%20Unique%20Subarray/README.md) | Hard |
-| 821 | [3943. Number of Pairs After Increment](../3001-4000/3901-4000/3943.%20Number%20of%20Pairs%20After%20Increment/README.md) | Hard |
-| 822 | [3948. Lexicographically Maximum MEX Array](../3001-4000/3901-4000/3948.%20Lexicographically%20Maximum%20MEX%20Array/README.md) | Hard |
-| 823 | [3953. Maximum Score with Co-Prime Element](../3001-4000/3901-4000/3953.%20Maximum%20Score%20with%20Co-Prime%20Element/README.md) | Hard |
-| 824 | [3972. Valid Subarrays With Matching Sum Digits II](../3001-4000/3901-4000/3972.%20Valid%20Subarrays%20With%20Matching%20Sum%20Digits%20II/README.md) | Hard (Premium) |
+| 663 | [3960. Frequency Balance Subarray](../3001-4000/3901-4000/3960.%20Frequency%20Balance%20Subarray/README.md) | Medium |
+| 664 | [3969. Valid Subarrays With Matching Sum Digits I](../3001-4000/3901-4000/3969.%20Valid%20Subarrays%20With%20Matching%20Sum%20Digits%20I/README.md) | Medium |
+| 665 | [30. Substring with Concatenation of All Words](../1-1000/1-100/30.%20Substring%20with%20Concatenation%20of%20All%20Words/README.md) | Hard |
+| 666 | [37. Sudoku Solver](../1-1000/1-100/37.%20Sudoku%20Solver/README.md) | Hard |
+| 667 | [41. First Missing Positive](../1-1000/1-100/41.%20First%20Missing%20Positive/README.md) | Hard |
+| 668 | [76. Minimum Window Substring](../1-1000/1-100/76.%20Minimum%20Window%20Substring/README.md) | Hard |
+| 669 | [126. Word Ladder II](../1-1000/101-200/126.%20Word%20Ladder%20II/README.md) | Hard |
+| 670 | [127. Word Ladder](../1-1000/101-200/127.%20Word%20Ladder/README.md) | Hard |
+| 671 | [140. Word Break II](../1-1000/101-200/140.%20Word%20Break%20II/README.md) | Hard |
+| 672 | [149. Max Points on a Line](../1-1000/101-200/149.%20Max%20Points%20on%20a%20Line/README.md) | Hard |
+| 673 | [305. Number of Islands II](../1-1000/301-400/305.%20Number%20of%20Islands%20II/README.md) | Hard (Premium) |
+| 674 | [336. Palindrome Pairs](../1-1000/301-400/336.%20Palindrome%20Pairs/README.md) | Hard |
+| 675 | [352. Data Stream as Disjoint Intervals](../1-1000/301-400/352.%20Data%20Stream%20as%20Disjoint%20Intervals/README.md) | Hard |
+| 676 | [358. Rearrange String k Distance Apart](../1-1000/301-400/358.%20Rearrange%20String%20k%20Distance%20Apart/README.md) | Hard (Premium) |
+| 677 | [381. Insert Delete GetRandom O(1) - Duplicates allowed](../1-1000/301-400/381.%20Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/README.md) | Hard |
+| 678 | [391. Perfect Rectangle](../1-1000/301-400/391.%20Perfect%20Rectangle/README.md) | Hard |
+| 679 | [432. All O`one Data Structure](../1-1000/401-500/432.%20All%20O`one%20Data%20Structure/README.md) | Hard |
+| 680 | [460. LFU Cache](../1-1000/401-500/460.%20LFU%20Cache/README.md) | Hard |
+| 681 | [480. Sliding Window Median](../1-1000/401-500/480.%20Sliding%20Window%20Median/README.md) | Hard |
+| 682 | [548. Split Array with Equal Sum](../1-1000/501-600/548.%20Split%20Array%20with%20Equal%20Sum/README.md) | Hard (Premium) |
+| 683 | [588. Design In-Memory File System](../1-1000/501-600/588.%20Design%20In-Memory%20File%20System/README.md) | Hard (Premium) |
+| 684 | [631. Design Excel Sum Formula](../1-1000/601-700/631.%20Design%20Excel%20Sum%20Formula/README.md) | Hard (Premium) |
+| 685 | [632. Smallest Range Covering Elements from K Lists](../1-1000/601-700/632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists/README.md) | Hard |
+| 686 | [691. Stickers to Spell Word](../1-1000/601-700/691.%20Stickers%20to%20Spell%20Word/README.md) | Hard |
+| 687 | [710. Random Pick with Blacklist](../1-1000/701-800/710.%20Random%20Pick%20with%20Blacklist/README.md) | Hard |
+| 688 | [711. Number of Distinct Islands II](../1-1000/701-800/711.%20Number%20of%20Distinct%20Islands%20II/README.md) | Hard (Premium) |
+| 689 | [726. Number of Atoms](../1-1000/701-800/726.%20Number%20of%20Atoms/README.md) | Hard |
+| 690 | [736. Parse Lisp Expression](../1-1000/701-800/736.%20Parse%20Lisp%20Expression/README.md) | Hard |
+| 691 | [745. Prefix and Suffix Search](../1-1000/701-800/745.%20Prefix%20and%20Suffix%20Search/README.md) | Hard |
+| 692 | [770. Basic Calculator IV](../1-1000/701-800/770.%20Basic%20Calculator%20IV/README.md) | Hard |
+| 693 | [805. Split Array With Same Average](../1-1000/801-900/805.%20Split%20Array%20With%20Same%20Average/README.md) | Hard |
+| 694 | [815. Bus Routes](../1-1000/801-900/815.%20Bus%20Routes/README.md) | Hard |
+| 695 | [828. Count Unique Characters of All Substrings of a Given String](../1-1000/801-900/828.%20Count%20Unique%20Characters%20of%20All%20Substrings%20of%20a%20Given%20String/README.md) | Hard |
+| 696 | [839. Similar String Groups](../1-1000/801-900/839.%20Similar%20String%20Groups/README.md) | Hard |
+| 697 | [854. K-Similar Strings](../1-1000/801-900/854.%20K-Similar%20Strings/README.md) | Hard |
+| 698 | [895. Maximum Frequency Stack](../1-1000/801-900/895.%20Maximum%20Frequency%20Stack/README.md) | Hard |
+| 699 | [924. Minimize Malware Spread](../1-1000/901-1000/924.%20Minimize%20Malware%20Spread/README.md) | Hard |
+| 700 | [928. Minimize Malware Spread II](../1-1000/901-1000/928.%20Minimize%20Malware%20Spread%20II/README.md) | Hard |
+| 701 | [952. Largest Component Size by Common Factor](../1-1000/901-1000/952.%20Largest%20Component%20Size%20by%20Common%20Factor/README.md) | Hard |
+| 702 | [982. Triples with Bitwise AND Equal To Zero](../1-1000/901-1000/982.%20Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero/README.md) | Hard |
+| 703 | [987. Vertical Order Traversal of a Binary Tree](../1-1000/901-1000/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree/README.md) | Hard |
+| 704 | [992. Subarrays with K Different Integers](../1-1000/901-1000/992.%20Subarrays%20with%20K%20Different%20Integers/README.md) | Hard |
+| 705 | [996. Number of Squareful Arrays](../1-1000/901-1000/996.%20Number%20of%20Squareful%20Arrays/README.md) | Hard |
+| 706 | [1001. Grid Illumination](../1001-2000/1001-1100/1001.%20Grid%20Illumination/README.md) | Hard |
+| 707 | [1036. Escape a Large Maze](../1001-2000/1001-1100/1036.%20Escape%20a%20Large%20Maze/README.md) | Hard |
+| 708 | [1074. Number of Submatrices That Sum to Target](../1001-2000/1001-1100/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target/README.md) | Hard |
+| 709 | [1096. Brace Expansion II](../1001-2000/1001-1100/1096.%20Brace%20Expansion%20II/README.md) | Hard |
+| 710 | [1153. String Transforms Into Another String](../1001-2000/1101-1200/1153.%20String%20Transforms%20Into%20Another%20String/README.md) | Hard (Premium) |
+| 711 | [1172. Dinner Plate Stacks](../1001-2000/1101-1200/1172.%20Dinner%20Plate%20Stacks/README.md) | Hard |
+| 712 | [1178. Number of Valid Words for Each Puzzle](../1001-2000/1101-1200/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle/README.md) | Hard |
+| 713 | [1224. Maximum Equal Frequency](../1001-2000/1201-1300/1224.%20Maximum%20Equal%20Frequency/README.md) | Hard |
+| 714 | [1255. Maximum Score Words Formed by Letters](../1001-2000/1201-1300/1255.%20Maximum%20Score%20Words%20Formed%20by%20Letters/README.md) | Hard |
+| 715 | [1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](../1001-2000/1201-1300/1284.%20Minimum%20Number%20of%20Flips%20to%20Convert%20Binary%20Matrix%20to%20Zero%20Matrix/README.md) | Hard |
+| 716 | [1345. Jump Game IV](../1001-2000/1301-1400/1345.%20Jump%20Game%20IV/README.md) | Hard |
+| 717 | [1520. Maximum Number of Non-Overlapping Substrings](../1001-2000/1501-1600/1520.%20Maximum%20Number%20of%20Non-Overlapping%20Substrings/README.md) | Hard |
+| 718 | [1542. Find Longest Awesome Substring](../1001-2000/1501-1600/1542.%20Find%20Longest%20Awesome%20Substring/README.md) | Hard |
+| 719 | [1655. Distribute Repeating Integers](../1001-2000/1601-1700/1655.%20Distribute%20Repeating%20Integers/README.md) | Hard |
+| 720 | [1681. Minimum Incompatibility](../1001-2000/1601-1700/1681.%20Minimum%20Incompatibility/README.md) | Hard |
+| 721 | [1713. Minimum Operations to Make a Subsequence](../1001-2000/1701-1800/1713.%20Minimum%20Operations%20to%20Make%20a%20Subsequence/README.md) | Hard |
+| 722 | [1719. Number Of Ways To Reconstruct A Tree](../1001-2000/1701-1800/1719.%20Number%20Of%20Ways%20To%20Reconstruct%20A%20Tree/README.md) | Hard |
+| 723 | [1782. Count Pairs Of Nodes](../1001-2000/1701-1800/1782.%20Count%20Pairs%20Of%20Nodes/README.md) | Hard |
+| 724 | [1787. Make the XOR of All Segments Equal to Zero](../1001-2000/1701-1800/1787.%20Make%20the%20XOR%20of%20All%20Segments%20Equal%20to%20Zero/README.md) | Hard |
+| 725 | [1788. Maximize the Beauty of the Garden](../1001-2000/1701-1800/1788.%20Maximize%20the%20Beauty%20of%20the%20Garden/README.md) | Hard (Premium) |
+| 726 | [1830. Minimum Number of Operations to Make String Sorted](../1001-2000/1801-1900/1830.%20Minimum%20Number%20of%20Operations%20to%20Make%20String%20Sorted/README.md) | Hard |
+| 727 | [1857. Largest Color Value in a Directed Graph](../1001-2000/1801-1900/1857.%20Largest%20Color%20Value%20in%20a%20Directed%20Graph/README.md) | Hard |
+| 728 | [1912. Design Movie Rental System](../1001-2000/1901-2000/1912.%20Design%20Movie%20Rental%20System/README.md) | Hard |
+| 729 | [1932. Merge BSTs to Create Single BST](../1001-2000/1901-2000/1932.%20Merge%20BSTs%20to%20Create%20Single%20BST/README.md) | Hard |
+| 730 | [1938. Maximum Genetic Difference Query](../1001-2000/1901-2000/1938.%20Maximum%20Genetic%20Difference%20Query/README.md) | Hard |
+| 731 | [1948. Delete Duplicate Folders in System](../1001-2000/1901-2000/1948.%20Delete%20Duplicate%20Folders%20in%20System/README.md) | Hard |
+| 732 | [1982. Find Array Given Subset Sums](../1001-2000/1901-2000/1982.%20Find%20Array%20Given%20Subset%20Sums/README.md) | Hard |
+| 733 | [1994. The Number of Good Subsets](../1001-2000/1901-2000/1994.%20The%20Number%20of%20Good%20Subsets/README.md) | Hard |
+| 734 | [2009. Minimum Number of Operations to Make Array Continuous](../2001-3000/2001-2100/2009.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Continuous/README.md) | Hard |
+| 735 | [2014. Longest Subsequence Repeated k Times](../2001-3000/2001-2100/2014.%20Longest%20Subsequence%20Repeated%20k%20Times/README.md) | Hard |
+| 736 | [2019. The Score of Students Solving Math Expression](../2001-3000/2001-2100/2019.%20The%20Score%20of%20Students%20Solving%20Math%20Expression/README.md) | Hard |
+| 737 | [2025. Maximum Number of Ways to Partition an Array](../2001-3000/2001-2100/2025.%20Maximum%20Number%20of%20Ways%20to%20Partition%20an%20Array/README.md) | Hard |
+| 738 | [2122. Recover the Original Array](../2001-3000/2101-2200/2122.%20Recover%20the%20Original%20Array/README.md) | Hard |
+| 739 | [2157. Groups of Strings](../2001-3000/2101-2200/2157.%20Groups%20of%20Strings/README.md) | Hard |
+| 740 | [2183. Count Array Pairs Divisible by K](../2001-3000/2101-2200/2183.%20Count%20Array%20Pairs%20Divisible%20by%20K/README.md) | Hard |
+| 741 | [2227. Encrypt and Decrypt Strings](../2001-3000/2201-2300/2227.%20Encrypt%20and%20Decrypt%20Strings/README.md) | Hard |
+| 742 | [2251. Number of Flowers in Full Bloom](../2001-3000/2201-2300/2251.%20Number%20of%20Flowers%20in%20Full%20Bloom/README.md) | Hard |
+| 743 | [2254. Design Video Sharing Platform](../2001-3000/2201-2300/2254.%20Design%20Video%20Sharing%20Platform/README.md) | Hard (Premium) |
+| 744 | [2262. Total Appeal of A String](../2001-3000/2201-2300/2262.%20Total%20Appeal%20of%20A%20String/README.md) | Hard |
+| 745 | [2272. Substring With Largest Variance](../2001-3000/2201-2300/2272.%20Substring%20With%20Largest%20Variance/README.md) | Hard |
+| 746 | [2301. Match Substring After Replacement](../2001-3000/2301-2400/2301.%20Match%20Substring%20After%20Replacement/README.md) | Hard |
+| 747 | [2306. Naming a Company](../2001-3000/2301-2400/2306.%20Naming%20a%20Company/README.md) | Hard |
+| 748 | [2350. Shortest Impossible Sequence of Rolls](../2001-3000/2301-2400/2350.%20Shortest%20Impossible%20Sequence%20of%20Rolls/README.md) | Hard |
+| 749 | [2354. Number of Excellent Pairs](../2001-3000/2301-2400/2354.%20Number%20of%20Excellent%20Pairs/README.md) | Hard |
+| 750 | [2402. Meeting Rooms III](../2001-3000/2401-2500/2402.%20Meeting%20Rooms%20III/README.md) | Hard |
+| 751 | [2421. Number of Good Paths](../2001-3000/2401-2500/2421.%20Number%20of%20Good%20Paths/README.md) | Hard |
+| 752 | [2459. Sort Array by Moving Items to Empty Space](../2001-3000/2401-2500/2459.%20Sort%20Array%20by%20Moving%20Items%20to%20Empty%20Space/README.md) | Hard (Premium) |
+| 753 | [2488. Count Subarrays With Median K](../2001-3000/2401-2500/2488.%20Count%20Subarrays%20With%20Median%20K/README.md) | Hard |
+| 754 | [2499. Minimum Total Cost to Make Arrays Unequal](../2001-3000/2401-2500/2499.%20Minimum%20Total%20Cost%20to%20Make%20Arrays%20Unequal/README.md) | Hard |
+| 755 | [2508. Add Edges to Make Degrees of All Nodes Even](../2001-3000/2501-2600/2508.%20Add%20Edges%20to%20Make%20Degrees%20of%20All%20Nodes%20Even/README.md) | Hard |
+| 756 | [2514. Count Anagrams](../2001-3000/2501-2600/2514.%20Count%20Anagrams/README.md) | Hard |
+| 757 | [2524. Maximum Frequency Score of a Subarray](../2001-3000/2501-2600/2524.%20Maximum%20Frequency%20Score%20of%20a%20Subarray/README.md) | Hard (Premium) |
+| 758 | [2547. Minimum Cost to Split an Array](../2001-3000/2501-2600/2547.%20Minimum%20Cost%20to%20Split%20an%20Array/README.md) | Hard |
+| 759 | [2561. Rearranging Fruits](../2001-3000/2501-2600/2561.%20Rearranging%20Fruits/README.md) | Hard |
+| 760 | [2581. Count Number of Possible Root Nodes](../2001-3000/2501-2600/2581.%20Count%20Number%20of%20Possible%20Root%20Nodes/README.md) | Hard |
+| 761 | [2584. Split the Array to Make Coprime Products](../2001-3000/2501-2600/2584.%20Split%20the%20Array%20to%20Make%20Coprime%20Products/README.md) | Hard |
+| 762 | [2612. Minimum Reverse Operations](../2001-3000/2601-2700/2612.%20Minimum%20Reverse%20Operations/README.md) | Hard |
+| 763 | [2713. Maximum Strictly Increasing Cells in a Matrix](../2001-3000/2701-2800/2713.%20Maximum%20Strictly%20Increasing%20Cells%20in%20a%20Matrix/README.md) | Hard |
+| 764 | [2732. Find a Good Subset of the Matrix](../2001-3000/2701-2800/2732.%20Find%20a%20Good%20Subset%20of%20the%20Matrix/README.md) | Hard |
+| 765 | [2763. Sum of Imbalance Numbers of All Subarrays](../2001-3000/2701-2800/2763.%20Sum%20of%20Imbalance%20Numbers%20of%20All%20Subarrays/README.md) | Hard |
+| 766 | [2781. Length of the Longest Valid Substring](../2001-3000/2701-2800/2781.%20Length%20of%20the%20Longest%20Valid%20Substring/README.md) | Hard |
+| 767 | [2791. Count Paths That Can Form a Palindrome in a Tree](../2001-3000/2701-2800/2791.%20Count%20Paths%20That%20Can%20Form%20a%20Palindrome%20in%20a%20Tree/README.md) | Hard |
+| 768 | [2813. Maximum Elegance of a K-Length Subsequence](../2001-3000/2801-2900/2813.%20Maximum%20Elegance%20of%20a%20K-Length%20Subsequence/README.md) | Hard |
+| 769 | [2842. Count K-Subsequences of a String With Maximum Beauty](../2001-3000/2801-2900/2842.%20Count%20K-Subsequences%20of%20a%20String%20With%20Maximum%20Beauty/README.md) | Hard |
+| 770 | [2897. Apply Operations on Array to Maximize Sum of Squares](../2001-3000/2801-2900/2897.%20Apply%20Operations%20on%20Array%20to%20Maximize%20Sum%20of%20Squares/README.md) | Hard |
+| 771 | [2902. Count of Sub-Multisets With Bounded Sum](../2001-3000/2901-3000/2902.%20Count%20of%20Sub-Multisets%20With%20Bounded%20Sum/README.md) | Hard |
+| 772 | [2916. Subarrays Distinct Element Sum of Squares II](../2001-3000/2901-3000/2916.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20II/README.md) | Hard |
+| 773 | [2935. Maximum Strong Pair XOR II](../2001-3000/2901-3000/2935.%20Maximum%20Strong%20Pair%20XOR%20II/README.md) | Hard |
+| 774 | [2949. Count Beautiful Substrings II](../2001-3000/2901-3000/2949.%20Count%20Beautiful%20Substrings%20II/README.md) | Hard |
+| 775 | [2953. Count Complete Substrings](../2001-3000/2901-3000/2953.%20Count%20Complete%20Substrings/README.md) | Hard |
+| 776 | [2963. Count the Number of Good Partitions](../2001-3000/2901-3000/2963.%20Count%20the%20Number%20of%20Good%20Partitions/README.md) | Hard |
+| 777 | [2983. Palindrome Rearrangement Queries](../2001-3000/2901-3000/2983.%20Palindrome%20Rearrangement%20Queries/README.md) | Hard |
+| 778 | [3009. Maximum Number of Intersections on the Chart](../3001-4000/3001-3100/3009.%20Maximum%20Number%20of%20Intersections%20on%20the%20Chart/README.md) | Hard (Premium) |
+| 779 | [3013. Divide an Array Into Subarrays With Minimum Cost II](../3001-4000/3001-3100/3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/README.md) | Hard |
+| 780 | [3104. Find Longest Self-Contained Substring](../3001-4000/3101-3200/3104.%20Find%20Longest%20Self-Contained%20Substring/README.md) | Hard (Premium) |
+| 781 | [3134. Find the Median of the Uniqueness Array](../3001-4000/3101-3200/3134.%20Find%20the%20Median%20of%20the%20Uniqueness%20Array/README.md) | Hard |
+| 782 | [3177. Find the Maximum Length of a Good Subsequence II](../3001-4000/3101-3200/3177.%20Find%20the%20Maximum%20Length%20of%20a%20Good%20Subsequence%20II/README.md) | Hard |
+| 783 | [3267. Count Almost Equal Pairs II](../3001-4000/3201-3300/3267.%20Count%20Almost%20Equal%20Pairs%20II/README.md) | Hard |
+| 784 | [3272. Find the Count of Good Integers](../3001-4000/3201-3300/3272.%20Find%20the%20Count%20of%20Good%20Integers/README.md) | Hard |
+| 785 | [3279. Maximum Total Area Occupied by Pistons](../3001-4000/3201-3300/3279.%20Maximum%20Total%20Area%20Occupied%20by%20Pistons/README.md) | Hard (Premium) |
+| 786 | [3298. Count Substrings That Can Be Rearranged to Contain a String II](../3001-4000/3201-3300/3298.%20Count%20Substrings%20That%20Can%20Be%20Rearranged%20to%20Contain%20a%20String%20II/README.md) | Hard |
+| 787 | [3299. Sum of Consecutive Subsequences](../3001-4000/3201-3300/3299.%20Sum%20of%20Consecutive%20Subsequences/README.md) | Hard (Premium) |
+| 788 | [3311. Construct 2D Grid Matching Graph Layout](../3001-4000/3301-3400/3311.%20Construct%202D%20Grid%20Matching%20Graph%20Layout/README.md) | Hard |
+| 789 | [3312. Sorted GCD Pair Queries](../3001-4000/3301-3400/3312.%20Sorted%20GCD%20Pair%20Queries/README.md) | Hard |
+| 790 | [3321. Find X-Sum of All K-Long Subarrays II](../3001-4000/3301-3400/3321.%20Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20II/README.md) | Hard |
+| 791 | [3327. Check if DFS Strings Are Palindromes](../3001-4000/3301-3400/3327.%20Check%20if%20DFS%20Strings%20Are%20Palindromes/README.md) | Hard |
+| 792 | [3329. Count Substrings With K-Frequency Characters II](../3001-4000/3301-3400/3329.%20Count%20Substrings%20With%20K-Frequency%20Characters%20II/README.md) | Hard (Premium) |
+| 793 | [3337. Total Characters in String After Transformations II](../3001-4000/3301-3400/3337.%20Total%20Characters%20in%20String%20After%20Transformations%20II/README.md) | Hard |
+| 794 | [3351. Sum of Good Subsequences](../3001-4000/3301-3400/3351.%20Sum%20of%20Good%20Subsequences/README.md) | Hard |
+| 795 | [3369. Design an Array Statistics Tracker](../3001-4000/3301-3400/3369.%20Design%20an%20Array%20Statistics%20Tracker/README.md) | Hard (Premium) |
+| 796 | [3378. Count Connected Components in LCM Graph](../3001-4000/3301-3400/3378.%20Count%20Connected%20Components%20in%20LCM%20Graph/README.md) | Hard |
+| 797 | [3389. Minimum Operations to Make Character Frequencies Equal](../3001-4000/3301-3400/3389.%20Minimum%20Operations%20to%20Make%20Character%20Frequencies%20Equal/README.md) | Hard |
+| 798 | [3395. Subsequences with a Unique Middle Mode I](../3001-4000/3301-3400/3395.%20Subsequences%20with%20a%20Unique%20Middle%20Mode%20I/README.md) | Hard |
+| 799 | [3410. Maximize Subarray Sum After Removing All Occurrences of One Element](../3001-4000/3401-3500/3410.%20Maximize%20Subarray%20Sum%20After%20Removing%20All%20Occurrences%20of%20One%20Element/README.md) | Hard |
+| 800 | [3416. Subsequences with a Unique Middle Mode II](../3001-4000/3401-3500/3416.%20Subsequences%20with%20a%20Unique%20Middle%20Mode%20II/README.md) | Hard (Premium) |
+| 801 | [3425. Longest Special Path](../3001-4000/3401-3500/3425.%20Longest%20Special%20Path/README.md) | Hard |
+| 802 | [3486. Longest Special Path II](../3001-4000/3401-3500/3486.%20Longest%20Special%20Path%20II/README.md) | Hard |
+| 803 | [3505. Minimum Operations to Make Elements Within K Subarrays Equal](../3001-4000/3501-3600/3505.%20Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal/README.md) | Hard |
+| 804 | [3509. Maximum Product of Subsequences With an Alternating Sum Equal to K](../3001-4000/3501-3600/3509.%20Maximum%20Product%20of%20Subsequences%20With%20an%20Alternating%20Sum%20Equal%20to%20K/README.md) | Hard |
+| 805 | [3510. Minimum Pair Removal to Sort Array II](../3001-4000/3501-3600/3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/README.md) | Hard |
+| 806 | [3518. Smallest Palindromic Rearrangement II](../3001-4000/3501-3600/3518.%20Smallest%20Palindromic%20Rearrangement%20II/README.md) | Hard |
+| 807 | [3548. Equal Sum Grid Partition II](../3001-4000/3501-3600/3548.%20Equal%20Sum%20Grid%20Partition%20II/README.md) | Hard |
+| 808 | [3569. Maximize Count of Distinct Primes After Split](../3001-4000/3501-3600/3569.%20Maximize%20Count%20of%20Distinct%20Primes%20After%20Split/README.md) | Hard |
+| 809 | [3625. Count Number of Trapezoids II](../3001-4000/3601-3700/3625.%20Count%20Number%20of%20Trapezoids%20II/README.md) | Hard |
+| 810 | [3636. Threshold Majority Queries](../3001-4000/3601-3700/3636.%20Threshold%20Majority%20Queries/README.md) | Hard |
+| 811 | [3715. Sum of Perfect Square Ancestors](../3001-4000/3701-3800/3715.%20Sum%20of%20Perfect%20Square%20Ancestors/README.md) | Hard |
+| 812 | [3721. Longest Balanced Subarray II](../3001-4000/3701-3800/3721.%20Longest%20Balanced%20Subarray%20II/README.md) | Hard |
+| 813 | [3729. Count Distinct Subarrays Divisible by K in Sorted Array](../3001-4000/3701-3800/3729.%20Count%20Distinct%20Subarrays%20Divisible%20by%20K%20in%20Sorted%20Array/README.md) | Hard |
+| 814 | [3739. Count Subarrays With Majority Element II](../3001-4000/3701-3800/3739.%20Count%20Subarrays%20With%20Majority%20Element%20II/README.md) | Hard |
+| 815 | [3749. Evaluate Valid Expressions](../3001-4000/3701-3800/3749.%20Evaluate%20Valid%20Expressions/README.md) | Hard (Premium) |
+| 816 | [3785. Minimum Swaps to Avoid Forbidden Values](../3001-4000/3701-3800/3785.%20Minimum%20Swaps%20to%20Avoid%20Forbidden%20Values/README.md) | Hard |
+| 817 | [3816. Lexicographically Smallest String After Deleting Duplicate Characters](../3001-4000/3801-3900/3816.%20Lexicographically%20Smallest%20String%20After%20Deleting%20Duplicate%20Characters/README.md) | Hard |
+| 818 | [3859. Count Subarrays With K Distinct Integers](../3001-4000/3801-3900/3859.%20Count%20Subarrays%20With%20K%20Distinct%20Integers/README.md) | Hard |
+| 819 | [3873. Maximum Points Activated with One Addition](../3001-4000/3801-3900/3873.%20Maximum%20Points%20Activated%20with%20One%20Addition/README.md) | Hard |
+| 820 | [3930. Power Update After K-th Largest Insertion II](../3001-4000/3901-4000/3930.%20Power%20Update%20After%20K-th%20Largest%20Insertion%20II/README.md) | Hard (Premium) |
+| 821 | [3934. Smallest Unique Subarray](../3001-4000/3901-4000/3934.%20Smallest%20Unique%20Subarray/README.md) | Hard |
+| 822 | [3943. Number of Pairs After Increment](../3001-4000/3901-4000/3943.%20Number%20of%20Pairs%20After%20Increment/README.md) | Hard |
+| 823 | [3948. Lexicographically Maximum MEX Array](../3001-4000/3901-4000/3948.%20Lexicographically%20Maximum%20MEX%20Array/README.md) | Hard |
+| 824 | [3953. Maximum Score with Co-Prime Element](../3001-4000/3901-4000/3953.%20Maximum%20Score%20with%20Co-Prime%20Element/README.md) | Hard |
+| 825 | [3972. Valid Subarrays With Matching Sum Digits II](../3001-4000/3901-4000/3972.%20Valid%20Subarrays%20With%20Matching%20Sum%20Digits%20II/README.md) | Hard (Premium) |
+| 826 | [3999. Minimum Number of String Groups Through Transformations](../3001-4000/3901-4000/3999.%20Minimum%20Number%20of%20String%20Groups%20Through%20Transformations/README.md) | Medium |

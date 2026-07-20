@@ -18,7 +18,7 @@
 
 <ul>
 	<li>Choose 1 from the first row and 2 from the second row.</li>
-	<li>The bitwise OR of <code>1 | 2 = 3</code>???????, which is the minimum possible.</li>
+	<li>The bitwise OR of <code>1 | 2 = 3</code>, which is the minimum possible.</li>
 </ul>
 </div>
 
@@ -33,7 +33,7 @@
 
 <ul>
 	<li>Choose 5 from the first row and 4 from the second row.</li>
-	<li>The bitwise OR of <code>5 | 4 = 5</code>???????, which is the minimum possible.</li>
+	<li>The bitwise OR of <code>5 | 4 = 5</code>, which is the minimum possible.</li>
 </ul>
 </div>
 
@@ -58,7 +58,7 @@
 	<li><code>1 &lt;= m == grid.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>1 &lt;= n == grid[i].length &lt;= 10<sup>5</sup></code></li>
 	<li><code>m * n &lt;= 10<sup>5</sup></code></li>
-	<li><code>1 &lt;= grid[i][j] &lt;= 10<sup>5</sup>???????</code></li>
+	<li><code>1 &lt;= grid[i][j] &lt;= 10<sup>5</sup></code></li>
 </ul>
 
 

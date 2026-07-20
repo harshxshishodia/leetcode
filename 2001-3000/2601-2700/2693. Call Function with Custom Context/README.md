@@ -57,3 +57,5 @@ args = [{&quot;item&quot;: &quot;burger&quot;}, 10, 1.1]
 ---
 
 **Difficulty:** Medium
+
+**Topics:** JavaScript

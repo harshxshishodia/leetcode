@@ -39,7 +39,7 @@
 <p><strong>Explanation:</strong></p>
 
 <ul>
-	<li><strong>???????</strong>Remove <code>&quot;cd&quot;</code> from the string, leaving <code>&quot;ba&quot;</code> as the remaining string.</li>
+	<li><strong></strong>Remove <code>&quot;cd&quot;</code> from the string, leaving <code>&quot;ba&quot;</code> as the remaining string.</li>
 	<li>Remove <code>&quot;ba&quot;</code> from the string, leaving <code>&quot;&quot;</code> as the remaining string.</li>
 	<li>No further operations are possible. Thus, the lexicographically smallest string after all possible removals is <code>&quot;&quot;</code>.</li>
 </ul>

@@ -78,7 +78,7 @@
 
 <ul>
 	<li><code>1 &lt;= value.length == decay.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>1 &lt;= value[i], decay[i] &lt;= 10<sup>9</sup>???????</code></li>
+	<li><code>1 &lt;= value[i], decay[i] &lt;= 10<sup>9</sup></code></li>
 	<li><code>1 &lt;= m &lt;= 10<sup>9</sup></code></li>
 </ul>
 

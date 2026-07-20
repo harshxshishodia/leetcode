@@ -45,3 +45,5 @@ Dog is a subclass of Animal. Therefore, a Dog object is an instance of both Dog 
 ---
 
 **Difficulty:** Medium
+
+**Topics:** JavaScript

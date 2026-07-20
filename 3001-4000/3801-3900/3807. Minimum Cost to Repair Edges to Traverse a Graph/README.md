@@ -46,7 +46,7 @@
 
 <p><strong class="example">Example 3:</strong></p>
 
-<p><strong class="example"><img alt="" src="../../../images/3807-ex3drawio.png" style="width: 312px; height: 52px;" />???????</strong></p>
+<p><strong class="example"><img alt="" src="../../../images/3807-ex3drawio.png" style="width: 312px; height: 52px;" /></strong></p>
 
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">n = 3, edges = [[0,1,1]], k = 1</span></p>

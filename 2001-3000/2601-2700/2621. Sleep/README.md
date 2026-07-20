@@ -36,3 +36,5 @@ sleep(100).then(() =&gt; {
 ---
 
 **Difficulty:** Easy
+
+**Topics:** JavaScript

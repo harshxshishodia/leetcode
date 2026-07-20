@@ -40,3 +40,5 @@ gen.next().value; // 3
 ---
 
 **Difficulty:** Easy
+
+**Topics:** JavaScript

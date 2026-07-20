@@ -7,7 +7,7 @@
 <p>For each index <code>i</code>, you must choose <strong>exactly one</strong> of the following (in any order):</p>
 
 <ul>
-	<li><code>nums2[i] = nums1[i]</code>???????</li>
+	<li><code>nums2[i] = nums1[i]</code></li>
 	<li><code>nums2[i] = nums1[i] - nums1[j]</code>, for an index <code>j != i</code>, such that <code>nums1[i] - nums1[j] &gt;= 1</code></li>
 </ul>
 
@@ -21,7 +21,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">true</span></p>
 
-<p><strong>Explanation:</strong>??????????????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>Set <code>nums2[0] = nums1[0] = 1</code>.</li>

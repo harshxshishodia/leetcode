@@ -24,12 +24,12 @@
 
 <p><strong>Output:</strong> <span class="example-io">2</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>Choose <code>x = 1</code>: maximal segment <code>[0, 0]</code> updated -&gt; nums becomes <code>[2, 2, 3]</code></li>
 	<li>Choose <code>x = 2</code>: maximal segment <code>[0, 1]</code> updated (<code>nums[0]</code> stays 2, <code>nums[1]</code> becomes 1) -&gt; <code>nums</code> becomes <code>[2, 1, 3]</code></li>
-	<li>Thus, 2 operations are required to convert <code>nums</code> to <code>target</code>.??????????????</li>
+	<li>Thus, 2 operations are required to convert <code>nums</code> to <code>target</code>.</li>
 </ul>
 </div>
 

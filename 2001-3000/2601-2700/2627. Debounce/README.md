@@ -86,3 +86,5 @@ The 3rd call is delayed by 150ms and ran at 450ms. The inputs were (5, 6).
 ---
 
 **Difficulty:** Medium
+
+**Topics:** JavaScript

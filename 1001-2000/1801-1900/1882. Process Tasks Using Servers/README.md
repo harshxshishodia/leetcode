@@ -1,6 +1,6 @@
 # 1882. Process Tasks Using Servers
 
-<p>You are given two <strong>0-indexed</strong> integer arrays <code>servers</code> and <code>tasks</code> of lengths <code>n</code>?????? and <code>m</code>?????? respectively. <code>servers[i]</code> is the <strong>weight</strong> of the <code>i<sup>??????th</sup></code>???? server, and <code>tasks[j]</code> is the <strong>time needed</strong> to process the <code>j<sup>??????th</sup></code>???? task <strong>in seconds</strong>.</p>
+<p>You are given two <strong>0-indexed</strong> integer arrays <code>servers</code> and <code>tasks</code> of lengths <code>n</code> and <code>m</code> respectively. <code>servers[i]</code> is the <strong>weight</strong> of the <code>i<sup>th</sup></code> server, and <code>tasks[j]</code> is the <strong>time needed</strong> to process the <code>j<sup>th</sup></code> task <strong>in seconds</strong>.</p>
 
 <p>Tasks are assigned to the servers using a <strong>task queue</strong>. Initially, all servers are free, and the queue is <strong>empty</strong>.</p>
 
@@ -10,9 +10,9 @@
 
 <p>A server that is assigned task <code>j</code> at second <code>t</code> will be free again at second <code>t + tasks[j]</code>.</p>
 
-<p>Build an array <code>ans</code>???? of length <code>m</code>, where <code>ans[j]</code> is the <strong>index</strong> of the server the <code>j<sup>??????th</sup></code> task will be assigned to.</p>
+<p>Build an array <code>ans</code> of length <code>m</code>, where <code>ans[j]</code> is the <strong>index</strong> of the server the <code>j<sup>th</sup></code> task will be assigned to.</p>
 
-<p>Return <em>the array </em><code>ans</code>????.</p>
+<p>Return <em>the array </em><code>ans</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>

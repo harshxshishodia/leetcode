@@ -4,7 +4,7 @@
 
 <p>Each bid is associated with a <code>userId</code>, an <code>itemId</code>, and a <code>bidAmount</code>.</p>
 
-<p>Implement the <code>AuctionSystem</code> class:???????</p>
+<p>Implement the <code>AuctionSystem</code> class:</p>
 
 <ul>
 	<li><code>AuctionSystem()</code>: Initializes the <code>AuctionSystem</code> object.</li>

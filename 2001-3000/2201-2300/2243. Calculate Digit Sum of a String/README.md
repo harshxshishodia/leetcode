@@ -20,7 +20,7 @@
 <strong>Output:</strong> &quot;135&quot;
 <strong>Explanation:</strong> 
 - For the first round, we divide s into groups of size 3: &quot;111&quot;, &quot;112&quot;, &quot;222&quot;, and &quot;23&quot;.
-  ?????Then we calculate the digit sum of each group: 1 + 1 + 1 = 3, 1 + 1 + 2 = 4, 2 + 2 + 2 = 6, and 2 + 3 = 5. 
+  Then we calculate the digit sum of each group: 1 + 1 + 1 = 3, 1 + 1 + 2 = 4, 2 + 2 + 2 = 6, and 2 + 3 = 5. 
 &nbsp; So, s becomes &quot;3&quot; + &quot;4&quot; + &quot;6&quot; + &quot;5&quot; = &quot;3465&quot; after the first round.
 - For the second round, we divide s into &quot;346&quot; and &quot;5&quot;.
 &nbsp; Then we calculate the digit sum of each group: 3 + 4 + 6 = 13, 5 = 5. 

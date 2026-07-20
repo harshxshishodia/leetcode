@@ -33,3 +33,5 @@ promise2 = new Promise(resolve =&gt; setTimeout(() =&gt; resolve(-12), 30))
 ---
 
 **Difficulty:** Easy
+
+**Topics:** JavaScript

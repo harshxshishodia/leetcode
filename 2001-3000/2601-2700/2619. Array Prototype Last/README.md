@@ -33,3 +33,5 @@
 ---
 
 **Difficulty:** Easy
+
+**Topics:** JavaScript

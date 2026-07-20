@@ -67,3 +67,5 @@ init = 25
 ---
 
 **Difficulty:** Easy
+
+**Topics:** JavaScript

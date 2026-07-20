@@ -25,7 +25,7 @@
 <p><strong>Explanation:</strong></p>
 
 <ul>
-	<li><strong>???????</strong>Prefixes of <code>num = 23</code> are 2 and 23, both are prime.</li>
+	<li><strong></strong>Prefixes of <code>num = 23</code> are 2 and 23, both are prime.</li>
 	<li>Suffixes of <code>num = 23</code> are 3 and 23, both are prime.</li>
 	<li>All prefixes and suffixes are prime, so 23 is a Complete Prime Number and the answer is <code>true</code>.</li>
 </ul>

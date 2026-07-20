@@ -89,3 +89,5 @@
 ---
 
 **Difficulty:** Medium
+
+**Topics:** Array, Matrix, Backtracking, Combinatorics

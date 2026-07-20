@@ -89,3 +89,5 @@ emitter.emit(&quot;firstEvent&quot;, [5]); // [7]</pre>
 ---
 
 **Difficulty:** Medium
+
+**Topics:** JavaScript

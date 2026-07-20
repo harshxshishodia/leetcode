@@ -27,7 +27,7 @@ A person at index <code>pos</code> sees others as follows:
 
 <p><strong>Output:</strong> <span class="example-io">2</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>Index 0 is to the left of <code>pos = 1</code>, and index 2 is to the right of <code>pos = 1</code>.</li>

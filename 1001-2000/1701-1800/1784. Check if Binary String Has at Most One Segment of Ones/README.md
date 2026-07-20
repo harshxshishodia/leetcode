@@ -1,6 +1,6 @@
 # 1784. Check if Binary String Has at Most One Segment of Ones
 
-<p>Given a binary string <code>s</code> <strong>?????without leading zeros</strong>, return <code>true</code>??? <em>if </em><code>s</code><em> contains <strong>at most one contiguous segment of ones</strong></em>. Otherwise, return <code>false</code>.</p>
+<p>Given a binary string <code>s</code> <strong>without leading zeros</strong>, return <code>true</code> <em>if </em><code>s</code><em> contains <strong>at most one contiguous segment of ones</strong></em>. Otherwise, return <code>false</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
@@ -22,7 +22,7 @@
 
 <ul>
 	<li><code>1 &lt;= s.length &lt;= 100</code></li>
-	<li><code>s[i]</code>???? is either <code>&#39;0&#39;</code> or <code>&#39;1&#39;</code>.</li>
+	<li><code>s[i]</code> is either <code>&#39;0&#39;</code> or <code>&#39;1&#39;</code>.</li>
 	<li><code>s[0]</code> is&nbsp;<code>&#39;1&#39;</code>.</li>
 </ul>
 

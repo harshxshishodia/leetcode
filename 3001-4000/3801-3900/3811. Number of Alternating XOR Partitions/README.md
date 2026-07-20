@@ -26,7 +26,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">1</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>The XOR of <code>[2, 3]</code> is 1, which matches <code>target1</code>.</li>
@@ -45,10 +45,10 @@
 <p><strong>Explanation:</strong></p>
 
 <ul>
-	<li><strong>???????</strong>The XOR of <code>[1, 0, 0]</code> is 1, which matches <code>target1</code>.</li>
+	<li><strong></strong>The XOR of <code>[1, 0, 0]</code> is 1, which matches <code>target1</code>.</li>
 	<li>The XOR of <code>[1]</code> and <code>[0, 0]</code> are 1 and 0, matching <code>target1</code> and <code>target2</code>.</li>
 	<li>The XOR of <code>[1, 0]</code> and <code>[0]</code> are 1 and 0, matching <code>target1</code> and <code>target2</code>.</li>
-	<li>Thus, the answer is 3.???????</li>
+	<li>Thus, the answer is 3.</li>
 </ul>
 </div>
 

@@ -121,53 +121,54 @@
 | 117 | [3694. Distinct Points Reachable After Substring Removal](../3001-4000/3601-3700/3694.%20Distinct%20Points%20Reachable%20After%20Substring%20Removal/README.md) | Medium |
 | 118 | [3795. Minimum Subarray Length With Distinct Sum At Least K](../3001-4000/3701-3800/3795.%20Minimum%20Subarray%20Length%20With%20Distinct%20Sum%20At%20Least%20K/README.md) | Medium |
 | 119 | [3851. Maximum Requests Without Violating the Limit](../3001-4000/3801-3900/3851.%20Maximum%20Requests%20Without%20Violating%20the%20Limit/README.md) | Medium (Premium) |
-| 120 | [3969. Valid Subarrays With Matching Sum Digits I](../3001-4000/3901-4000/3969.%20Valid%20Subarrays%20With%20Matching%20Sum%20Digits%20I/README.md) | Medium |
-| 121 | [30. Substring with Concatenation of All Words](../1-1000/1-100/30.%20Substring%20with%20Concatenation%20of%20All%20Words/README.md) | Hard |
-| 122 | [76. Minimum Window Substring](../1-1000/1-100/76.%20Minimum%20Window%20Substring/README.md) | Hard |
-| 123 | [220. Contains Duplicate III](../1-1000/201-300/220.%20Contains%20Duplicate%20III/README.md) | Hard |
-| 124 | [239. Sliding Window Maximum](../1-1000/201-300/239.%20Sliding%20Window%20Maximum/README.md) | Hard |
-| 125 | [480. Sliding Window Median](../1-1000/401-500/480.%20Sliding%20Window%20Median/README.md) | Hard |
-| 126 | [632. Smallest Range Covering Elements from K Lists](../1-1000/601-700/632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists/README.md) | Hard |
-| 127 | [683. K Empty Slots](../1-1000/601-700/683.%20K%20Empty%20Slots/README.md) | Hard (Premium) |
-| 128 | [689. Maximum Sum of 3 Non-Overlapping Subarrays](../1-1000/601-700/689.%20Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays/README.md) | Hard |
-| 129 | [727. Minimum Window Subsequence](../1-1000/701-800/727.%20Minimum%20Window%20Subsequence/README.md) | Hard (Premium) |
-| 130 | [862. Shortest Subarray with Sum at Least K](../1-1000/801-900/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K/README.md) | Hard |
-| 131 | [992. Subarrays with K Different Integers](../1-1000/901-1000/992.%20Subarrays%20with%20K%20Different%20Integers/README.md) | Hard |
-| 132 | [995. Minimum Number of K Consecutive Bit Flips](../1-1000/901-1000/995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips/README.md) | Hard |
-| 133 | [1044. Longest Duplicate Substring](../1001-2000/1001-1100/1044.%20Longest%20Duplicate%20Substring/README.md) | Hard |
-| 134 | [1425. Constrained Subsequence Sum](../1001-2000/1401-1500/1425.%20Constrained%20Subsequence%20Sum/README.md) | Hard |
-| 135 | [1499. Max Value of Equation](../1001-2000/1401-1500/1499.%20Max%20Value%20of%20Equation/README.md) | Hard |
-| 136 | [1610. Maximum Number of Visible Points](../1001-2000/1601-1700/1610.%20Maximum%20Number%20of%20Visible%20Points/README.md) | Hard |
-| 137 | [1703. Minimum Adjacent Swaps for K Consecutive Ones](../1001-2000/1701-1800/1703.%20Minimum%20Adjacent%20Swaps%20for%20K%20Consecutive%20Ones/README.md) | Hard |
-| 138 | [1956. Minimum Time For K Virus Variants to Spread](../1001-2000/1901-2000/1956.%20Minimum%20Time%20For%20K%20Virus%20Variants%20to%20Spread/README.md) | Hard (Premium) |
-| 139 | [2009. Minimum Number of Operations to Make Array Continuous](../2001-3000/2001-2100/2009.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Continuous/README.md) | Hard |
-| 140 | [2106. Maximum Fruits Harvested After at Most K Steps](../2001-3000/2101-2200/2106.%20Maximum%20Fruits%20Harvested%20After%20at%20Most%20K%20Steps/README.md) | Hard |
-| 141 | [2156. Find Substring With Given Hash Value](../2001-3000/2101-2200/2156.%20Find%20Substring%20With%20Given%20Hash%20Value/README.md) | Hard |
-| 142 | [2302. Count Subarrays With Score Less Than K](../2001-3000/2301-2400/2302.%20Count%20Subarrays%20With%20Score%20Less%20Than%20K/README.md) | Hard |
-| 143 | [2398. Maximum Number of Robots Within Budget](../2001-3000/2301-2400/2398.%20Maximum%20Number%20of%20Robots%20Within%20Budget/README.md) | Hard |
-| 144 | [2444. Count Subarrays With Fixed Bounds](../2001-3000/2401-2500/2444.%20Count%20Subarrays%20With%20Fixed%20Bounds/README.md) | Hard |
-| 145 | [2524. Maximum Frequency Score of a Subarray](../2001-3000/2501-2600/2524.%20Maximum%20Frequency%20Score%20of%20a%20Subarray/README.md) | Hard (Premium) |
-| 146 | [2528. Maximize the Minimum Powered City](../2001-3000/2501-2600/2528.%20Maximize%20the%20Minimum%20Powered%20City/README.md) | Hard |
-| 147 | [2781. Length of the Longest Valid Substring](../2001-3000/2701-2800/2781.%20Length%20of%20the%20Longest%20Valid%20Substring/README.md) | Hard |
-| 148 | [2902. Count of Sub-Multisets With Bounded Sum](../2001-3000/2901-3000/2902.%20Count%20of%20Sub-Multisets%20With%20Bounded%20Sum/README.md) | Hard |
-| 149 | [2935. Maximum Strong Pair XOR II](../2001-3000/2901-3000/2935.%20Maximum%20Strong%20Pair%20XOR%20II/README.md) | Hard |
-| 150 | [2953. Count Complete Substrings](../2001-3000/2901-3000/2953.%20Count%20Complete%20Substrings/README.md) | Hard |
-| 151 | [2968. Apply Operations to Maximize Frequency Score](../2001-3000/2901-3000/2968.%20Apply%20Operations%20to%20Maximize%20Frequency%20Score/README.md) | Hard |
-| 152 | [3013. Divide an Array Into Subarrays With Minimum Cost II](../3001-4000/3001-3100/3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/README.md) | Hard |
-| 153 | [3037. Find Pattern in Infinite Stream II](../3001-4000/3001-3100/3037.%20Find%20Pattern%20in%20Infinite%20Stream%20II/README.md) | Hard (Premium) |
-| 154 | [3086. Minimum Moves to Pick K Ones](../3001-4000/3001-3100/3086.%20Minimum%20Moves%20to%20Pick%20K%20Ones/README.md) | Hard |
-| 155 | [3134. Find the Median of the Uniqueness Array](../3001-4000/3101-3200/3134.%20Find%20the%20Median%20of%20the%20Uniqueness%20Array/README.md) | Hard |
-| 156 | [3261. Count Substrings That Satisfy K-Constraint II](../3001-4000/3201-3300/3261.%20Count%20Substrings%20That%20Satisfy%20K-Constraint%20II/README.md) | Hard |
-| 157 | [3298. Count Substrings That Can Be Rearranged to Contain a String II](../3001-4000/3201-3300/3298.%20Count%20Substrings%20That%20Can%20Be%20Rearranged%20to%20Contain%20a%20String%20II/README.md) | Hard |
-| 158 | [3321. Find X-Sum of All K-Long Subarrays II](../3001-4000/3301-3400/3321.%20Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20II/README.md) | Hard |
-| 159 | [3329. Count Substrings With K-Frequency Characters II](../3001-4000/3301-3400/3329.%20Count%20Substrings%20With%20K-Frequency%20Characters%20II/README.md) | Hard (Premium) |
-| 160 | [3347. Maximum Frequency of an Element After Performing Operations II](../3001-4000/3301-3400/3347.%20Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20II/README.md) | Hard |
-| 161 | [3420. Count Non-Decreasing Subarrays After K Operations](../3001-4000/3401-3500/3420.%20Count%20Non-Decreasing%20Subarrays%20After%20K%20Operations/README.md) | Hard |
-| 162 | [3445. Maximum Difference Between Even and Odd Frequency II](../3001-4000/3401-3500/3445.%20Maximum%20Difference%20Between%20Even%20and%20Odd%20Frequency%20II/README.md) | Hard |
-| 163 | [3505. Minimum Operations to Make Elements Within K Subarrays Equal](../3001-4000/3501-3600/3505.%20Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal/README.md) | Hard |
-| 164 | [3768. Minimum Inversion Count in Subarrays of Fixed Length](../3001-4000/3701-3800/3768.%20Minimum%20Inversion%20Count%20in%20Subarrays%20of%20Fixed%20Length/README.md) | Hard |
-| 165 | [3845. Maximum Subarray XOR with Bounded Range](../3001-4000/3801-3900/3845.%20Maximum%20Subarray%20XOR%20with%20Bounded%20Range/README.md) | Hard |
-| 166 | [3859. Count Subarrays With K Distinct Integers](../3001-4000/3801-3900/3859.%20Count%20Subarrays%20With%20K%20Distinct%20Integers/README.md) | Hard |
-| 167 | [3956. Maximum Sum of M Non-Overlapping Subarrays I](../3001-4000/3901-4000/3956.%20Maximum%20Sum%20of%20M%20Non-Overlapping%20Subarrays%20I/README.md) | Hard |
-| 168 | [3957. Maximum Sum of M Non-Overlapping Subarrays II](../3001-4000/3901-4000/3957.%20Maximum%20Sum%20of%20M%20Non-Overlapping%20Subarrays%20II/README.md) | Hard |
-| 169 | [3972. Valid Subarrays With Matching Sum Digits II](../3001-4000/3901-4000/3972.%20Valid%20Subarrays%20With%20Matching%20Sum%20Digits%20II/README.md) | Hard (Premium) |
+| 120 | [3960. Frequency Balance Subarray](../3001-4000/3901-4000/3960.%20Frequency%20Balance%20Subarray/README.md) | Medium |
+| 121 | [3969. Valid Subarrays With Matching Sum Digits I](../3001-4000/3901-4000/3969.%20Valid%20Subarrays%20With%20Matching%20Sum%20Digits%20I/README.md) | Medium |
+| 122 | [30. Substring with Concatenation of All Words](../1-1000/1-100/30.%20Substring%20with%20Concatenation%20of%20All%20Words/README.md) | Hard |
+| 123 | [76. Minimum Window Substring](../1-1000/1-100/76.%20Minimum%20Window%20Substring/README.md) | Hard |
+| 124 | [220. Contains Duplicate III](../1-1000/201-300/220.%20Contains%20Duplicate%20III/README.md) | Hard |
+| 125 | [239. Sliding Window Maximum](../1-1000/201-300/239.%20Sliding%20Window%20Maximum/README.md) | Hard |
+| 126 | [480. Sliding Window Median](../1-1000/401-500/480.%20Sliding%20Window%20Median/README.md) | Hard |
+| 127 | [632. Smallest Range Covering Elements from K Lists](../1-1000/601-700/632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists/README.md) | Hard |
+| 128 | [683. K Empty Slots](../1-1000/601-700/683.%20K%20Empty%20Slots/README.md) | Hard (Premium) |
+| 129 | [689. Maximum Sum of 3 Non-Overlapping Subarrays](../1-1000/601-700/689.%20Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays/README.md) | Hard |
+| 130 | [727. Minimum Window Subsequence](../1-1000/701-800/727.%20Minimum%20Window%20Subsequence/README.md) | Hard (Premium) |
+| 131 | [862. Shortest Subarray with Sum at Least K](../1-1000/801-900/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K/README.md) | Hard |
+| 132 | [992. Subarrays with K Different Integers](../1-1000/901-1000/992.%20Subarrays%20with%20K%20Different%20Integers/README.md) | Hard |
+| 133 | [995. Minimum Number of K Consecutive Bit Flips](../1-1000/901-1000/995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips/README.md) | Hard |
+| 134 | [1044. Longest Duplicate Substring](../1001-2000/1001-1100/1044.%20Longest%20Duplicate%20Substring/README.md) | Hard |
+| 135 | [1425. Constrained Subsequence Sum](../1001-2000/1401-1500/1425.%20Constrained%20Subsequence%20Sum/README.md) | Hard |
+| 136 | [1499. Max Value of Equation](../1001-2000/1401-1500/1499.%20Max%20Value%20of%20Equation/README.md) | Hard |
+| 137 | [1610. Maximum Number of Visible Points](../1001-2000/1601-1700/1610.%20Maximum%20Number%20of%20Visible%20Points/README.md) | Hard |
+| 138 | [1703. Minimum Adjacent Swaps for K Consecutive Ones](../1001-2000/1701-1800/1703.%20Minimum%20Adjacent%20Swaps%20for%20K%20Consecutive%20Ones/README.md) | Hard |
+| 139 | [1956. Minimum Time For K Virus Variants to Spread](../1001-2000/1901-2000/1956.%20Minimum%20Time%20For%20K%20Virus%20Variants%20to%20Spread/README.md) | Hard (Premium) |
+| 140 | [2009. Minimum Number of Operations to Make Array Continuous](../2001-3000/2001-2100/2009.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Continuous/README.md) | Hard |
+| 141 | [2106. Maximum Fruits Harvested After at Most K Steps](../2001-3000/2101-2200/2106.%20Maximum%20Fruits%20Harvested%20After%20at%20Most%20K%20Steps/README.md) | Hard |
+| 142 | [2156. Find Substring With Given Hash Value](../2001-3000/2101-2200/2156.%20Find%20Substring%20With%20Given%20Hash%20Value/README.md) | Hard |
+| 143 | [2302. Count Subarrays With Score Less Than K](../2001-3000/2301-2400/2302.%20Count%20Subarrays%20With%20Score%20Less%20Than%20K/README.md) | Hard |
+| 144 | [2398. Maximum Number of Robots Within Budget](../2001-3000/2301-2400/2398.%20Maximum%20Number%20of%20Robots%20Within%20Budget/README.md) | Hard |
+| 145 | [2444. Count Subarrays With Fixed Bounds](../2001-3000/2401-2500/2444.%20Count%20Subarrays%20With%20Fixed%20Bounds/README.md) | Hard |
+| 146 | [2524. Maximum Frequency Score of a Subarray](../2001-3000/2501-2600/2524.%20Maximum%20Frequency%20Score%20of%20a%20Subarray/README.md) | Hard (Premium) |
+| 147 | [2528. Maximize the Minimum Powered City](../2001-3000/2501-2600/2528.%20Maximize%20the%20Minimum%20Powered%20City/README.md) | Hard |
+| 148 | [2781. Length of the Longest Valid Substring](../2001-3000/2701-2800/2781.%20Length%20of%20the%20Longest%20Valid%20Substring/README.md) | Hard |
+| 149 | [2902. Count of Sub-Multisets With Bounded Sum](../2001-3000/2901-3000/2902.%20Count%20of%20Sub-Multisets%20With%20Bounded%20Sum/README.md) | Hard |
+| 150 | [2935. Maximum Strong Pair XOR II](../2001-3000/2901-3000/2935.%20Maximum%20Strong%20Pair%20XOR%20II/README.md) | Hard |
+| 151 | [2953. Count Complete Substrings](../2001-3000/2901-3000/2953.%20Count%20Complete%20Substrings/README.md) | Hard |
+| 152 | [2968. Apply Operations to Maximize Frequency Score](../2001-3000/2901-3000/2968.%20Apply%20Operations%20to%20Maximize%20Frequency%20Score/README.md) | Hard |
+| 153 | [3013. Divide an Array Into Subarrays With Minimum Cost II](../3001-4000/3001-3100/3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/README.md) | Hard |
+| 154 | [3037. Find Pattern in Infinite Stream II](../3001-4000/3001-3100/3037.%20Find%20Pattern%20in%20Infinite%20Stream%20II/README.md) | Hard (Premium) |
+| 155 | [3086. Minimum Moves to Pick K Ones](../3001-4000/3001-3100/3086.%20Minimum%20Moves%20to%20Pick%20K%20Ones/README.md) | Hard |
+| 156 | [3134. Find the Median of the Uniqueness Array](../3001-4000/3101-3200/3134.%20Find%20the%20Median%20of%20the%20Uniqueness%20Array/README.md) | Hard |
+| 157 | [3261. Count Substrings That Satisfy K-Constraint II](../3001-4000/3201-3300/3261.%20Count%20Substrings%20That%20Satisfy%20K-Constraint%20II/README.md) | Hard |
+| 158 | [3298. Count Substrings That Can Be Rearranged to Contain a String II](../3001-4000/3201-3300/3298.%20Count%20Substrings%20That%20Can%20Be%20Rearranged%20to%20Contain%20a%20String%20II/README.md) | Hard |
+| 159 | [3321. Find X-Sum of All K-Long Subarrays II](../3001-4000/3301-3400/3321.%20Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20II/README.md) | Hard |
+| 160 | [3329. Count Substrings With K-Frequency Characters II](../3001-4000/3301-3400/3329.%20Count%20Substrings%20With%20K-Frequency%20Characters%20II/README.md) | Hard (Premium) |
+| 161 | [3347. Maximum Frequency of an Element After Performing Operations II](../3001-4000/3301-3400/3347.%20Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20II/README.md) | Hard |
+| 162 | [3420. Count Non-Decreasing Subarrays After K Operations](../3001-4000/3401-3500/3420.%20Count%20Non-Decreasing%20Subarrays%20After%20K%20Operations/README.md) | Hard |
+| 163 | [3445. Maximum Difference Between Even and Odd Frequency II](../3001-4000/3401-3500/3445.%20Maximum%20Difference%20Between%20Even%20and%20Odd%20Frequency%20II/README.md) | Hard |
+| 164 | [3505. Minimum Operations to Make Elements Within K Subarrays Equal](../3001-4000/3501-3600/3505.%20Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal/README.md) | Hard |
+| 165 | [3768. Minimum Inversion Count in Subarrays of Fixed Length](../3001-4000/3701-3800/3768.%20Minimum%20Inversion%20Count%20in%20Subarrays%20of%20Fixed%20Length/README.md) | Hard |
+| 166 | [3845. Maximum Subarray XOR with Bounded Range](../3001-4000/3801-3900/3845.%20Maximum%20Subarray%20XOR%20with%20Bounded%20Range/README.md) | Hard |
+| 167 | [3859. Count Subarrays With K Distinct Integers](../3001-4000/3801-3900/3859.%20Count%20Subarrays%20With%20K%20Distinct%20Integers/README.md) | Hard |
+| 168 | [3956. Maximum Sum of M Non-Overlapping Subarrays I](../3001-4000/3901-4000/3956.%20Maximum%20Sum%20of%20M%20Non-Overlapping%20Subarrays%20I/README.md) | Hard |
+| 169 | [3957. Maximum Sum of M Non-Overlapping Subarrays II](../3001-4000/3901-4000/3957.%20Maximum%20Sum%20of%20M%20Non-Overlapping%20Subarrays%20II/README.md) | Hard |
+| 170 | [3972. Valid Subarrays With Matching Sum Digits II](../3001-4000/3901-4000/3972.%20Valid%20Subarrays%20With%20Matching%20Sum%20Digits%20II/README.md) | Hard (Premium) |

@@ -46,3 +46,5 @@ DataFrame <code>employees</code>
 ---
 
 **Difficulty:** Easy
+
+**Topics:** Database, Pandas, DataFrame

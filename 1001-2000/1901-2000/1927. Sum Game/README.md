@@ -40,10 +40,10 @@ The sum of the first half is equal to the sum of the second half: 5 + 0 = 2 + 3.
 <p><strong class="example">Example 3:</strong></p>
 
 <pre>
-<strong>Input:</strong> num = &quot;?3295???&quot;
+<strong>Input:</strong> num = &quot;?3295&quot;
 <strong>Output:</strong> false
 <strong>Explanation:</strong> It can be proven that Bob will always win. One possible outcome is:
-- Alice replaces the first &#39;?&#39; with &#39;9&#39;. num = &quot;93295???&quot;.
+- Alice replaces the first &#39;?&#39; with &#39;9&#39;. num = &quot;93295&quot;.
 - Bob replaces one of the &#39;?&#39; in the right half with &#39;9&#39;. num = &quot;932959??&quot;.
 - Alice replaces one of the &#39;?&#39; in the right half with &#39;2&#39;. num = &quot;9329592?&quot;.
 - Bob replaces the last &#39;?&#39; in the right half with &#39;7&#39;. num = &quot;93295927&quot;.

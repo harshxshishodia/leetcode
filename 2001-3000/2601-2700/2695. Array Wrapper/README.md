@@ -53,3 +53,5 @@ obj1 + obj2; // 0
 ---
 
 **Difficulty:** Easy
+
+**Topics:** JavaScript

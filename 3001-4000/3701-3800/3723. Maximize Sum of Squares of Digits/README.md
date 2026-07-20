@@ -11,7 +11,7 @@
 
 <p>The <strong>score</strong> of a <strong>good</strong> integer <code>n</code> is the sum of the squares of digits in <code>n</code>.</p>
 
-<p>Return a <strong>string</strong> denoting the <strong>good</strong> integer <code>n</code> that achieves the <strong>maximum</strong> <strong>score</strong>. If there are multiple possible integers, return the <strong>maximum </strong>???????one. If no such integer exists, return an empty string.</p>
+<p>Return a <strong>string</strong> denoting the <strong>good</strong> integer <code>n</code> that achieves the <strong>maximum</strong> <strong>score</strong>. If there are multiple possible integers, return the <strong>maximum </strong>one. If no such integer exists, return an empty string.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>

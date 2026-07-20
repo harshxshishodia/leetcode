@@ -255,3 +255,6 @@
 | 251 | [3534. Path Existence Queries in a Graph II](../3001-4000/3501-3600/3534.%20Path%20Existence%20Queries%20in%20a%20Graph%20II/README.md) | Hard |
 | 252 | [3734. Lexicographically Smallest Palindromic Permutation Greater Than Target](../3001-4000/3701-3800/3734.%20Lexicographically%20Smallest%20Palindromic%20Permutation%20Greater%20Than%20Target/README.md) | Hard |
 | 253 | [3801. Minimum Cost to Merge Sorted Lists](../3001-4000/3801-3900/3801.%20Minimum%20Cost%20to%20Merge%20Sorted%20Lists/README.md) | Hard |
+| 254 | [3983. Subsequence After One Replacement](../3001-4000/3901-4000/3983.%20Subsequence%20After%20One%20Replacement/README.md) | Medium |
+| 255 | [3985. Palindromic Subarray Sum](../3001-4000/3901-4000/3985.%20Palindromic%20Subarray%20Sum/README.md) | Hard |
+| 256 | [3994. Minimum Adjacent Swaps to Partition Array](../3001-4000/3901-4000/3994.%20Minimum%20Adjacent%20Swaps%20to%20Partition%20Array/README.md) | Medium |

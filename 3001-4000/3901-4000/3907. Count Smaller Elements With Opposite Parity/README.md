@@ -39,7 +39,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">[1,1,0]</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 
 <p>For <code>i = 0</code> and <code>i = 1</code>, the element <code>nums[2] = 1</code> is smaller and has different parity. Thus, the <code>answer = [1, 1, 0]</code>.</p>
 </div>
@@ -61,9 +61,11 @@
 
 <ul>
 	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>1 &lt;= nums[i] &lt;= 10<sup>9</sup></code>???????</li>
+	<li><code>1 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
 
 ---
 
 **Difficulty:** Medium
+
+**Topics:** Array, Binary Indexed Tree, Segment Tree

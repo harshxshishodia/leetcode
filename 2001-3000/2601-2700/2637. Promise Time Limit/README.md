@@ -63,7 +63,7 @@ inputs = [5,10]
 t = 150
 <strong>Output:</strong> {&quot;resolved&quot;:15,&quot;time&quot;:120}
 <strong>Explanation:</strong>
-????The function resolved 5 + 10 = 15 at t=120ms. The time limit is never reached.
+The function resolved 5 + 10 = 15 at t=120ms. The time limit is never reached.
 </pre>
 
 <p><strong class="example">Example 4:</strong></p>
@@ -92,3 +92,5 @@ The function immediately throws an error.</pre>
 ---
 
 **Difficulty:** Medium
+
+**Topics:** JavaScript

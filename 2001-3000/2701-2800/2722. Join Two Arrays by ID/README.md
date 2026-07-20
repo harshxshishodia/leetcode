@@ -84,3 +84,5 @@ arr2 = [
 ---
 
 **Difficulty:** Medium
+
+**Topics:** JavaScript

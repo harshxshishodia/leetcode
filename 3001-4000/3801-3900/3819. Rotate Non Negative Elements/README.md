@@ -18,7 +18,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">[3,-2,1,-4]</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>The non-negative elements, in order, are <code>[1, 3]</code>.</li>

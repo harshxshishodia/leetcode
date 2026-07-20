@@ -23,7 +23,7 @@
 
 <p><strong>Explanation:</strong></p>
 
-<p>The path followed is <code><u>0</u><sup>(0)</sup> &rarr; <u>1</u><sup>(1)</sup> &rarr;??????? <u>2</u><sup>(5)</sup> <u>&rarr;</u> 1<sup>(7)</sup> <u>&rarr;</u>??????? <u>0</u><sup>(8)</sup> <u>&rarr;</u> <u>2</u><sup>(12)</sup></code>.</p>
+<p>The path followed is <code><u>0</u><sup>(0)</sup> &rarr; <u>1</u><sup>(1)</sup> &rarr; <u>2</u><sup>(5)</sup> <u>&rarr;</u> 1<sup>(7)</sup> <u>&rarr;</u> <u>0</u><sup>(8)</sup> <u>&rarr;</u> <u>2</u><sup>(12)</sup></code>.</p>
 
 <p><strong>Note:</strong> The notation used is <code>node<sup>(total time)</sup></code>, <code>&rarr;</code> represents forward road, and <code><u>&rarr;</u></code> represents backward road.</p>
 </div>
@@ -37,7 +37,7 @@
 
 <p><strong>Explanation:</strong></p>
 
-<p>The path travelled is <code><u>0</u> &rarr;??????? <u>1</u> &rarr;??????? <u>2</u> &rarr;??????? <u>3</u> &rarr; <u>0</u></code>. Each step is in the forward direction and requires 1 second.</p>
+<p>The path travelled is <code><u>0</u> &rarr; <u>1</u> &rarr; <u>2</u> &rarr; <u>3</u> &rarr; <u>0</u></code>. Each step is in the forward direction and requires 1 second.</p>
 </div>
 
 <p>&nbsp;</p>

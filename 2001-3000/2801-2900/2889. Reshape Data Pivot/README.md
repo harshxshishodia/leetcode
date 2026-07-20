@@ -50,3 +50,5 @@ DataFrame <code>weather</code>
 ---
 
 **Difficulty:** Easy
+
+**Topics:** Database, Pandas, DataFrame

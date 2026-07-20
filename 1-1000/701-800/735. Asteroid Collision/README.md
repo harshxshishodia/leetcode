@@ -34,7 +34,7 @@
 <p><strong class="example">Example 4:</strong></p>
 
 <pre>
-<strong>Input:</strong> asteroids = [3,5,-6,2,-1,4]???????
+<strong>Input:</strong> asteroids = [3,5,-6,2,-1,4]
 <strong>Output:</strong> [-6,2,4]
 <strong>Explanation:</strong> The asteroid -6 makes the asteroid 3 and 5 explode, and then continues going left. On the other side, the asteroid 2 destroys -1. Since 2 and 4 are both moving right, they never collide.
 </pre>

@@ -136,88 +136,89 @@
 | 132 | [3781. Maximum Score After Binary Swaps](../3001-4000/3701-3800/3781.%20Maximum%20Score%20After%20Binary%20Swaps/README.md) | Medium |
 | 133 | [3815. Design Auction System](../3001-4000/3801-3900/3815.%20Design%20Auction%20System/README.md) | Medium |
 | 134 | [3885. Design Event Manager](../3001-4000/3801-3900/3885.%20Design%20Event%20Manager/README.md) | Medium |
-| 135 | [3935. Power Update After K-th Largest Insertion I](../3001-4000/3901-4000/3935.%20Power%20Update%20After%20K-th%20Largest%20Insertion%20I/README.md) | Medium (Premium) |
-| 136 | [3947. Maximum Number of Items From Sale II](../3001-4000/3901-4000/3947.%20Maximum%20Number%20of%20Items%20From%20Sale%20II/README.md) | Medium |
-| 137 | [3970. Shortest Path With At Most K Consecutive Identical Characters](../3001-4000/3901-4000/3970.%20Shortest%20Path%20With%20At%20Most%20K%20Consecutive%20Identical%20Characters/README.md) | Medium |
-| 138 | [23. Merge k Sorted Lists](../1-1000/1-100/23.%20Merge%20k%20Sorted%20Lists/README.md) | Hard |
-| 139 | [218. The Skyline Problem](../1-1000/201-300/218.%20The%20Skyline%20Problem/README.md) | Hard |
-| 140 | [239. Sliding Window Maximum](../1-1000/201-300/239.%20Sliding%20Window%20Maximum/README.md) | Hard |
-| 141 | [272. Closest Binary Search Tree Value II](../1-1000/201-300/272.%20Closest%20Binary%20Search%20Tree%20Value%20II/README.md) | Hard (Premium) |
-| 142 | [295. Find Median from Data Stream](../1-1000/201-300/295.%20Find%20Median%20from%20Data%20Stream/README.md) | Hard |
-| 143 | [332. Reconstruct Itinerary](../1-1000/301-400/332.%20Reconstruct%20Itinerary/README.md) | Hard |
-| 144 | [358. Rearrange String k Distance Apart](../1-1000/301-400/358.%20Rearrange%20String%20k%20Distance%20Apart/README.md) | Hard (Premium) |
-| 145 | [407. Trapping Rain Water II](../1-1000/401-500/407.%20Trapping%20Rain%20Water%20II/README.md) | Hard |
-| 146 | [420. Strong Password Checker](../1-1000/401-500/420.%20Strong%20Password%20Checker/README.md) | Hard |
-| 147 | [480. Sliding Window Median](../1-1000/401-500/480.%20Sliding%20Window%20Median/README.md) | Hard |
-| 148 | [499. The Maze III](../1-1000/401-500/499.%20The%20Maze%20III/README.md) | Hard (Premium) |
-| 149 | [502. IPO](../1-1000/501-600/502.%20IPO/README.md) | Hard |
-| 150 | [630. Course Schedule III](../1-1000/601-700/630.%20Course%20Schedule%20III/README.md) | Hard |
-| 151 | [632. Smallest Range Covering Elements from K Lists](../1-1000/601-700/632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists/README.md) | Hard |
-| 152 | [642. Design Search Autocomplete System](../1-1000/601-700/642.%20Design%20Search%20Autocomplete%20System/README.md) | Hard (Premium) |
-| 153 | [675. Cut Off Trees for Golf Event](../1-1000/601-700/675.%20Cut%20Off%20Trees%20for%20Golf%20Event/README.md) | Hard |
-| 154 | [683. K Empty Slots](../1-1000/601-700/683.%20K%20Empty%20Slots/README.md) | Hard (Premium) |
-| 155 | [759. Employee Free Time](../1-1000/701-800/759.%20Employee%20Free%20Time/README.md) | Hard (Premium) |
-| 156 | [778. Swim in Rising Water](../1-1000/701-800/778.%20Swim%20in%20Rising%20Water/README.md) | Hard |
-| 157 | [857. Minimum Cost to Hire K Workers](../1-1000/801-900/857.%20Minimum%20Cost%20to%20Hire%20K%20Workers/README.md) | Hard |
-| 158 | [862. Shortest Subarray with Sum at Least K](../1-1000/801-900/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K/README.md) | Hard |
-| 159 | [871. Minimum Number of Refueling Stops](../1-1000/801-900/871.%20Minimum%20Number%20of%20Refueling%20Stops/README.md) | Hard |
-| 160 | [882. Reachable Nodes In Subdivided Graph](../1-1000/801-900/882.%20Reachable%20Nodes%20In%20Subdivided%20Graph/README.md) | Hard |
-| 161 | [1168. Optimize Water Distribution in a Village](../1001-2000/1101-1200/1168.%20Optimize%20Water%20Distribution%20in%20a%20Village/README.md) | Hard (Premium) |
-| 162 | [1172. Dinner Plate Stacks](../1001-2000/1101-1200/1172.%20Dinner%20Plate%20Stacks/README.md) | Hard |
-| 163 | [1183. Maximum Number of Ones](../1001-2000/1101-1200/1183.%20Maximum%20Number%20of%20Ones/README.md) | Hard (Premium) |
-| 164 | [1199. Minimum Time to Build Blocks](../1001-2000/1101-1200/1199.%20Minimum%20Time%20to%20Build%20Blocks/README.md) | Hard (Premium) |
-| 165 | [1263. Minimum Moves to Move a Box to Their Target Location](../1001-2000/1201-1300/1263.%20Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location/README.md) | Hard |
-| 166 | [1354. Construct Target Array With Multiple Sums](../1001-2000/1301-1400/1354.%20Construct%20Target%20Array%20With%20Multiple%20Sums/README.md) | Hard |
-| 167 | [1368. Minimum Cost to Make at Least One Valid Path in a Grid](../1001-2000/1301-1400/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid/README.md) | Hard |
-| 168 | [1383. Maximum Performance of a Team](../1001-2000/1301-1400/1383.%20Maximum%20Performance%20of%20a%20Team/README.md) | Hard |
-| 169 | [1388. Pizza With 3n Slices](../1001-2000/1301-1400/1388.%20Pizza%20With%203n%20Slices/README.md) | Hard |
-| 170 | [1425. Constrained Subsequence Sum](../1001-2000/1401-1500/1425.%20Constrained%20Subsequence%20Sum/README.md) | Hard |
-| 171 | [1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows](../1001-2000/1401-1500/1439.%20Find%20the%20Kth%20Smallest%20Sum%20of%20a%20Matrix%20With%20Sorted%20Rows/README.md) | Hard |
-| 172 | [1499. Max Value of Equation](../1001-2000/1401-1500/1499.%20Max%20Value%20of%20Equation/README.md) | Hard |
-| 173 | [1606. Find Servers That Handled Most Number of Requests](../1001-2000/1601-1700/1606.%20Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests/README.md) | Hard |
-| 174 | [1675. Minimize Deviation in Array](../1001-2000/1601-1700/1675.%20Minimize%20Deviation%20in%20Array/README.md) | Hard |
-| 175 | [1687. Delivering Boxes from Storage to Ports](../1001-2000/1601-1700/1687.%20Delivering%20Boxes%20from%20Storage%20to%20Ports/README.md) | Hard |
-| 176 | [1724. Checking Existence of Edge Length Limited Paths II](../1001-2000/1701-1800/1724.%20Checking%20Existence%20of%20Edge%20Length%20Limited%20Paths%20II/README.md) | Hard (Premium) |
-| 177 | [1776. Car Fleet II](../1001-2000/1701-1800/1776.%20Car%20Fleet%20II/README.md) | Hard |
-| 178 | [1825. Finding MK Average](../1001-2000/1801-1900/1825.%20Finding%20MK%20Average/README.md) | Hard |
-| 179 | [1851. Minimum Interval to Include Each Query](../1001-2000/1801-1900/1851.%20Minimum%20Interval%20to%20Include%20Each%20Query/README.md) | Hard |
-| 180 | [1912. Design Movie Rental System](../1001-2000/1901-2000/1912.%20Design%20Movie%20Rental%20System/README.md) | Hard |
-| 181 | [2102. Sequentially Ordinal Rank Tracker](../2001-3000/2101-2200/2102.%20Sequentially%20Ordinal%20Rank%20Tracker/README.md) | Hard |
-| 182 | [2163. Minimum Difference in Sums After Removal of Elements](../2001-3000/2101-2200/2163.%20Minimum%20Difference%20in%20Sums%20After%20Removal%20of%20Elements/README.md) | Hard |
-| 183 | [2203. Minimum Weighted Subgraph With the Required Paths](../2001-3000/2201-2300/2203.%20Minimum%20Weighted%20Subgraph%20With%20the%20Required%20Paths/README.md) | Hard |
-| 184 | [2254. Design Video Sharing Platform](../2001-3000/2201-2300/2254.%20Design%20Video%20Sharing%20Platform/README.md) | Hard (Premium) |
-| 185 | [2263. Make Array Non-decreasing or Non-increasing](../2001-3000/2201-2300/2263.%20Make%20Array%20Non-decreasing%20or%20Non-increasing/README.md) | Hard (Premium) |
-| 186 | [2290. Minimum Obstacle Removal to Reach Corner](../2001-3000/2201-2300/2290.%20Minimum%20Obstacle%20Removal%20to%20Reach%20Corner/README.md) | Hard |
-| 187 | [2344. Minimum Deletions to Make Array Divisible](../2001-3000/2301-2400/2344.%20Minimum%20Deletions%20to%20Make%20Array%20Divisible/README.md) | Hard |
-| 188 | [2386. Find the K-Sum of an Array](../2001-3000/2301-2400/2386.%20Find%20the%20K-Sum%20of%20an%20Array/README.md) | Hard |
-| 189 | [2398. Maximum Number of Robots Within Budget](../2001-3000/2301-2400/2398.%20Maximum%20Number%20of%20Robots%20Within%20Budget/README.md) | Hard |
-| 190 | [2402. Meeting Rooms III](../2001-3000/2401-2500/2402.%20Meeting%20Rooms%20III/README.md) | Hard |
-| 191 | [2454. Next Greater Element IV](../2001-3000/2401-2500/2454.%20Next%20Greater%20Element%20IV/README.md) | Hard |
-| 192 | [2503. Maximum Number of Points From Grid Queries](../2001-3000/2501-2600/2503.%20Maximum%20Number%20of%20Points%20From%20Grid%20Queries/README.md) | Hard |
-| 193 | [2532. Time to Cross a Bridge](../2001-3000/2501-2600/2532.%20Time%20to%20Cross%20a%20Bridge/README.md) | Hard |
-| 194 | [2551. Put Marbles in Bags](../2001-3000/2501-2600/2551.%20Put%20Marbles%20in%20Bags/README.md) | Hard |
-| 195 | [2577. Minimum Time to Visit a Cell In a Grid](../2001-3000/2501-2600/2577.%20Minimum%20Time%20to%20Visit%20a%20Cell%20In%20a%20Grid/README.md) | Hard |
-| 196 | [2617. Minimum Number of Visited Cells in a Grid](../2001-3000/2601-2700/2617.%20Minimum%20Number%20of%20Visited%20Cells%20in%20a%20Grid/README.md) | Hard |
-| 197 | [2642. Design Graph With Shortest Path Calculator](../2001-3000/2601-2700/2642.%20Design%20Graph%20With%20Shortest%20Path%20Calculator/README.md) | Hard |
-| 198 | [2699. Modify Graph Edge Weights](../2001-3000/2601-2700/2699.%20Modify%20Graph%20Edge%20Weights/README.md) | Hard |
-| 199 | [2714. Find Shortest Path with K Hops](../2001-3000/2701-2800/2714.%20Find%20Shortest%20Path%20with%20K%20Hops/README.md) | Hard (Premium) |
-| 200 | [2813. Maximum Elegance of a K-Length Subsequence](../2001-3000/2801-2900/2813.%20Maximum%20Elegance%20of%20a%20K-Length%20Subsequence/README.md) | Hard |
-| 201 | [2931. Maximum Spending After Buying Items](../2001-3000/2901-3000/2931.%20Maximum%20Spending%20After%20Buying%20Items/README.md) | Hard |
-| 202 | [2940. Find Building Where Alice and Bob Can Meet](../2001-3000/2901-3000/2940.%20Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet/README.md) | Hard |
-| 203 | [2959. Number of Possible Sets of Closing Branches](../2001-3000/2901-3000/2959.%20Number%20of%20Possible%20Sets%20of%20Closing%20Branches/README.md) | Hard |
-| 204 | [2969. Minimum Number of Coins for Fruits II](../2001-3000/2901-3000/2969.%20Minimum%20Number%20of%20Coins%20for%20Fruits%20II/README.md) | Hard (Premium) |
-| 205 | [2973. Find Number of Coins to Place in Tree Nodes](../2001-3000/2901-3000/2973.%20Find%20Number%20of%20Coins%20to%20Place%20in%20Tree%20Nodes/README.md) | Hard |
-| 206 | [3013. Divide an Array Into Subarrays With Minimum Cost II](../3001-4000/3001-3100/3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/README.md) | Hard |
-| 207 | [3049. Earliest Second to Mark Indices II](../3001-4000/3001-3100/3049.%20Earliest%20Second%20to%20Mark%20Indices%20II/README.md) | Hard |
-| 208 | [3123. Find Edges in Shortest Paths](../3001-4000/3101-3200/3123.%20Find%20Edges%20in%20Shortest%20Paths/README.md) | Hard |
-| 209 | [3266. Final Array State After K Multiplication Operations II](../3001-4000/3201-3300/3266.%20Final%20Array%20State%20After%20K%20Multiplication%20Operations%20II/README.md) | Hard |
-| 210 | [3321. Find X-Sum of All K-Long Subarrays II](../3001-4000/3301-3400/3321.%20Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20II/README.md) | Hard |
-| 211 | [3369. Design an Array Statistics Tracker](../3001-4000/3301-3400/3369.%20Design%20an%20Array%20Statistics%20Tracker/README.md) | Hard (Premium) |
-| 212 | [3505. Minimum Operations to Make Elements Within K Subarrays Equal](../3001-4000/3501-3600/3505.%20Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal/README.md) | Hard |
-| 213 | [3506. Find Time Required to Eliminate Bacterial Strains](../3001-4000/3501-3600/3506.%20Find%20Time%20Required%20to%20Eliminate%20Bacterial%20Strains/README.md) | Hard (Premium) |
-| 214 | [3510. Minimum Pair Removal to Sort Array II](../3001-4000/3501-3600/3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/README.md) | Hard |
-| 215 | [3594. Minimum Time to Transport All Individuals](../3001-4000/3501-3600/3594.%20Minimum%20Time%20to%20Transport%20All%20Individuals/README.md) | Hard |
-| 216 | [3620. Network Recovery Pathways](../3001-4000/3601-3700/3620.%20Network%20Recovery%20Pathways/README.md) | Hard |
-| 217 | [3691. Maximum Total Subarray Value II](../3001-4000/3601-3700/3691.%20Maximum%20Total%20Subarray%20Value%20II/README.md) | Hard |
-| 218 | [3928. Minimum Cost to Buy Apples II](../3001-4000/3901-4000/3928.%20Minimum%20Cost%20to%20Buy%20Apples%20II/README.md) | Hard |
-| 219 | [3977. Minimum Time to Reach Target With Limited Power](../3001-4000/3901-4000/3977.%20Minimum%20Time%20to%20Reach%20Target%20With%20Limited%20Power/README.md) | Hard |
+| 135 | [3893. Maximum Team Size with Overlapping Intervals](../3001-4000/3801-3900/3893.%20Maximum%20Team%20Size%20with%20Overlapping%20Intervals/README.md) | Medium |
+| 136 | [3935. Power Update After K-th Largest Insertion I](../3001-4000/3901-4000/3935.%20Power%20Update%20After%20K-th%20Largest%20Insertion%20I/README.md) | Medium (Premium) |
+| 137 | [3947. Maximum Number of Items From Sale II](../3001-4000/3901-4000/3947.%20Maximum%20Number%20of%20Items%20From%20Sale%20II/README.md) | Medium |
+| 138 | [3970. Shortest Path With At Most K Consecutive Identical Characters](../3001-4000/3901-4000/3970.%20Shortest%20Path%20With%20At%20Most%20K%20Consecutive%20Identical%20Characters/README.md) | Medium |
+| 139 | [23. Merge k Sorted Lists](../1-1000/1-100/23.%20Merge%20k%20Sorted%20Lists/README.md) | Hard |
+| 140 | [218. The Skyline Problem](../1-1000/201-300/218.%20The%20Skyline%20Problem/README.md) | Hard |
+| 141 | [239. Sliding Window Maximum](../1-1000/201-300/239.%20Sliding%20Window%20Maximum/README.md) | Hard |
+| 142 | [272. Closest Binary Search Tree Value II](../1-1000/201-300/272.%20Closest%20Binary%20Search%20Tree%20Value%20II/README.md) | Hard (Premium) |
+| 143 | [295. Find Median from Data Stream](../1-1000/201-300/295.%20Find%20Median%20from%20Data%20Stream/README.md) | Hard |
+| 144 | [332. Reconstruct Itinerary](../1-1000/301-400/332.%20Reconstruct%20Itinerary/README.md) | Hard |
+| 145 | [358. Rearrange String k Distance Apart](../1-1000/301-400/358.%20Rearrange%20String%20k%20Distance%20Apart/README.md) | Hard (Premium) |
+| 146 | [407. Trapping Rain Water II](../1-1000/401-500/407.%20Trapping%20Rain%20Water%20II/README.md) | Hard |
+| 147 | [420. Strong Password Checker](../1-1000/401-500/420.%20Strong%20Password%20Checker/README.md) | Hard |
+| 148 | [480. Sliding Window Median](../1-1000/401-500/480.%20Sliding%20Window%20Median/README.md) | Hard |
+| 149 | [499. The Maze III](../1-1000/401-500/499.%20The%20Maze%20III/README.md) | Hard (Premium) |
+| 150 | [502. IPO](../1-1000/501-600/502.%20IPO/README.md) | Hard |
+| 151 | [630. Course Schedule III](../1-1000/601-700/630.%20Course%20Schedule%20III/README.md) | Hard |
+| 152 | [632. Smallest Range Covering Elements from K Lists](../1-1000/601-700/632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists/README.md) | Hard |
+| 153 | [642. Design Search Autocomplete System](../1-1000/601-700/642.%20Design%20Search%20Autocomplete%20System/README.md) | Hard (Premium) |
+| 154 | [675. Cut Off Trees for Golf Event](../1-1000/601-700/675.%20Cut%20Off%20Trees%20for%20Golf%20Event/README.md) | Hard |
+| 155 | [683. K Empty Slots](../1-1000/601-700/683.%20K%20Empty%20Slots/README.md) | Hard (Premium) |
+| 156 | [759. Employee Free Time](../1-1000/701-800/759.%20Employee%20Free%20Time/README.md) | Hard (Premium) |
+| 157 | [778. Swim in Rising Water](../1-1000/701-800/778.%20Swim%20in%20Rising%20Water/README.md) | Hard |
+| 158 | [857. Minimum Cost to Hire K Workers](../1-1000/801-900/857.%20Minimum%20Cost%20to%20Hire%20K%20Workers/README.md) | Hard |
+| 159 | [862. Shortest Subarray with Sum at Least K](../1-1000/801-900/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K/README.md) | Hard |
+| 160 | [871. Minimum Number of Refueling Stops](../1-1000/801-900/871.%20Minimum%20Number%20of%20Refueling%20Stops/README.md) | Hard |
+| 161 | [882. Reachable Nodes In Subdivided Graph](../1-1000/801-900/882.%20Reachable%20Nodes%20In%20Subdivided%20Graph/README.md) | Hard |
+| 162 | [1168. Optimize Water Distribution in a Village](../1001-2000/1101-1200/1168.%20Optimize%20Water%20Distribution%20in%20a%20Village/README.md) | Hard (Premium) |
+| 163 | [1172. Dinner Plate Stacks](../1001-2000/1101-1200/1172.%20Dinner%20Plate%20Stacks/README.md) | Hard |
+| 164 | [1183. Maximum Number of Ones](../1001-2000/1101-1200/1183.%20Maximum%20Number%20of%20Ones/README.md) | Hard (Premium) |
+| 165 | [1199. Minimum Time to Build Blocks](../1001-2000/1101-1200/1199.%20Minimum%20Time%20to%20Build%20Blocks/README.md) | Hard (Premium) |
+| 166 | [1263. Minimum Moves to Move a Box to Their Target Location](../1001-2000/1201-1300/1263.%20Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location/README.md) | Hard |
+| 167 | [1354. Construct Target Array With Multiple Sums](../1001-2000/1301-1400/1354.%20Construct%20Target%20Array%20With%20Multiple%20Sums/README.md) | Hard |
+| 168 | [1368. Minimum Cost to Make at Least One Valid Path in a Grid](../1001-2000/1301-1400/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid/README.md) | Hard |
+| 169 | [1383. Maximum Performance of a Team](../1001-2000/1301-1400/1383.%20Maximum%20Performance%20of%20a%20Team/README.md) | Hard |
+| 170 | [1388. Pizza With 3n Slices](../1001-2000/1301-1400/1388.%20Pizza%20With%203n%20Slices/README.md) | Hard |
+| 171 | [1425. Constrained Subsequence Sum](../1001-2000/1401-1500/1425.%20Constrained%20Subsequence%20Sum/README.md) | Hard |
+| 172 | [1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows](../1001-2000/1401-1500/1439.%20Find%20the%20Kth%20Smallest%20Sum%20of%20a%20Matrix%20With%20Sorted%20Rows/README.md) | Hard |
+| 173 | [1499. Max Value of Equation](../1001-2000/1401-1500/1499.%20Max%20Value%20of%20Equation/README.md) | Hard |
+| 174 | [1606. Find Servers That Handled Most Number of Requests](../1001-2000/1601-1700/1606.%20Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests/README.md) | Hard |
+| 175 | [1675. Minimize Deviation in Array](../1001-2000/1601-1700/1675.%20Minimize%20Deviation%20in%20Array/README.md) | Hard |
+| 176 | [1687. Delivering Boxes from Storage to Ports](../1001-2000/1601-1700/1687.%20Delivering%20Boxes%20from%20Storage%20to%20Ports/README.md) | Hard |
+| 177 | [1724. Checking Existence of Edge Length Limited Paths II](../1001-2000/1701-1800/1724.%20Checking%20Existence%20of%20Edge%20Length%20Limited%20Paths%20II/README.md) | Hard (Premium) |
+| 178 | [1776. Car Fleet II](../1001-2000/1701-1800/1776.%20Car%20Fleet%20II/README.md) | Hard |
+| 179 | [1825. Finding MK Average](../1001-2000/1801-1900/1825.%20Finding%20MK%20Average/README.md) | Hard |
+| 180 | [1851. Minimum Interval to Include Each Query](../1001-2000/1801-1900/1851.%20Minimum%20Interval%20to%20Include%20Each%20Query/README.md) | Hard |
+| 181 | [1912. Design Movie Rental System](../1001-2000/1901-2000/1912.%20Design%20Movie%20Rental%20System/README.md) | Hard |
+| 182 | [2102. Sequentially Ordinal Rank Tracker](../2001-3000/2101-2200/2102.%20Sequentially%20Ordinal%20Rank%20Tracker/README.md) | Hard |
+| 183 | [2163. Minimum Difference in Sums After Removal of Elements](../2001-3000/2101-2200/2163.%20Minimum%20Difference%20in%20Sums%20After%20Removal%20of%20Elements/README.md) | Hard |
+| 184 | [2203. Minimum Weighted Subgraph With the Required Paths](../2001-3000/2201-2300/2203.%20Minimum%20Weighted%20Subgraph%20With%20the%20Required%20Paths/README.md) | Hard |
+| 185 | [2254. Design Video Sharing Platform](../2001-3000/2201-2300/2254.%20Design%20Video%20Sharing%20Platform/README.md) | Hard (Premium) |
+| 186 | [2263. Make Array Non-decreasing or Non-increasing](../2001-3000/2201-2300/2263.%20Make%20Array%20Non-decreasing%20or%20Non-increasing/README.md) | Hard (Premium) |
+| 187 | [2290. Minimum Obstacle Removal to Reach Corner](../2001-3000/2201-2300/2290.%20Minimum%20Obstacle%20Removal%20to%20Reach%20Corner/README.md) | Hard |
+| 188 | [2344. Minimum Deletions to Make Array Divisible](../2001-3000/2301-2400/2344.%20Minimum%20Deletions%20to%20Make%20Array%20Divisible/README.md) | Hard |
+| 189 | [2386. Find the K-Sum of an Array](../2001-3000/2301-2400/2386.%20Find%20the%20K-Sum%20of%20an%20Array/README.md) | Hard |
+| 190 | [2398. Maximum Number of Robots Within Budget](../2001-3000/2301-2400/2398.%20Maximum%20Number%20of%20Robots%20Within%20Budget/README.md) | Hard |
+| 191 | [2402. Meeting Rooms III](../2001-3000/2401-2500/2402.%20Meeting%20Rooms%20III/README.md) | Hard |
+| 192 | [2454. Next Greater Element IV](../2001-3000/2401-2500/2454.%20Next%20Greater%20Element%20IV/README.md) | Hard |
+| 193 | [2503. Maximum Number of Points From Grid Queries](../2001-3000/2501-2600/2503.%20Maximum%20Number%20of%20Points%20From%20Grid%20Queries/README.md) | Hard |
+| 194 | [2532. Time to Cross a Bridge](../2001-3000/2501-2600/2532.%20Time%20to%20Cross%20a%20Bridge/README.md) | Hard |
+| 195 | [2551. Put Marbles in Bags](../2001-3000/2501-2600/2551.%20Put%20Marbles%20in%20Bags/README.md) | Hard |
+| 196 | [2577. Minimum Time to Visit a Cell In a Grid](../2001-3000/2501-2600/2577.%20Minimum%20Time%20to%20Visit%20a%20Cell%20In%20a%20Grid/README.md) | Hard |
+| 197 | [2617. Minimum Number of Visited Cells in a Grid](../2001-3000/2601-2700/2617.%20Minimum%20Number%20of%20Visited%20Cells%20in%20a%20Grid/README.md) | Hard |
+| 198 | [2642. Design Graph With Shortest Path Calculator](../2001-3000/2601-2700/2642.%20Design%20Graph%20With%20Shortest%20Path%20Calculator/README.md) | Hard |
+| 199 | [2699. Modify Graph Edge Weights](../2001-3000/2601-2700/2699.%20Modify%20Graph%20Edge%20Weights/README.md) | Hard |
+| 200 | [2714. Find Shortest Path with K Hops](../2001-3000/2701-2800/2714.%20Find%20Shortest%20Path%20with%20K%20Hops/README.md) | Hard (Premium) |
+| 201 | [2813. Maximum Elegance of a K-Length Subsequence](../2001-3000/2801-2900/2813.%20Maximum%20Elegance%20of%20a%20K-Length%20Subsequence/README.md) | Hard |
+| 202 | [2931. Maximum Spending After Buying Items](../2001-3000/2901-3000/2931.%20Maximum%20Spending%20After%20Buying%20Items/README.md) | Hard |
+| 203 | [2940. Find Building Where Alice and Bob Can Meet](../2001-3000/2901-3000/2940.%20Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet/README.md) | Hard |
+| 204 | [2959. Number of Possible Sets of Closing Branches](../2001-3000/2901-3000/2959.%20Number%20of%20Possible%20Sets%20of%20Closing%20Branches/README.md) | Hard |
+| 205 | [2969. Minimum Number of Coins for Fruits II](../2001-3000/2901-3000/2969.%20Minimum%20Number%20of%20Coins%20for%20Fruits%20II/README.md) | Hard (Premium) |
+| 206 | [2973. Find Number of Coins to Place in Tree Nodes](../2001-3000/2901-3000/2973.%20Find%20Number%20of%20Coins%20to%20Place%20in%20Tree%20Nodes/README.md) | Hard |
+| 207 | [3013. Divide an Array Into Subarrays With Minimum Cost II](../3001-4000/3001-3100/3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/README.md) | Hard |
+| 208 | [3049. Earliest Second to Mark Indices II](../3001-4000/3001-3100/3049.%20Earliest%20Second%20to%20Mark%20Indices%20II/README.md) | Hard |
+| 209 | [3123. Find Edges in Shortest Paths](../3001-4000/3101-3200/3123.%20Find%20Edges%20in%20Shortest%20Paths/README.md) | Hard |
+| 210 | [3266. Final Array State After K Multiplication Operations II](../3001-4000/3201-3300/3266.%20Final%20Array%20State%20After%20K%20Multiplication%20Operations%20II/README.md) | Hard |
+| 211 | [3321. Find X-Sum of All K-Long Subarrays II](../3001-4000/3301-3400/3321.%20Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20II/README.md) | Hard |
+| 212 | [3369. Design an Array Statistics Tracker](../3001-4000/3301-3400/3369.%20Design%20an%20Array%20Statistics%20Tracker/README.md) | Hard (Premium) |
+| 213 | [3505. Minimum Operations to Make Elements Within K Subarrays Equal](../3001-4000/3501-3600/3505.%20Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal/README.md) | Hard |
+| 214 | [3506. Find Time Required to Eliminate Bacterial Strains](../3001-4000/3501-3600/3506.%20Find%20Time%20Required%20to%20Eliminate%20Bacterial%20Strains/README.md) | Hard (Premium) |
+| 215 | [3510. Minimum Pair Removal to Sort Array II](../3001-4000/3501-3600/3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/README.md) | Hard |
+| 216 | [3594. Minimum Time to Transport All Individuals](../3001-4000/3501-3600/3594.%20Minimum%20Time%20to%20Transport%20All%20Individuals/README.md) | Hard |
+| 217 | [3620. Network Recovery Pathways](../3001-4000/3601-3700/3620.%20Network%20Recovery%20Pathways/README.md) | Hard |
+| 218 | [3691. Maximum Total Subarray Value II](../3001-4000/3601-3700/3691.%20Maximum%20Total%20Subarray%20Value%20II/README.md) | Hard |
+| 219 | [3928. Minimum Cost to Buy Apples II](../3001-4000/3901-4000/3928.%20Minimum%20Cost%20to%20Buy%20Apples%20II/README.md) | Hard |
+| 220 | [3977. Minimum Time to Reach Target With Limited Power](../3001-4000/3901-4000/3977.%20Minimum%20Time%20to%20Reach%20Target%20With%20Limited%20Power/README.md) | Hard |

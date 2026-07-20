@@ -37,3 +37,5 @@ Any arguments could be passed to the function but it should still always return 
 ---
 
 **Difficulty:** Easy
+
+**Topics:** JavaScript

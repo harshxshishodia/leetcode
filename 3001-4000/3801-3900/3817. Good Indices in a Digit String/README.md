@@ -14,7 +14,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">[0,11,12]</span></p>
 
-<p><strong>Explanation:???????</strong></p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>
@@ -70,3 +70,5 @@
 ---
 
 **Difficulty:** Medium
+
+**Topics:** String, Enumeration

@@ -102,3 +102,5 @@ Each row represents a completed course by a user with their rating (1-5 scale).
 ---
 
 **Difficulty:** Hard
+
+**Topics:** Database

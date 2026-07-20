@@ -4,7 +4,7 @@
 
 <p>Consider all possible integers consisting of <strong>exactly</strong> <code>k</code> digits, where each digit is chosen independently from the integer range <code>[l, r]</code> (inclusive). If 0 is included in the range, leading zeros are allowed.</p>
 
-<p>Return an integer representing the <b>sum of all such numbers.</b>??????? Since the answer may be very large, return it <strong>modulo</strong> <code>10<sup>9</sup> + 7</code>.</p>
+<p>Return an integer representing the <b>sum of all such numbers.</b> Since the answer may be very large, return it <strong>modulo</strong> <code>10<sup>9</sup> + 7</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
@@ -32,7 +32,7 @@
 <p><strong>Explanation:</strong></p>
 
 <ul>
-	<li>All numbers formed using <code>k = 3</code> digits in the range <code>[0, 1]</code> are <code>000, 001, 010, 011, 100, 101, 110, 111</code>???????.</li>
+	<li>All numbers formed using <code>k = 3</code> digits in the range <code>[0, 1]</code> are <code>000, 001, 010, 011, 100, 101, 110, 111</code>.</li>
 	<li>These numbers without leading zeros are <code>0, 1, 10, 11, 100, 101, 110, 111</code>.</li>
 	<li>The total sum is 444.</li>
 </ul>
@@ -45,7 +45,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">555555520</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 
 <ul>
 	<li>5555555555 is the only valid number consisting of <code>k = 10</code> digits in the range <code>[5, 5]</code>.</li>

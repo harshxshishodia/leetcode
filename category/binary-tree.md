@@ -182,3 +182,4 @@
 | 178 | [2509. Cycle Length Queries in a Tree](../2001-3000/2501-2600/2509.%20Cycle%20Length%20Queries%20in%20a%20Tree/README.md) | Hard |
 | 179 | [2792. Count Nodes That Are Great Enough](../2001-3000/2701-2800/2792.%20Count%20Nodes%20That%20Are%20Great%20Enough/README.md) | Hard (Premium) |
 | 180 | [3526. Range XOR Queries with Subarray Reversals](../3001-4000/3501-3600/3526.%20Range%20XOR%20Queries%20with%20Subarray%20Reversals/README.md) | Hard (Premium) |
+| 181 | [3997. Count Dominant Nodes in a Binary Tree](../3001-4000/3901-4000/3997.%20Count%20Dominant%20Nodes%20in%20a%20Binary%20Tree/README.md) | Medium |

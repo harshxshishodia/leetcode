@@ -21,7 +21,7 @@
 4<sup>th</sup>&nbsp;group: [2,1] has power = 2<sup>2</sup> * 1 = 4. 
 5<sup>th</sup>&nbsp;group: [2,4] has power = 4<sup>2</sup> * 2 = 32. 
 6<sup>th</sup>&nbsp;group: [1,4] has power = 4<sup>2</sup> * 1 = 16. 
-???????7<sup>th</sup>&nbsp;group: [2,1,4] has power = 4<sup>2</sup>??????? * 1 = 16. 
+7<sup>th</sup>&nbsp;group: [2,1,4] has power = 4<sup>2</sup> * 1 = 16. 
 The sum of powers of all groups is 8 + 1 + 64 + 4 + 32 + 16 + 16 = 141.
 
 </pre>

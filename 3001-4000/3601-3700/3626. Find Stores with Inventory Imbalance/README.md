@@ -147,3 +147,5 @@ Each row represents the inventory of a specific product at a specific store.
 ---
 
 **Difficulty:** Medium
+
+**Topics:** Database

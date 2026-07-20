@@ -45,3 +45,5 @@ onceFn(4, 6, 8); // undefined, fn was not called
 ---
 
 **Difficulty:** Easy
+
+**Topics:** JavaScript

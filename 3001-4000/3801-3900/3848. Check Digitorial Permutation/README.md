@@ -35,7 +35,7 @@
 
 <p><strong>Output:</strong> <span class="example-io">false</span></p>
 
-<p><strong>Explanation:</strong>???????</p>
+<p><strong>Explanation:</strong></p>
 
 <p>10 is not digitorial since <code>1! + 0! = 2</code> is not equal to 10, and the permutation <code>&quot;01&quot;</code> is invalid because it starts with zero.</p>
 </div>

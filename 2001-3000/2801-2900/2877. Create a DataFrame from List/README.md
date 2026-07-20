@@ -35,3 +35,5 @@ A DataFrame was created on top of student_data, with two columns named <code>stu
 ---
 
 **Difficulty:** Easy
+
+**Topics:** Database, Pandas, DataFrame
