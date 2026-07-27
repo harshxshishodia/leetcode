@@ -8,37 +8,19 @@ public:
             return {};
         }
 
-        vector<vector<vector<TreeNode*>>> intervalTrees(
-            n + 2,
-            vector<vector<TreeNode*>>(n + 2)
-        );
+        vector<vector<vector<TreeNode*>>> intervalTrees(n + 2,vector<vector<TreeNode*>>(n + 2));
 
-        vector<TreeNode*> emptySubtree = {
-            nullptr
-        };
+        vector<TreeNode*> emptySubtree = {nullptr};
 
         for (int length = 1; length <= n; length++) {
-            for (
-                int startValue = 1;
-                startValue + length - 1 <= n;
-                startValue++
-            ) {
+            for (int startValue = 1; startValue + length - 1 <= n; startValue++) {
                 int endValue = startValue + length - 1;
 
-                for (
-                    int rootValue = startValue;
-                    rootValue <= endValue;
-                    rootValue++
-                ) {
-                    const vector<TreeNode*>& leftSubtrees =
-                        rootValue == startValue
-                            ? emptySubtree
-                            : intervalTrees[startValue][rootValue - 1];
+                for (int rootValue = startValue; rootValue <= endValue; rootValue++) {
+                    
+                    const vector<TreeNode*>& leftSubtrees = rootValue == startValue ? emptySubtree : intervalTrees[startValue][rootValue - 1];
 
-                    const vector<TreeNode*>& rightSubtrees =
-                        rootValue == endValue
-                            ? emptySubtree
-                            : intervalTrees[rootValue + 1][endValue];
+                    const vector<TreeNode*>& rightSubtrees = rootValue == endValue ? emptySubtree : intervalTrees[rootValue + 1][endValue];
 
                     for (TreeNode* leftSubtree : leftSubtrees) {
                         for (TreeNode* rightSubtree : rightSubtrees) {
@@ -47,8 +29,7 @@ public:
                             root->left = leftSubtree;
                             root->right = rightSubtree;
 
-                            intervalTrees[startValue][endValue]
-                                .push_back(root);
+                            intervalTrees[startValue][endValue].push_back(root);
                         }
                     }
                 }

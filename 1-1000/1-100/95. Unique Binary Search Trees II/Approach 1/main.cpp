@@ -21,9 +21,7 @@ private:
             return "#,";
         }
 
-        return to_string(root->val) + "," +
-               serializeTree(root->left) +
-               serializeTree(root->right);
+        return to_string(root->val) + "," + serializeTree(root->left) + serializeTree(root->right);
     }
 
     void deleteTree(TreeNode* root) {

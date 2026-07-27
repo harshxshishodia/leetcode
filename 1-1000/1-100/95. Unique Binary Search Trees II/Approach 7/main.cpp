@@ -12,19 +12,12 @@ private:
 
         vector<TreeNode*> allShapes;
 
-        for (
-            int leftNodeCount = 0;
-            leftNodeCount < nodeCount;
-            leftNodeCount++
-        ) {
-            int rightNodeCount =
-                nodeCount - leftNodeCount - 1;
+        for (int leftNodeCount = 0; leftNodeCount < nodeCount; leftNodeCount++) {
+            int rightNodeCount = nodeCount - leftNodeCount - 1;
 
-            vector<TreeNode*> leftShapes =
-                generateShapes(leftNodeCount);
+            vector<TreeNode*> leftShapes = generateShapes(leftNodeCount);
 
-            vector<TreeNode*> rightShapes =
-                generateShapes(rightNodeCount);
+            vector<TreeNode*> rightShapes = generateShapes(rightNodeCount);
 
             for (TreeNode* leftShape : leftShapes) {
                 for (TreeNode* rightShape : rightShapes) {
@@ -44,22 +37,17 @@ private:
         return shapeMemo[nodeCount];
     }
 
-    TreeNode* cloneAndAssignValues(
-        TreeNode* shape,
-        int& nextValue
-    ) {
+    TreeNode* cloneAndAssignValues(TreeNode* shape,int& nextValue) {
         if (shape == nullptr) {
             return nullptr;
         }
 
-        TreeNode* leftSubtree =
-            cloneAndAssignValues(shape->left, nextValue);
+        TreeNode* leftSubtree = cloneAndAssignValues(shape->left, nextValue);
 
         TreeNode* root = new TreeNode(nextValue);
         nextValue++;
 
-        TreeNode* rightSubtree =
-            cloneAndAssignValues(shape->right, nextValue);
+        TreeNode* rightSubtree = cloneAndAssignValues(shape->right, nextValue);
 
         root->left = leftSubtree;
         root->right = rightSubtree;
@@ -74,27 +62,21 @@ public:
             return {};
         }
 
-        shapeMemo.assign(
-            n + 1,
-            vector<TreeNode*>()
-        );
+        shapeMemo.assign(n + 1,vector<TreeNode*>());
 
         shapeComputed.assign(n + 1, false);
 
         shapeMemo[0].push_back(nullptr);
         shapeComputed[0] = true;
 
-        vector<TreeNode*> allShapes =
-            generateShapes(n);
+        vector<TreeNode*> allShapes = generateShapes(n);
 
         vector<TreeNode*> allTrees;
 
         for (TreeNode* shape : allShapes) {
             int nextValue = 1;
 
-            allTrees.push_back(
-                cloneAndAssignValues(shape, nextValue)
-            );
+            allTrees.push_back(cloneAndAssignValues(shape, nextValue));
         }
 
         return allTrees;

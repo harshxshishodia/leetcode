@@ -9,10 +9,7 @@ private:
             return {nullptr};
         }
 
-        pair<int, int> currentRange = {
-            startValue,
-            endValue
-        };
+        pair<int, int> currentRange = {startValue,endValue};
 
         if (memo.find(currentRange) != memo.end()) {
             return memo[currentRange];
@@ -21,11 +18,9 @@ private:
         vector<TreeNode*> allTrees;
 
         for (int rootValue = startValue; rootValue <= endValue; rootValue++) {
-            vector<TreeNode*> leftSubtrees =
-                buildTrees(startValue, rootValue - 1);
+            vector<TreeNode*> leftSubtrees = buildTrees(startValue, rootValue - 1);
 
-            vector<TreeNode*> rightSubtrees =
-                buildTrees(rootValue + 1, endValue);
+            vector<TreeNode*> rightSubtrees = buildTrees(rootValue + 1, endValue);
 
             for (TreeNode* leftSubtree : leftSubtrees) {
                 for (TreeNode* rightSubtree : rightSubtrees) {

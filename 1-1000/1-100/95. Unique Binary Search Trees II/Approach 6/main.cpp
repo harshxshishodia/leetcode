@@ -7,14 +7,11 @@ private:
             return nullptr;
         }
 
-        TreeNode* clonedRoot =
-            new TreeNode(root->val + valueOffset);
+        TreeNode* clonedRoot = new TreeNode(root->val + valueOffset);
 
-        clonedRoot->left =
-            cloneTree(root->left, valueOffset);
+        clonedRoot->left = cloneTree(root->left, valueOffset);
 
-        clonedRoot->right =
-            cloneTree(root->right, valueOffset);
+        clonedRoot->right = cloneTree(root->right, valueOffset);
 
         return clonedRoot;
     }
@@ -30,39 +27,20 @@ public:
 
         treesByNodeCount[0].push_back(nullptr);
 
-        for (
-            int totalNodeCount = 1;
-            totalNodeCount <= n;
-            totalNodeCount++
-        ) {
-            for (
-                int rootValue = 1;
-                rootValue <= totalNodeCount;
-                rootValue++
-            ) {
+        for (int totalNodeCount = 1; totalNodeCount <= n; totalNodeCount++) {
+            for (int rootValue = 1; rootValue <= totalNodeCount; rootValue++) {
                 int leftNodeCount = rootValue - 1;
-                int rightNodeCount =
-                    totalNodeCount - rootValue;
+                int rightNodeCount = totalNodeCount - rootValue;
 
-                for (
-                    TreeNode* leftPrototype :
-                    treesByNodeCount[leftNodeCount]
-                ) {
-                    for (
-                        TreeNode* rightPrototype :
-                        treesByNodeCount[rightNodeCount]
-                    ) {
-                        TreeNode* root =
-                            new TreeNode(rootValue);
+                for (TreeNode* leftPrototype : treesByNodeCount[leftNodeCount]) {
+                    for (TreeNode* rightPrototype : treesByNodeCount[rightNodeCount]) {
+                        TreeNode* root = new TreeNode(rootValue);
 
-                        root->left =
-                            cloneTree(leftPrototype, 0);
+                        root->left = cloneTree(leftPrototype, 0);
 
-                        root->right =
-                            cloneTree(rightPrototype, rootValue);
+                        root->right = cloneTree(rightPrototype, rootValue);
 
-                        treesByNodeCount[totalNodeCount]
-                            .push_back(root);
+                        treesByNodeCount[totalNodeCount].push_back(root);
                     }
                 }
             }

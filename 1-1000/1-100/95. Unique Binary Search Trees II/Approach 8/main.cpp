@@ -7,14 +7,11 @@ private:
             return nullptr;
         }
 
-        TreeNode* clonedRoot =
-            new TreeNode(root->val);
+        TreeNode* clonedRoot = new TreeNode(root->val);
 
-        clonedRoot->left =
-            cloneTree(root->left);
+        clonedRoot->left = cloneTree(root->left);
 
-        clonedRoot->right =
-            cloneTree(root->right);
+        clonedRoot->right = cloneTree(root->right);
 
         return clonedRoot;
     }
@@ -36,56 +33,40 @@ public:
             return {};
         }
 
-        vector<TreeNode*> currentTrees = {
-            nullptr
-        };
+        vector<TreeNode*> currentTrees = {nullptr};
 
         for (int newValue = 1; newValue <= n; newValue++) {
             vector<TreeNode*> nextTrees;
 
             for (TreeNode* existingTree : currentTrees) {
-                TreeNode* newRoot =
-                    new TreeNode(newValue);
+                TreeNode* newRoot = new TreeNode(newValue);
 
-                newRoot->left =
-                    cloneTree(existingTree);
+                newRoot->left = cloneTree(existingTree);
 
                 nextTrees.push_back(newRoot);
 
-                TreeNode* rightSpineNode =
-                    existingTree;
+                TreeNode* rightSpineNode = existingTree;
 
                 int insertionDepth = 0;
 
                 while (rightSpineNode != nullptr) {
-                    TreeNode* clonedTree =
-                        cloneTree(existingTree);
+                    TreeNode* clonedTree = cloneTree(existingTree);
 
-                    TreeNode* insertionParent =
-                        clonedTree;
+                    TreeNode* insertionParent = clonedTree;
 
-                    for (
-                        int depth = 0;
-                        depth < insertionDepth;
-                        depth++
-                    ) {
-                        insertionParent =
-                            insertionParent->right;
+                    for (int depth = 0; depth < insertionDepth; depth++) {
+                        insertionParent = insertionParent->right;
                     }
 
-                    TreeNode* insertedNode =
-                        new TreeNode(newValue);
+                    TreeNode* insertedNode = new TreeNode(newValue);
 
-                    insertedNode->left =
-                        insertionParent->right;
+                    insertedNode->left = insertionParent->right;
 
-                    insertionParent->right =
-                        insertedNode;
+                    insertionParent->right = insertedNode;
 
                     nextTrees.push_back(clonedTree);
 
-                    rightSpineNode =
-                        rightSpineNode->right;
+                    rightSpineNode = rightSpineNode->right;
 
                     insertionDepth++;
                 }

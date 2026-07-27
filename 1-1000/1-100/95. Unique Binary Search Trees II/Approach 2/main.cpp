@@ -21,9 +21,7 @@ private:
             return "#,";
         }
 
-        return to_string(root->val) + "," +
-               serializeTree(root->left) +
-               serializeTree(root->right);
+        return to_string(root->val) + "," + serializeTree(root->left) + serializeTree(root->right);
     }
 
     void deleteTree(TreeNode* root) {
@@ -69,13 +67,7 @@ private:
             usedValues[value] = true;
             insertionOrder.push_back(value);
 
-            generateInsertionOrders(
-                n,
-                usedValues,
-                insertionOrder,
-                generatedTrees,
-                uniqueTrees
-            );
+            generateInsertionOrders(n,usedValues,insertionOrder,generatedTrees,uniqueTrees);
 
             insertionOrder.pop_back();
             usedValues[value] = false;
@@ -94,13 +86,7 @@ public:
         unordered_set<string> generatedTrees;
         vector<TreeNode*> uniqueTrees;
 
-        generateInsertionOrders(
-            n,
-            usedValues,
-            insertionOrder,
-            generatedTrees,
-            uniqueTrees
-        );
+        generateInsertionOrders(n,usedValues,insertionOrder,generatedTrees,uniqueTrees);
 
         return uniqueTrees;
     }
