@@ -68,3 +68,4 @@
 | 64 | [3963. Create Grid With Exactly One Path](../3001-4000/3901-4000/3963.%20Create%20Grid%20With%20Exactly%20One%20Path/README.md) | Easy |
 | 65 | [3988. Create Grid With Exactly K Paths I](../3001-4000/3901-4000/3988.%20Create%20Grid%20With%20Exactly%20K%20Paths%20I/README.md) | Medium |
 | 66 | [3990. Create Grid With Exactly K Paths II](../3001-4000/3901-4000/3990.%20Create%20Grid%20With%20Exactly%20K%20Paths%20II/README.md) | Hard |
+| 67 | [4002. Count Valid Sequences](../4001-5000/4001-4100/4002.%20Count%20Valid%20Sequences/README.md) | Medium |

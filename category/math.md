@@ -695,3 +695,10 @@
 | 691 | [3990. Create Grid With Exactly K Paths II](../3001-4000/3901-4000/3990.%20Create%20Grid%20With%20Exactly%20K%20Paths%20II/README.md) | Hard |
 | 692 | [3993. Maximum Value of an Alternating Sequence](../3001-4000/3901-4000/3993.%20Maximum%20Value%20of%20an%20Alternating%20Sequence/README.md) | Medium |
 | 693 | [3996. Even Number of Knight Moves](../3001-4000/3901-4000/3996.%20Even%20Number%20of%20Knight%20Moves/README.md) | Easy |
+| 694 | [4000. Largest Integer With Given Digit Sum](../3001-4000/3901-4000/4000.%20Largest%20Integer%20With%20Given%20Digit%20Sum/README.md) | Easy |
+| 695 | [4002. Count Valid Sequences](../4001-5000/4001-4100/4002.%20Count%20Valid%20Sequences/README.md) | Medium |
+| 696 | [4004. Minimum Moves to Balance Circular Array II](../4001-5000/4001-4100/4004.%20Minimum%20Moves%20to%20Balance%20Circular%20Array%20II/README.md) | Hard |
+| 697 | [4005. Minimum Operations to Make Array Equal III](../4001-5000/4001-4100/4005.%20Minimum%20Operations%20to%20Make%20Array%20Equal%20III/README.md) | Hard |
+| 698 | [4010. Maximize Pair Strength Using GCD](../4001-5000/4001-4100/4010.%20Maximize%20Pair%20Strength%20Using%20GCD/README.md) | Easy |
+| 699 | [4011. Count Subarrays With Even Odd Ratio I](../4001-5000/4001-4100/4011.%20Count%20Subarrays%20With%20Even%20Odd%20Ratio%20I/README.md) | Medium |
+| 700 | [4013. Count Subarrays With Even Odd Ratio II](../4001-5000/4001-4100/4013.%20Count%20Subarrays%20With%20Even%20Odd%20Ratio%20II/README.md) | Hard |

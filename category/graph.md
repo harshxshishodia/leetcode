@@ -192,3 +192,4 @@
 | 188 | [3977. Minimum Time to Reach Target With Limited Power](../3001-4000/3901-4000/3977.%20Minimum%20Time%20to%20Reach%20Target%20With%20Limited%20Power/README.md) | Hard |
 | 189 | [3991. Sort Array Using Prefix Reversals](../3001-4000/3901-4000/3991.%20Sort%20Array%20Using%20Prefix%20Reversals/README.md) | Medium |
 | 190 | [3995. Minimum Cost to Convert String III](../3001-4000/3901-4000/3995.%20Minimum%20Cost%20to%20Convert%20String%20III/README.md) | Hard |
+| 191 | [4003. Minimum Cost Path with Alternating Directions III](../4001-5000/4001-4100/4003.%20Minimum%20Cost%20Path%20with%20Alternating%20Directions%20III/README.md) | Hard |

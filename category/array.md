@@ -2216,3 +2216,13 @@
 | 2212 | [3990. Create Grid With Exactly K Paths II](../3001-4000/3901-4000/3990.%20Create%20Grid%20With%20Exactly%20K%20Paths%20II/README.md) | Hard |
 | 2213 | [3991. Sort Array Using Prefix Reversals](../3001-4000/3901-4000/3991.%20Sort%20Array%20Using%20Prefix%20Reversals/README.md) | Medium |
 | 2214 | [3994. Minimum Adjacent Swaps to Partition Array](../3001-4000/3901-4000/3994.%20Minimum%20Adjacent%20Swaps%20to%20Partition%20Array/README.md) | Medium |
+| 2215 | [4001. Aggregate Two Time Series](../4001-5000/4001-4100/4001.%20Aggregate%20Two%20Time%20Series/README.md) | Medium |
+| 2216 | [4004. Minimum Moves to Balance Circular Array II](../4001-5000/4001-4100/4004.%20Minimum%20Moves%20to%20Balance%20Circular%20Array%20II/README.md) | Hard |
+| 2217 | [4005. Minimum Operations to Make Array Equal III](../4001-5000/4001-4100/4005.%20Minimum%20Operations%20to%20Make%20Array%20Equal%20III/README.md) | Hard |
+| 2218 | [4007. Widest Possible Fence](../4001-5000/4001-4100/4007.%20Widest%20Possible%20Fence/README.md) | Medium |
+| 2219 | [4008. Minimum Initial Strength to Defeat All Monsters](../4001-5000/4001-4100/4008.%20Minimum%20Initial%20Strength%20to%20Defeat%20All%20Monsters/README.md) | Medium |
+| 2220 | [4009. Minimum Possible Maximum Waiting Time](../4001-5000/4001-4100/4009.%20Minimum%20Possible%20Maximum%20Waiting%20Time/README.md) | Hard |
+| 2221 | [4010. Maximize Pair Strength Using GCD](../4001-5000/4001-4100/4010.%20Maximize%20Pair%20Strength%20Using%20GCD/README.md) | Easy |
+| 2222 | [4011. Count Subarrays With Even Odd Ratio I](../4001-5000/4001-4100/4011.%20Count%20Subarrays%20With%20Even%20Odd%20Ratio%20I/README.md) | Medium |
+| 2223 | [4012. Count of Unfinished Tasks After Each Shift](../4001-5000/4001-4100/4012.%20Count%20of%20Unfinished%20Tasks%20After%20Each%20Shift/README.md) | Medium |
+| 2224 | [4013. Count Subarrays With Even Odd Ratio II](../4001-5000/4001-4100/4013.%20Count%20Subarrays%20With%20Even%20Odd%20Ratio%20II/README.md) | Hard |

@@ -267,3 +267,6 @@
 | 263 | [3957. Maximum Sum of M Non-Overlapping Subarrays II](../3001-4000/3901-4000/3957.%20Maximum%20Sum%20of%20M%20Non-Overlapping%20Subarrays%20II/README.md) | Hard |
 | 264 | [3972. Valid Subarrays With Matching Sum Digits II](../3001-4000/3901-4000/3972.%20Valid%20Subarrays%20With%20Matching%20Sum%20Digits%20II/README.md) | Hard (Premium) |
 | 265 | [3998. Transform Binary String Using Subsequence Sort](../3001-4000/3901-4000/3998.%20Transform%20Binary%20String%20Using%20Subsequence%20Sort/README.md) | Hard |
+| 266 | [4008. Minimum Initial Strength to Defeat All Monsters](../4001-5000/4001-4100/4008.%20Minimum%20Initial%20Strength%20to%20Defeat%20All%20Monsters/README.md) | Medium |
+| 267 | [4011. Count Subarrays With Even Odd Ratio I](../4001-5000/4001-4100/4011.%20Count%20Subarrays%20With%20Even%20Odd%20Ratio%20I/README.md) | Medium |
+| 268 | [4013. Count Subarrays With Even Odd Ratio II](../4001-5000/4001-4100/4013.%20Count%20Subarrays%20With%20Even%20Odd%20Ratio%20II/README.md) | Hard |

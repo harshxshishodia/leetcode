@@ -209,3 +209,5 @@
 | 205 | [3785. Minimum Swaps to Avoid Forbidden Values](../3001-4000/3701-3800/3785.%20Minimum%20Swaps%20to%20Avoid%20Forbidden%20Values/README.md) | Hard |
 | 206 | [3859. Count Subarrays With K Distinct Integers](../3001-4000/3801-3900/3859.%20Count%20Subarrays%20With%20K%20Distinct%20Integers/README.md) | Hard |
 | 207 | [3943. Number of Pairs After Increment](../3001-4000/3901-4000/3943.%20Number%20of%20Pairs%20After%20Increment/README.md) | Hard |
+| 208 | [4006. Count Valid Prefixes](../4001-5000/4001-4100/4006.%20Count%20Valid%20Prefixes/README.md) | Easy |
+| 209 | [4007. Widest Possible Fence](../4001-5000/4001-4100/4007.%20Widest%20Possible%20Fence/README.md) | Medium |

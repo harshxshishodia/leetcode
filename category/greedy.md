@@ -483,3 +483,7 @@
 | 479 | [3993. Maximum Value of an Alternating Sequence](../3001-4000/3901-4000/3993.%20Maximum%20Value%20of%20an%20Alternating%20Sequence/README.md) | Medium |
 | 480 | [3994. Minimum Adjacent Swaps to Partition Array](../3001-4000/3901-4000/3994.%20Minimum%20Adjacent%20Swaps%20to%20Partition%20Array/README.md) | Medium |
 | 481 | [3998. Transform Binary String Using Subsequence Sort](../3001-4000/3901-4000/3998.%20Transform%20Binary%20String%20Using%20Subsequence%20Sort/README.md) | Hard |
+| 482 | [4000. Largest Integer With Given Digit Sum](../3001-4000/3901-4000/4000.%20Largest%20Integer%20With%20Given%20Digit%20Sum/README.md) | Easy |
+| 483 | [4004. Minimum Moves to Balance Circular Array II](../4001-5000/4001-4100/4004.%20Minimum%20Moves%20to%20Balance%20Circular%20Array%20II/README.md) | Hard |
+| 484 | [4008. Minimum Initial Strength to Defeat All Monsters](../4001-5000/4001-4100/4008.%20Minimum%20Initial%20Strength%20to%20Defeat%20All%20Monsters/README.md) | Medium |
+| 485 | [4009. Minimum Possible Maximum Waiting Time](../4001-5000/4001-4100/4009.%20Minimum%20Possible%20Maximum%20Waiting%20Time/README.md) | Hard |

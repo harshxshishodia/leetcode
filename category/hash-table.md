@@ -828,3 +828,5 @@
 | 824 | [3953. Maximum Score with Co-Prime Element](../3001-4000/3901-4000/3953.%20Maximum%20Score%20with%20Co-Prime%20Element/README.md) | Hard |
 | 825 | [3972. Valid Subarrays With Matching Sum Digits II](../3001-4000/3901-4000/3972.%20Valid%20Subarrays%20With%20Matching%20Sum%20Digits%20II/README.md) | Hard (Premium) |
 | 826 | [3999. Minimum Number of String Groups Through Transformations](../3001-4000/3901-4000/3999.%20Minimum%20Number%20of%20String%20Groups%20Through%20Transformations/README.md) | Medium |
+| 827 | [4007. Widest Possible Fence](../4001-5000/4001-4100/4007.%20Widest%20Possible%20Fence/README.md) | Medium |
+| 828 | [4013. Count Subarrays With Even Odd Ratio II](../4001-5000/4001-4100/4013.%20Count%20Subarrays%20With%20Even%20Odd%20Ratio%20II/README.md) | Hard |

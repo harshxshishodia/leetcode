@@ -258,3 +258,4 @@
 | 254 | [3983. Subsequence After One Replacement](../3001-4000/3901-4000/3983.%20Subsequence%20After%20One%20Replacement/README.md) | Medium |
 | 255 | [3985. Palindromic Subarray Sum](../3001-4000/3901-4000/3985.%20Palindromic%20Subarray%20Sum/README.md) | Hard |
 | 256 | [3994. Minimum Adjacent Swaps to Partition Array](../3001-4000/3901-4000/3994.%20Minimum%20Adjacent%20Swaps%20to%20Partition%20Array/README.md) | Medium |
+| 257 | [4001. Aggregate Two Time Series](../4001-5000/4001-4100/4001.%20Aggregate%20Two%20Time%20Series/README.md) | Medium |

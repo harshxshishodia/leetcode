@@ -344,3 +344,4 @@
 | 340 | [3956. Maximum Sum of M Non-Overlapping Subarrays I](../3001-4000/3901-4000/3956.%20Maximum%20Sum%20of%20M%20Non-Overlapping%20Subarrays%20I/README.md) | Hard |
 | 341 | [3957. Maximum Sum of M Non-Overlapping Subarrays II](../3001-4000/3901-4000/3957.%20Maximum%20Sum%20of%20M%20Non-Overlapping%20Subarrays%20II/README.md) | Hard |
 | 342 | [3971. Maximum Total Value](../3001-4000/3901-4000/3971.%20Maximum%20Total%20Value/README.md) | Hard |
+| 343 | [4009. Minimum Possible Maximum Waiting Time](../4001-5000/4001-4100/4009.%20Minimum%20Possible%20Maximum%20Waiting%20Time/README.md) | Hard |

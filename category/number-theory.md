@@ -101,3 +101,5 @@
 | 97 | [3855. Sum of K-Digit Numbers in a Range](../3001-4000/3801-3900/3855.%20Sum%20of%20K-Digit%20Numbers%20in%20a%20Range/README.md) | Hard |
 | 98 | [3901. Good Subsequence Queries](../3001-4000/3901-4000/3901.%20Good%20Subsequence%20Queries/README.md) | Hard |
 | 99 | [3953. Maximum Score with Co-Prime Element](../3001-4000/3901-4000/3953.%20Maximum%20Score%20with%20Co-Prime%20Element/README.md) | Hard |
+| 100 | [4005. Minimum Operations to Make Array Equal III](../4001-5000/4001-4100/4005.%20Minimum%20Operations%20to%20Make%20Array%20Equal%20III/README.md) | Hard |
+| 101 | [4010. Maximize Pair Strength Using GCD](../4001-5000/4001-4100/4010.%20Maximize%20Pair%20Strength%20Using%20GCD/README.md) | Easy |
