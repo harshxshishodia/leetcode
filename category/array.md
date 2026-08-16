@@ -2226,3 +2226,8 @@
 | 2222 | [4011. Count Subarrays With Even Odd Ratio I](../4001-5000/4001-4100/4011.%20Count%20Subarrays%20With%20Even%20Odd%20Ratio%20I/README.md) | Medium |
 | 2223 | [4012. Count of Unfinished Tasks After Each Shift](../4001-5000/4001-4100/4012.%20Count%20of%20Unfinished%20Tasks%20After%20Each%20Shift/README.md) | Medium |
 | 2224 | [4013. Count Subarrays With Even Odd Ratio II](../4001-5000/4001-4100/4013.%20Count%20Subarrays%20With%20Even%20Odd%20Ratio%20II/README.md) | Hard |
+| 2225 | [4014. Minimum Total Price After Applying Discounts](../4001-5000/4001-4100/4014.%20Minimum%20Total%20Price%20After%20Applying%20Discounts/README.md) | Medium |
+| 2226 | [4016. Maximum Area of Two Non-Overlapping Square Submatrices](../4001-5000/4001-4100/4016.%20Maximum%20Area%20of%20Two%20Non-Overlapping%20Square%20Submatrices/README.md) | Medium |
+| 2227 | [4017. Peaks in Array II](../4001-5000/4001-4100/4017.%20Peaks%20in%20Array%20II/README.md) | Hard |
+| 2228 | [4020. Elevator Requests I](../4001-5000/4001-4100/4020.%20Elevator%20Requests%20I/README.md) | Easy |
+| 2229 | [4023. Elevator Requests II](../4001-5000/4001-4100/4023.%20Elevator%20Requests%20II/README.md) | Hard |

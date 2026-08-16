@@ -673,4 +673,5 @@
 | 669 | [3977. Minimum Time to Reach Target With Limited Power](../3001-4000/3901-4000/3977.%20Minimum%20Time%20to%20Reach%20Target%20With%20Limited%20Power/README.md) | Hard |
 | 670 | [3981. Count Distinct Ways to Form Target from Two Strings](../3001-4000/3901-4000/3981.%20Count%20Distinct%20Ways%20to%20Form%20Target%20from%20Two%20Strings/README.md) | Hard |
 | 671 | [3989. Maximum Consistent Columns in a Grid](../3001-4000/3901-4000/3989.%20Maximum%20Consistent%20Columns%20in%20a%20Grid/README.md) | Hard |
-| 672 | [3995. Minimum Cost to Convert String III](../3001-4000/3901-4000/3995.%20Minimum%20Cost%20to%20Convert%20String%20III/README.md) | Hard |
+| 672 | [3995. Minimum Cost to Convert String III](../3001-4000/3901-4000/3995.%20Minimum%20Cost%20to%20Convert%20String%20III/README.md) | Hard
+| 673 | [4016. Maximum Area of Two Non-Overlapping Square Submatrices](../4001-5000/4001-4100/4016.%20Maximum%20Area%20of%20Two%20Non-Overlapping%20Square%20Submatrices/README.md) | Medium |

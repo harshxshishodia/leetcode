@@ -82,4 +82,5 @@
 | 78 | [3841. Palindromic Path Queries in a Tree](../3001-4000/3801-3900/3841.%20Palindromic%20Path%20Queries%20in%20a%20Tree/README.md) | Hard |
 | 79 | [3901. Good Subsequence Queries](../3001-4000/3901-4000/3901.%20Good%20Subsequence%20Queries/README.md) | Hard |
 | 80 | [3915. Maximum Sum of Alternating Subsequence With Distance at Least K](../3001-4000/3901-4000/3915.%20Maximum%20Sum%20of%20Alternating%20Subsequence%20With%20Distance%20at%20Least%20K/README.md) | Hard |
-| 81 | [3930. Power Update After K-th Largest Insertion II](../3001-4000/3901-4000/3930.%20Power%20Update%20After%20K-th%20Largest%20Insertion%20II/README.md) | Hard (Premium) |
+| 81 | [3930. Power Update After K-th Largest Insertion II](../3001-4000/3901-4000/3930.%20Power%20Update%20After%20K-th%20Largest%20Insertion%20II/README.md) | Hard (Premium)
+| 82 | [4017. Peaks in Array II](../4001-5000/4001-4100/4017.%20Peaks%20in%20Array%20II/README.md) | Hard |

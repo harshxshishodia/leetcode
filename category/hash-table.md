@@ -680,7 +680,7 @@
 | 676 | [358. Rearrange String k Distance Apart](../1-1000/301-400/358.%20Rearrange%20String%20k%20Distance%20Apart/README.md) | Hard (Premium) |
 | 677 | [381. Insert Delete GetRandom O(1) - Duplicates allowed](../1-1000/301-400/381.%20Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/README.md) | Hard |
 | 678 | [391. Perfect Rectangle](../1-1000/301-400/391.%20Perfect%20Rectangle/README.md) | Hard |
-| 679 | [432. All O`one Data Structure](../1-1000/401-500/432.%20All%20O`one%20Data%20Structure/README.md) | Hard |
+| 679 | [432. All O`one Data Structure](../1-1000/401-500/432.%20All%20O%60one%20Data%20Structure/README.md) | Hard |
 | 680 | [460. LFU Cache](../1-1000/401-500/460.%20LFU%20Cache/README.md) | Hard |
 | 681 | [480. Sliding Window Median](../1-1000/401-500/480.%20Sliding%20Window%20Median/README.md) | Hard |
 | 682 | [548. Split Array with Equal Sum](../1-1000/501-600/548.%20Split%20Array%20with%20Equal%20Sum/README.md) | Hard (Premium) |
@@ -830,3 +830,4 @@
 | 826 | [3999. Minimum Number of String Groups Through Transformations](../3001-4000/3901-4000/3999.%20Minimum%20Number%20of%20String%20Groups%20Through%20Transformations/README.md) | Medium |
 | 827 | [4007. Widest Possible Fence](../4001-5000/4001-4100/4007.%20Widest%20Possible%20Fence/README.md) | Medium |
 | 828 | [4013. Count Subarrays With Even Odd Ratio II](../4001-5000/4001-4100/4013.%20Count%20Subarrays%20With%20Even%20Odd%20Ratio%20II/README.md) | Hard |
+| 829 | [4019. Merge Close Characters II](../4001-5000/4001-4100/4019.%20Merge%20Close%20Characters%20II/README.md) | Medium |

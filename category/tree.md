@@ -269,4 +269,6 @@
 | 265 | [3965. Finish Time of Tasks I](../3001-4000/3901-4000/3965.%20Finish%20Time%20of%20Tasks%20I/README.md) | Medium |
 | 266 | [3967. Finish Time of Tasks II](../3001-4000/3901-4000/3967.%20Finish%20Time%20of%20Tasks%20II/README.md) | Hard |
 | 267 | [3973. Distinct Gate Paths to LCA](../3001-4000/3901-4000/3973.%20Distinct%20Gate%20Paths%20to%20LCA/README.md) | Hard (Premium) |
-| 268 | [3997. Count Dominant Nodes in a Binary Tree](../3001-4000/3901-4000/3997.%20Count%20Dominant%20Nodes%20in%20a%20Binary%20Tree/README.md) | Medium |
+| 268 | [3997. Count Dominant Nodes in a Binary Tree](../3001-4000/3901-4000/3997.%20Count%20Dominant%20Nodes%20in%20a%20Binary%20Tree/README.md) | Medium
+| 269 | [4015. Weighted Sum of a Tree](../4001-5000/4001-4100/4015.%20Weighted%20Sum%20of%20a%20Tree/README.md) | Medium |
+| 270 | [4018. Total Sum of Interaction Cost in Tree Groups II](../4001-5000/4001-4100/4018.%20Total%20Sum%20of%20Interaction%20Cost%20in%20Tree%20Groups%20II/README.md) | Hard (Premium) |

@@ -487,3 +487,6 @@
 | 483 | [4004. Minimum Moves to Balance Circular Array II](../4001-5000/4001-4100/4004.%20Minimum%20Moves%20to%20Balance%20Circular%20Array%20II/README.md) | Hard |
 | 484 | [4008. Minimum Initial Strength to Defeat All Monsters](../4001-5000/4001-4100/4008.%20Minimum%20Initial%20Strength%20to%20Defeat%20All%20Monsters/README.md) | Medium |
 | 485 | [4009. Minimum Possible Maximum Waiting Time](../4001-5000/4001-4100/4009.%20Minimum%20Possible%20Maximum%20Waiting%20Time/README.md) | Hard |
+| 486 | [4014. Minimum Total Price After Applying Discounts](../4001-5000/4001-4100/4014.%20Minimum%20Total%20Price%20After%20Applying%20Discounts/README.md) | Medium |
+| 487 | [4019. Merge Close Characters II](../4001-5000/4001-4100/4019.%20Merge%20Close%20Characters%20II/README.md) | Medium |
+| 488 | [4023. Elevator Requests II](../4001-5000/4001-4100/4023.%20Elevator%20Requests%20II/README.md) | Hard |

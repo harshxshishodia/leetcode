@@ -12,7 +12,7 @@
 | 8 | [1756. Design Most Recently Used Queue](../1001-2000/1701-1800/1756.%20Design%20Most%20Recently%20Used%20Queue/README.md) | Medium (Premium) |
 | 9 | [1797. Design Authentication Manager](../1001-2000/1701-1800/1797.%20Design%20Authentication%20Manager/README.md) | Medium |
 | 10 | [3294. Convert Doubly Linked List to Array II](../3001-4000/3201-3300/3294.%20Convert%20Doubly%20Linked%20List%20to%20Array%20II/README.md) | Medium (Premium) |
-| 11 | [432. All O`one Data Structure](../1-1000/401-500/432.%20All%20O`one%20Data%20Structure/README.md) | Hard |
+| 11 | [432. All O`one Data Structure](../1-1000/401-500/432.%20All%20O%60one%20Data%20Structure/README.md) | Hard |
 | 12 | [460. LFU Cache](../1-1000/401-500/460.%20LFU%20Cache/README.md) | Hard |
 | 13 | [716. Max Stack](../1-1000/701-800/716.%20Max%20Stack/README.md) | Hard (Premium) |
 | 14 | [2296. Design a Text Editor](../2001-3000/2201-2300/2296.%20Design%20a%20Text%20Editor/README.md) | Hard |

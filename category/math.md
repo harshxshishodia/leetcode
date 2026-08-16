@@ -702,3 +702,5 @@
 | 698 | [4010. Maximize Pair Strength Using GCD](../4001-5000/4001-4100/4010.%20Maximize%20Pair%20Strength%20Using%20GCD/README.md) | Easy |
 | 699 | [4011. Count Subarrays With Even Odd Ratio I](../4001-5000/4001-4100/4011.%20Count%20Subarrays%20With%20Even%20Odd%20Ratio%20I/README.md) | Medium |
 | 700 | [4013. Count Subarrays With Even Odd Ratio II](../4001-5000/4001-4100/4013.%20Count%20Subarrays%20With%20Even%20Odd%20Ratio%20II/README.md) | Hard |
+| 701 | [4021. Minimum Operations to Make a Rotated Palindrome I](../4001-5000/4001-4100/4021.%20Minimum%20Operations%20to%20Make%20a%20Rotated%20Palindrome%20I/README.md) | Medium |
+| 702 | [4022. K-th Digit in Infinite String](../4001-5000/4001-4100/4022.%20K-th%20Digit%20in%20Infinite%20String/README.md) | Medium |

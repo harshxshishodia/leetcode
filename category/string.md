@@ -890,3 +890,6 @@
 | 886 | [3998. Transform Binary String Using Subsequence Sort](../3001-4000/3901-4000/3998.%20Transform%20Binary%20String%20Using%20Subsequence%20Sort/README.md) | Hard |
 | 887 | [3999. Minimum Number of String Groups Through Transformations](../3001-4000/3901-4000/3999.%20Minimum%20Number%20of%20String%20Groups%20Through%20Transformations/README.md) | Medium |
 | 888 | [4006. Count Valid Prefixes](../4001-5000/4001-4100/4006.%20Count%20Valid%20Prefixes/README.md) | Easy |
+| 889 | [4019. Merge Close Characters II](../4001-5000/4001-4100/4019.%20Merge%20Close%20Characters%20II/README.md) | Medium |
+| 890 | [4021. Minimum Operations to Make a Rotated Palindrome I](../4001-5000/4001-4100/4021.%20Minimum%20Operations%20to%20Make%20a%20Rotated%20Palindrome%20I/README.md) | Medium |
+| 891 | [4022. K-th Digit in Infinite String](../4001-5000/4001-4100/4022.%20K-th%20Digit%20in%20Infinite%20String/README.md) | Medium |

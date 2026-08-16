@@ -109,7 +109,7 @@
 | 105 | [352. Data Stream as Disjoint Intervals](../1-1000/301-400/352.%20Data%20Stream%20as%20Disjoint%20Intervals/README.md) | Hard |
 | 106 | [381. Insert Delete GetRandom O(1) - Duplicates allowed](../1-1000/301-400/381.%20Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/README.md) | Hard |
 | 107 | [431. Encode N-ary Tree to Binary Tree](../1-1000/401-500/431.%20Encode%20N-ary%20Tree%20to%20Binary%20Tree/README.md) | Hard (Premium) |
-| 108 | [432. All O`one Data Structure](../1-1000/401-500/432.%20All%20O`one%20Data%20Structure/README.md) | Hard |
+| 108 | [432. All O`one Data Structure](../1-1000/401-500/432.%20All%20O%60one%20Data%20Structure/README.md) | Hard |
 | 109 | [460. LFU Cache](../1-1000/401-500/460.%20LFU%20Cache/README.md) | Hard |
 | 110 | [588. Design In-Memory File System](../1-1000/501-600/588.%20Design%20In-Memory%20File%20System/README.md) | Hard (Premium) |
 | 111 | [631. Design Excel Sum Formula](../1-1000/601-700/631.%20Design%20Excel%20Sum%20Formula/README.md) | Hard (Premium) |

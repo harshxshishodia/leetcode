@@ -78,7 +78,7 @@
 | 74 | [3294. Convert Doubly Linked List to Array II](../3001-4000/3201-3300/3294.%20Convert%20Doubly%20Linked%20List%20to%20Array%20II/README.md) | Medium (Premium) |
 | 75 | [23. Merge k Sorted Lists](../1-1000/1-100/23.%20Merge%20k%20Sorted%20Lists/README.md) | Hard |
 | 76 | [25. Reverse Nodes in k-Group](../1-1000/1-100/25.%20Reverse%20Nodes%20in%20k-Group/README.md) | Hard |
-| 77 | [432. All O`one Data Structure](../1-1000/401-500/432.%20All%20O`one%20Data%20Structure/README.md) | Hard |
+| 77 | [432. All O`one Data Structure](../1-1000/401-500/432.%20All%20O%60one%20Data%20Structure/README.md) | Hard |
 | 78 | [460. LFU Cache](../1-1000/401-500/460.%20LFU%20Cache/README.md) | Hard |
 | 79 | [716. Max Stack](../1-1000/701-800/716.%20Max%20Stack/README.md) | Hard (Premium) |
 | 80 | [1206. Design Skiplist](../1001-2000/1201-1300/1206.%20Design%20Skiplist/README.md) | Hard |

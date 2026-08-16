@@ -530,4 +530,6 @@
 | 526 | [3886. Sum of Sortable Integers](../3001-4000/3801-3900/3886.%20Sum%20of%20Sortable%20Integers/README.md) | Hard |
 | 527 | [3897. Maximum Value of Concatenated Binary Segments](../3001-4000/3801-3900/3897.%20Maximum%20Value%20of%20Concatenated%20Binary%20Segments/README.md) | Hard |
 | 528 | [3920. Maximize Fixed Points After Deletions](../3001-4000/3901-4000/3920.%20Maximize%20Fixed%20Points%20After%20Deletions/README.md) | Hard |
-| 529 | [3930. Power Update After K-th Largest Insertion II](../3001-4000/3901-4000/3930.%20Power%20Update%20After%20K-th%20Largest%20Insertion%20II/README.md) | Hard (Premium) |
+| 529 | [3930. Power Update After K-th Largest Insertion II](../3001-4000/3901-4000/3930.%20Power%20Update%20After%20K-th%20Largest%20Insertion%20II/README.md) | Hard (Premium)
+| 530 | [4014. Minimum Total Price After Applying Discounts](../4001-5000/4001-4100/4014.%20Minimum%20Total%20Price%20After%20Applying%20Discounts/README.md) | Medium |
+| 531 | [4023. Elevator Requests II](../4001-5000/4001-4100/4023.%20Elevator%20Requests%20II/README.md) | Hard |
