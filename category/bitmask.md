@@ -57,3 +57,4 @@
 | 53 | [3575. Maximum Good Subtree Score](../3001-4000/3501-3600/3575.%20Maximum%20Good%20Subtree%20Score/README.md) | Hard |
 | 54 | [3594. Minimum Time to Transport All Individuals](../3001-4000/3501-3600/3594.%20Minimum%20Time%20to%20Transport%20All%20Individuals/README.md) | Hard |
 | 55 | [3615. Longest Palindromic Path in Graph](../3001-4000/3601-3700/3615.%20Longest%20Palindromic%20Path%20in%20Graph/README.md) | Hard |
+| 56 | [4027. Elevator Requests III](../4001-5000/4001-4100/4027.%20Elevator%20Requests%20III/README.md) | Hard |

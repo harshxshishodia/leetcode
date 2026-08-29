@@ -533,3 +533,6 @@
 | 529 | [3930. Power Update After K-th Largest Insertion II](../3001-4000/3901-4000/3930.%20Power%20Update%20After%20K-th%20Largest%20Insertion%20II/README.md) | Hard (Premium)
 | 530 | [4014. Minimum Total Price After Applying Discounts](../4001-5000/4001-4100/4014.%20Minimum%20Total%20Price%20After%20Applying%20Discounts/README.md) | Medium |
 | 531 | [4023. Elevator Requests II](../4001-5000/4001-4100/4023.%20Elevator%20Requests%20II/README.md) | Hard |
+| 532 | [4027. Elevator Requests III](../4001-5000/4001-4100/4027.%20Elevator%20Requests%20III/README.md) | Hard |
+| 533 | [4029. Elevator Requests IV](../4001-5000/4001-4100/4029.%20Elevator%20Requests%20IV/README.md) | Hard (Premium) |
+| 534 | [4031. Find All Numbers Disappeared in an Array II](../4001-5000/4001-4100/4031.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array%20II/README.md) | Medium |

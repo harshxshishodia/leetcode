@@ -259,3 +259,5 @@
 | 255 | [3985. Palindromic Subarray Sum](../3001-4000/3901-4000/3985.%20Palindromic%20Subarray%20Sum/README.md) | Hard |
 | 256 | [3994. Minimum Adjacent Swaps to Partition Array](../3001-4000/3901-4000/3994.%20Minimum%20Adjacent%20Swaps%20to%20Partition%20Array/README.md) | Medium |
 | 257 | [4001. Aggregate Two Time Series](../4001-5000/4001-4100/4001.%20Aggregate%20Two%20Time%20Series/README.md) | Medium |
+| 258 | [4026. Maximum Gap Between Stations](../4001-5000/4001-4100/4026.%20Maximum%20Gap%20Between%20Stations/README.md) | Medium |
+| 259 | [4032. Longest Subarray With at Most K Distinct Prime Factors](../4001-5000/4001-4100/4032.%20Longest%20Subarray%20With%20at%20Most%20K%20Distinct%20Prime%20Factors/README.md) | Medium |

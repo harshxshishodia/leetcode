@@ -172,3 +172,5 @@
 | 168 | [3956. Maximum Sum of M Non-Overlapping Subarrays I](../3001-4000/3901-4000/3956.%20Maximum%20Sum%20of%20M%20Non-Overlapping%20Subarrays%20I/README.md) | Hard |
 | 169 | [3957. Maximum Sum of M Non-Overlapping Subarrays II](../3001-4000/3901-4000/3957.%20Maximum%20Sum%20of%20M%20Non-Overlapping%20Subarrays%20II/README.md) | Hard |
 | 170 | [3972. Valid Subarrays With Matching Sum Digits II](../3001-4000/3901-4000/3972.%20Valid%20Subarrays%20With%20Matching%20Sum%20Digits%20II/README.md) | Hard (Premium) |
+| 171 | [4032. Longest Subarray With at Most K Distinct Prime Factors](../4001-5000/4001-4100/4032.%20Longest%20Subarray%20With%20at%20Most%20K%20Distinct%20Prime%20Factors/README.md) | Medium |
+| 172 | [4033. Valid K-Unique Subarrays I](../4001-5000/4001-4100/4033.%20Valid%20K-Unique%20Subarrays%20I/README.md) | Hard |

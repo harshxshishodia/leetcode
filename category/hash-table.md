@@ -831,3 +831,5 @@
 | 827 | [4007. Widest Possible Fence](../4001-5000/4001-4100/4007.%20Widest%20Possible%20Fence/README.md) | Medium |
 | 828 | [4013. Count Subarrays With Even Odd Ratio II](../4001-5000/4001-4100/4013.%20Count%20Subarrays%20With%20Even%20Odd%20Ratio%20II/README.md) | Hard |
 | 829 | [4019. Merge Close Characters II](../4001-5000/4001-4100/4019.%20Merge%20Close%20Characters%20II/README.md) | Medium |
+| 830 | [4032. Longest Subarray With at Most K Distinct Prime Factors](../4001-5000/4001-4100/4032.%20Longest%20Subarray%20With%20at%20Most%20K%20Distinct%20Prime%20Factors/README.md) | Medium |
+| 831 | [4033. Valid K-Unique Subarrays I](../4001-5000/4001-4100/4033.%20Valid%20K-Unique%20Subarrays%20I/README.md) | Hard |

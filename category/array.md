@@ -2231,3 +2231,10 @@
 | 2227 | [4017. Peaks in Array II](../4001-5000/4001-4100/4017.%20Peaks%20in%20Array%20II/README.md) | Hard |
 | 2228 | [4020. Elevator Requests I](../4001-5000/4001-4100/4020.%20Elevator%20Requests%20I/README.md) | Easy |
 | 2229 | [4023. Elevator Requests II](../4001-5000/4001-4100/4023.%20Elevator%20Requests%20II/README.md) | Hard |
+| 2230 | [4024. Nearest Available Drone](../4001-5000/4001-4100/4024.%20Nearest%20Available%20Drone/README.md) | Easy |
+| 2231 | [4025. Minimize the Maximum Waiting Time at Synchronized Traffic Lights](../4001-5000/4001-4100/4025.%20Minimize%20the%20Maximum%20Waiting%20Time%20at%20Synchronized%20Traffic%20Lights/README.md) | Medium |
+| 2232 | [4027. Elevator Requests III](../4001-5000/4001-4100/4027.%20Elevator%20Requests%20III/README.md) | Hard |
+| 2233 | [4029. Elevator Requests IV](../4001-5000/4001-4100/4029.%20Elevator%20Requests%20IV/README.md) | Hard (Premium) |
+| 2234 | [4031. Find All Numbers Disappeared in an Array II](../4001-5000/4001-4100/4031.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array%20II/README.md) | Medium |
+| 2235 | [4032. Longest Subarray With at Most K Distinct Prime Factors](../4001-5000/4001-4100/4032.%20Longest%20Subarray%20With%20at%20Most%20K%20Distinct%20Prime%20Factors/README.md) | Medium |
+| 2236 | [4033. Valid K-Unique Subarrays I](../4001-5000/4001-4100/4033.%20Valid%20K-Unique%20Subarrays%20I/README.md) | Hard |

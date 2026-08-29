@@ -216,3 +216,4 @@
 | 212 | [3987. Minimum Total Cost to Process All Elements](../3001-4000/3901-4000/3987.%20Minimum%20Total%20Cost%20to%20Process%20All%20Elements/README.md) | Medium |
 | 213 | [4012. Count of Unfinished Tasks After Each Shift](../4001-5000/4001-4100/4012.%20Count%20of%20Unfinished%20Tasks%20After%20Each%20Shift/README.md) | Medium |
 | 214 | [4020. Elevator Requests I](../4001-5000/4001-4100/4020.%20Elevator%20Requests%20I/README.md) | Easy |
+| 215 | [4030. Check ASCII Palindromic](../4001-5000/4001-4100/4030.%20Check%20ASCII%20Palindromic/README.md) | Easy |

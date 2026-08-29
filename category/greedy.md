@@ -490,3 +490,6 @@
 | 486 | [4014. Minimum Total Price After Applying Discounts](../4001-5000/4001-4100/4014.%20Minimum%20Total%20Price%20After%20Applying%20Discounts/README.md) | Medium |
 | 487 | [4019. Merge Close Characters II](../4001-5000/4001-4100/4019.%20Merge%20Close%20Characters%20II/README.md) | Medium |
 | 488 | [4023. Elevator Requests II](../4001-5000/4001-4100/4023.%20Elevator%20Requests%20II/README.md) | Hard |
+| 489 | [4025. Minimize the Maximum Waiting Time at Synchronized Traffic Lights](../4001-5000/4001-4100/4025.%20Minimize%20the%20Maximum%20Waiting%20Time%20at%20Synchronized%20Traffic%20Lights/README.md) | Medium |
+| 490 | [4026. Maximum Gap Between Stations](../4001-5000/4001-4100/4026.%20Maximum%20Gap%20Between%20Stations/README.md) | Medium |
+| 491 | [4029. Elevator Requests IV](../4001-5000/4001-4100/4029.%20Elevator%20Requests%20IV/README.md) | Hard (Premium) |

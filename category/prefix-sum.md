@@ -270,3 +270,4 @@
 | 266 | [4008. Minimum Initial Strength to Defeat All Monsters](../4001-5000/4001-4100/4008.%20Minimum%20Initial%20Strength%20to%20Defeat%20All%20Monsters/README.md) | Medium |
 | 267 | [4011. Count Subarrays With Even Odd Ratio I](../4001-5000/4001-4100/4011.%20Count%20Subarrays%20With%20Even%20Odd%20Ratio%20I/README.md) | Medium |
 | 268 | [4013. Count Subarrays With Even Odd Ratio II](../4001-5000/4001-4100/4013.%20Count%20Subarrays%20With%20Even%20Odd%20Ratio%20II/README.md) | Hard |
+| 269 | [4033. Valid K-Unique Subarrays I](../4001-5000/4001-4100/4033.%20Valid%20K-Unique%20Subarrays%20I/README.md) | Hard |

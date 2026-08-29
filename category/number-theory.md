@@ -103,3 +103,4 @@
 | 99 | [3953. Maximum Score with Co-Prime Element](../3001-4000/3901-4000/3953.%20Maximum%20Score%20with%20Co-Prime%20Element/README.md) | Hard |
 | 100 | [4005. Minimum Operations to Make Array Equal III](../4001-5000/4001-4100/4005.%20Minimum%20Operations%20to%20Make%20Array%20Equal%20III/README.md) | Hard |
 | 101 | [4010. Maximize Pair Strength Using GCD](../4001-5000/4001-4100/4010.%20Maximize%20Pair%20Strength%20Using%20GCD/README.md) | Easy |
+| 102 | [4032. Longest Subarray With at Most K Distinct Prime Factors](../4001-5000/4001-4100/4032.%20Longest%20Subarray%20With%20at%20Most%20K%20Distinct%20Prime%20Factors/README.md) | Medium |

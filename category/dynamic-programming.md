@@ -675,3 +675,4 @@
 | 671 | [3989. Maximum Consistent Columns in a Grid](../3001-4000/3901-4000/3989.%20Maximum%20Consistent%20Columns%20in%20a%20Grid/README.md) | Hard |
 | 672 | [3995. Minimum Cost to Convert String III](../3001-4000/3901-4000/3995.%20Minimum%20Cost%20to%20Convert%20String%20III/README.md) | Hard
 | 673 | [4016. Maximum Area of Two Non-Overlapping Square Submatrices](../4001-5000/4001-4100/4016.%20Maximum%20Area%20of%20Two%20Non-Overlapping%20Square%20Submatrices/README.md) | Medium |
+| 674 | [4027. Elevator Requests III](../4001-5000/4001-4100/4027.%20Elevator%20Requests%20III/README.md) | Hard |

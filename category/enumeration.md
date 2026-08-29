@@ -158,3 +158,4 @@
 | 154 | [3953. Maximum Score with Co-Prime Element](../3001-4000/3901-4000/3953.%20Maximum%20Score%20with%20Co-Prime%20Element/README.md) | Hard |
 | 155 | [3984. Divisible Game](../3001-4000/3901-4000/3984.%20Divisible%20Game/README.md) | Medium |
 | 156 | [4021. Minimum Operations to Make a Rotated Palindrome I](../4001-5000/4001-4100/4021.%20Minimum%20Operations%20to%20Make%20a%20Rotated%20Palindrome%20I/README.md) | Medium |
+| 157 | [4024. Nearest Available Drone](../4001-5000/4001-4100/4024.%20Nearest%20Available%20Drone/README.md) | Easy |
