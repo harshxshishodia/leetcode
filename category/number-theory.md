@@ -104,3 +104,5 @@
 | 100 | [4005. Minimum Operations to Make Array Equal III](../4001-5000/4001-4100/4005.%20Minimum%20Operations%20to%20Make%20Array%20Equal%20III/README.md) | Hard |
 | 101 | [4010. Maximize Pair Strength Using GCD](../4001-5000/4001-4100/4010.%20Maximize%20Pair%20Strength%20Using%20GCD/README.md) | Easy |
 | 102 | [4032. Longest Subarray With at Most K Distinct Prime Factors](../4001-5000/4001-4100/4032.%20Longest%20Subarray%20With%20at%20Most%20K%20Distinct%20Prime%20Factors/README.md) | Medium |
+| 103 | [4035. Maximum Valid Split Positions I](../4001-5000/4001-4100/4035.%20Maximum%20Valid%20Split%20Positions%20I/README.md) | Medium |
+| 104 | [4037. Maximum Valid Split Positions II](../4001-5000/4001-4100/4037.%20Maximum%20Valid%20Split%20Positions%20II/README.md) | Hard |

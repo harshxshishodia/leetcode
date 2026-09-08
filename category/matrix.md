@@ -283,3 +283,4 @@
 | 279 | [3988. Create Grid With Exactly K Paths I](../3001-4000/3901-4000/3988.%20Create%20Grid%20With%20Exactly%20K%20Paths%20I/README.md) | Medium |
 | 280 | [3990. Create Grid With Exactly K Paths II](../3001-4000/3901-4000/3990.%20Create%20Grid%20With%20Exactly%20K%20Paths%20II/README.md) | Hard
 | 281 | [4016. Maximum Area of Two Non-Overlapping Square Submatrices](../4001-5000/4001-4100/4016.%20Maximum%20Area%20of%20Two%20Non-Overlapping%20Square%20Submatrices/README.md) | Medium |
+| 282 | [4046. Minimum Cost Path With At Most K Turns](../4001-5000/4001-4100/4046.%20Minimum%20Cost%20Path%20With%20At%20Most%20K%20Turns/README.md) | Hard |

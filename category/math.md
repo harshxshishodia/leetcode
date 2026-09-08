@@ -706,3 +706,9 @@
 | 702 | [4022. K-th Digit in Infinite String](../4001-5000/4001-4100/4022.%20K-th%20Digit%20in%20Infinite%20String/README.md) | Medium |
 | 703 | [4028. Minimum Operations to Make a Rotated Palindrome II](../4001-5000/4001-4100/4028.%20Minimum%20Operations%20to%20Make%20a%20Rotated%20Palindrome%20II/README.md) | Hard (Premium) |
 | 704 | [4032. Longest Subarray With at Most K Distinct Prime Factors](../4001-5000/4001-4100/4032.%20Longest%20Subarray%20With%20at%20Most%20K%20Distinct%20Prime%20Factors/README.md) | Medium |
+| 705 | [4034. Minimum Bishop Moves to Reach Target](../4001-5000/4001-4100/4034.%20Minimum%20Bishop%20Moves%20to%20Reach%20Target/README.md) | Medium |
+| 706 | [4035. Maximum Valid Split Positions I](../4001-5000/4001-4100/4035.%20Maximum%20Valid%20Split%20Positions%20I/README.md) | Medium |
+| 707 | [4037. Maximum Valid Split Positions II](../4001-5000/4001-4100/4037.%20Maximum%20Valid%20Split%20Positions%20II/README.md) | Hard |
+| 708 | [4039. Sum of Decoded Numbers](../4001-5000/4001-4100/4039.%20Sum%20of%20Decoded%20Numbers/README.md) | Medium |
+| 709 | [4040. Minimum Operations to Form Subset Sum I](../4001-5000/4001-4100/4040.%20Minimum%20Operations%20to%20Form%20Subset%20Sum%20I/README.md) | Medium |
+| 710 | [4041. Minimum Operations to Form Subset Sum II](../4001-5000/4001-4100/4041.%20Minimum%20Operations%20to%20Form%20Subset%20Sum%20II/README.md) | Hard |

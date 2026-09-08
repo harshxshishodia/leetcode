@@ -261,3 +261,4 @@
 | 257 | [4001. Aggregate Two Time Series](../4001-5000/4001-4100/4001.%20Aggregate%20Two%20Time%20Series/README.md) | Medium |
 | 258 | [4026. Maximum Gap Between Stations](../4001-5000/4001-4100/4026.%20Maximum%20Gap%20Between%20Stations/README.md) | Medium |
 | 259 | [4032. Longest Subarray With at Most K Distinct Prime Factors](../4001-5000/4001-4100/4032.%20Longest%20Subarray%20With%20at%20Most%20K%20Distinct%20Prime%20Factors/README.md) | Medium |
+| 260 | [4045. Count Robot Groups](../4001-5000/4001-4100/4045.%20Count%20Robot%20Groups/README.md) | Medium |

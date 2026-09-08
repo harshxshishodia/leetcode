@@ -833,3 +833,6 @@
 | 829 | [4019. Merge Close Characters II](../4001-5000/4001-4100/4019.%20Merge%20Close%20Characters%20II/README.md) | Medium |
 | 830 | [4032. Longest Subarray With at Most K Distinct Prime Factors](../4001-5000/4001-4100/4032.%20Longest%20Subarray%20With%20at%20Most%20K%20Distinct%20Prime%20Factors/README.md) | Medium |
 | 831 | [4033. Valid K-Unique Subarrays I](../4001-5000/4001-4100/4033.%20Valid%20K-Unique%20Subarrays%20I/README.md) | Hard |
+| 832 | [4038. Count Integers Appearing in a Single Block](../4001-5000/4001-4100/4038.%20Count%20Integers%20Appearing%20in%20a%20Single%20Block/README.md) | Easy |
+| 833 | [4042. Valid K-Unique Subarrays II](../4001-5000/4001-4100/4042.%20Valid%20K-Unique%20Subarrays%20II/README.md) | Hard (Premium) |
+| 834 | [4043. Count Rotations With Exactly K Equal Adjacent Pairs](../4001-5000/4001-4100/4043.%20Count%20Rotations%20With%20Exactly%20K%20Equal%20Adjacent%20Pairs/README.md) | Easy |

@@ -493,3 +493,6 @@
 | 489 | [4025. Minimize the Maximum Waiting Time at Synchronized Traffic Lights](../4001-5000/4001-4100/4025.%20Minimize%20the%20Maximum%20Waiting%20Time%20at%20Synchronized%20Traffic%20Lights/README.md) | Medium |
 | 490 | [4026. Maximum Gap Between Stations](../4001-5000/4001-4100/4026.%20Maximum%20Gap%20Between%20Stations/README.md) | Medium |
 | 491 | [4029. Elevator Requests IV](../4001-5000/4001-4100/4029.%20Elevator%20Requests%20IV/README.md) | Hard (Premium) |
+| 492 | [4034. Minimum Bishop Moves to Reach Target](../4001-5000/4001-4100/4034.%20Minimum%20Bishop%20Moves%20to%20Reach%20Target/README.md) | Medium |
+| 493 | [4036. Lexicographically Largest String After Pair Transformations](../4001-5000/4001-4100/4036.%20Lexicographically%20Largest%20String%20After%20Pair%20Transformations/README.md) | Medium |
+| 494 | [4040. Minimum Operations to Form Subset Sum I](../4001-5000/4001-4100/4040.%20Minimum%20Operations%20to%20Form%20Subset%20Sum%20I/README.md) | Medium |

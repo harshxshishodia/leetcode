@@ -676,3 +676,6 @@
 | 672 | [3995. Minimum Cost to Convert String III](../3001-4000/3901-4000/3995.%20Minimum%20Cost%20to%20Convert%20String%20III/README.md) | Hard
 | 673 | [4016. Maximum Area of Two Non-Overlapping Square Submatrices](../4001-5000/4001-4100/4016.%20Maximum%20Area%20of%20Two%20Non-Overlapping%20Square%20Submatrices/README.md) | Medium |
 | 674 | [4027. Elevator Requests III](../4001-5000/4001-4100/4027.%20Elevator%20Requests%20III/README.md) | Hard |
+| 675 | [4040. Minimum Operations to Form Subset Sum I](../4001-5000/4001-4100/4040.%20Minimum%20Operations%20to%20Form%20Subset%20Sum%20I/README.md) | Medium |
+| 676 | [4041. Minimum Operations to Form Subset Sum II](../4001-5000/4001-4100/4041.%20Minimum%20Operations%20to%20Form%20Subset%20Sum%20II/README.md) | Hard |
+| 677 | [4046. Minimum Cost Path With At Most K Turns](../4001-5000/4001-4100/4046.%20Minimum%20Cost%20Path%20With%20At%20Most%20K%20Turns/README.md) | Hard |

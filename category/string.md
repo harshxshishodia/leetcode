@@ -896,3 +896,5 @@
 | 892 | [4026. Maximum Gap Between Stations](../4001-5000/4001-4100/4026.%20Maximum%20Gap%20Between%20Stations/README.md) | Medium |
 | 893 | [4028. Minimum Operations to Make a Rotated Palindrome II](../4001-5000/4001-4100/4028.%20Minimum%20Operations%20to%20Make%20a%20Rotated%20Palindrome%20II/README.md) | Hard (Premium) |
 | 894 | [4030. Check ASCII Palindromic](../4001-5000/4001-4100/4030.%20Check%20ASCII%20Palindromic/README.md) | Easy |
+| 895 | [4036. Lexicographically Largest String After Pair Transformations](../4001-5000/4001-4100/4036.%20Lexicographically%20Largest%20String%20After%20Pair%20Transformations/README.md) | Medium |
+| 896 | [4043. Count Rotations With Exactly K Equal Adjacent Pairs](../4001-5000/4001-4100/4043.%20Count%20Rotations%20With%20Exactly%20K%20Equal%20Adjacent%20Pairs/README.md) | Easy |

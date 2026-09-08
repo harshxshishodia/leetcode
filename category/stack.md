@@ -181,3 +181,4 @@
 | 177 | [3749. Evaluate Valid Expressions](../3001-4000/3701-3800/3749.%20Evaluate%20Valid%20Expressions/README.md) | Hard (Premium) |
 | 178 | [3816. Lexicographically Smallest String After Deleting Duplicate Characters](../3001-4000/3801-3900/3816.%20Lexicographically%20Smallest%20String%20After%20Deleting%20Duplicate%20Characters/README.md) | Hard |
 | 179 | [3878. Count Good Subarrays](../3001-4000/3801-3900/3878.%20Count%20Good%20Subarrays/README.md) | Hard |
+| 180 | [4036. Lexicographically Largest String After Pair Transformations](../4001-5000/4001-4100/4036.%20Lexicographically%20Largest%20String%20After%20Pair%20Transformations/README.md) | Medium |

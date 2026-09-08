@@ -2238,3 +2238,12 @@
 | 2234 | [4031. Find All Numbers Disappeared in an Array II](../4001-5000/4001-4100/4031.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array%20II/README.md) | Medium |
 | 2235 | [4032. Longest Subarray With at Most K Distinct Prime Factors](../4001-5000/4001-4100/4032.%20Longest%20Subarray%20With%20at%20Most%20K%20Distinct%20Prime%20Factors/README.md) | Medium |
 | 2236 | [4033. Valid K-Unique Subarrays I](../4001-5000/4001-4100/4033.%20Valid%20K-Unique%20Subarrays%20I/README.md) | Hard |
+| 2237 | [4035. Maximum Valid Split Positions I](../4001-5000/4001-4100/4035.%20Maximum%20Valid%20Split%20Positions%20I/README.md) | Medium |
+| 2238 | [4037. Maximum Valid Split Positions II](../4001-5000/4001-4100/4037.%20Maximum%20Valid%20Split%20Positions%20II/README.md) | Hard |
+| 2239 | [4038. Count Integers Appearing in a Single Block](../4001-5000/4001-4100/4038.%20Count%20Integers%20Appearing%20in%20a%20Single%20Block/README.md) | Easy |
+| 2240 | [4039. Sum of Decoded Numbers](../4001-5000/4001-4100/4039.%20Sum%20of%20Decoded%20Numbers/README.md) | Medium |
+| 2241 | [4040. Minimum Operations to Form Subset Sum I](../4001-5000/4001-4100/4040.%20Minimum%20Operations%20to%20Form%20Subset%20Sum%20I/README.md) | Medium |
+| 2242 | [4041. Minimum Operations to Form Subset Sum II](../4001-5000/4001-4100/4041.%20Minimum%20Operations%20to%20Form%20Subset%20Sum%20II/README.md) | Hard |
+| 2243 | [4042. Valid K-Unique Subarrays II](../4001-5000/4001-4100/4042.%20Valid%20K-Unique%20Subarrays%20II/README.md) | Hard (Premium) |
+| 2244 | [4044. Count Good Cyclic Rotations](../4001-5000/4001-4100/4044.%20Count%20Good%20Cyclic%20Rotations/README.md) | Medium |
+| 2245 | [4045. Count Robot Groups](../4001-5000/4001-4100/4045.%20Count%20Robot%20Groups/README.md) | Medium |

@@ -48,3 +48,4 @@
 | 44 | [3382. Maximum Area Rectangle With Point Constraints II](../3001-4000/3301-3400/3382.%20Maximum%20Area%20Rectangle%20With%20Point%20Constraints%20II/README.md) | Hard |
 | 45 | [3464. Maximize the Distance Between Points on a Square](../3001-4000/3401-3500/3464.%20Maximize%20the%20Distance%20Between%20Points%20on%20a%20Square/README.md) | Hard |
 | 46 | [3625. Count Number of Trapezoids II](../3001-4000/3601-3700/3625.%20Count%20Number%20of%20Trapezoids%20II/README.md) | Hard |
+| 47 | [4034. Minimum Bishop Moves to Reach Target](../4001-5000/4001-4100/4034.%20Minimum%20Bishop%20Moves%20to%20Reach%20Target/README.md) | Medium |
