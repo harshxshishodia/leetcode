@@ -345,3 +345,10 @@
 | 341 | [3957. Maximum Sum of M Non-Overlapping Subarrays II](../3001-4000/3901-4000/3957.%20Maximum%20Sum%20of%20M%20Non-Overlapping%20Subarrays%20II/README.md) | Hard |
 | 342 | [3971. Maximum Total Value](../3001-4000/3901-4000/3971.%20Maximum%20Total%20Value/README.md) | Hard |
 | 343 | [4009. Minimum Possible Maximum Waiting Time](../4001-5000/4001-4100/4009.%20Minimum%20Possible%20Maximum%20Waiting%20Time/README.md) | Hard |
+| 344 | [4051. Count Subarrays with Distant Sums](../4001-5000/4001-4100/4051.%20Count%20Subarrays%20with%20Distant%20Sums/README.md) | Hard |
+| 345 | [4053. Minimum Operations to Make Every Element Palindromic](../4001-5000/4001-4100/4053.%20Minimum%20Operations%20to%20Make%20Every%20Element%20Palindromic/README.md) | Medium |
+| 346 | [4055. Count Shadow Pairs II](../4001-5000/4001-4100/4055.%20Count%20Shadow%20Pairs%20II/README.md) | Hard |
+| 347 | [4056. Number of Intersecting Interval Pairs I](../4001-5000/4001-4100/4056.%20Number%20of%20Intersecting%20Interval%20Pairs%20I/README.md) | Easy |
+| 348 | [4057. Number of Intersecting Interval Pairs II](../4001-5000/4001-4100/4057.%20Number%20of%20Intersecting%20Interval%20Pairs%20II/README.md) | Medium |
+| 349 | [4064. Longest Subarray Divisible by K with At Most One Negation II](../4001-5000/4001-4100/4064.%20Longest%20Subarray%20Divisible%20by%20K%20with%20At%20Most%20One%20Negation%20II/README.md) | Hard |
+| 350 | [4068. Maximize Meeting Earnings with Idle Gaps](../4001-5000/4001-4100/4068.%20Maximize%20Meeting%20Earnings%20with%20Idle%20Gaps/README.md) | Hard |

@@ -222,3 +222,4 @@
 | 218 | [3691. Maximum Total Subarray Value II](../3001-4000/3601-3700/3691.%20Maximum%20Total%20Subarray%20Value%20II/README.md) | Hard |
 | 219 | [3928. Minimum Cost to Buy Apples II](../3001-4000/3901-4000/3928.%20Minimum%20Cost%20to%20Buy%20Apples%20II/README.md) | Hard |
 | 220 | [3977. Minimum Time to Reach Target With Limited Power](../3001-4000/3901-4000/3977.%20Minimum%20Time%20to%20Reach%20Target%20With%20Limited%20Power/README.md) | Hard |
+| 221 | [4065. Rearrange Array by Removing Distinct Values](../4001-5000/4001-4100/4065.%20Rearrange%20Array%20by%20Removing%20Distinct%20Values/README.md) | Easy |

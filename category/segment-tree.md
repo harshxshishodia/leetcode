@@ -84,3 +84,5 @@
 | 80 | [3915. Maximum Sum of Alternating Subsequence With Distance at Least K](../3001-4000/3901-4000/3915.%20Maximum%20Sum%20of%20Alternating%20Subsequence%20With%20Distance%20at%20Least%20K/README.md) | Hard |
 | 81 | [3930. Power Update After K-th Largest Insertion II](../3001-4000/3901-4000/3930.%20Power%20Update%20After%20K-th%20Largest%20Insertion%20II/README.md) | Hard (Premium)
 | 82 | [4017. Peaks in Array II](../4001-5000/4001-4100/4017.%20Peaks%20in%20Array%20II/README.md) | Hard |
+| 83 | [4051. Count Subarrays with Distant Sums](../4001-5000/4001-4100/4051.%20Count%20Subarrays%20with%20Distant%20Sums/README.md) | Hard |
+| 84 | [4055. Count Shadow Pairs II](../4001-5000/4001-4100/4055.%20Count%20Shadow%20Pairs%20II/README.md) | Hard |

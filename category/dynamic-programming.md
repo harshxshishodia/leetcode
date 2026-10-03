@@ -679,3 +679,9 @@
 | 675 | [4040. Minimum Operations to Form Subset Sum I](../4001-5000/4001-4100/4040.%20Minimum%20Operations%20to%20Form%20Subset%20Sum%20I/README.md) | Medium |
 | 676 | [4041. Minimum Operations to Form Subset Sum II](../4001-5000/4001-4100/4041.%20Minimum%20Operations%20to%20Form%20Subset%20Sum%20II/README.md) | Hard |
 | 677 | [4046. Minimum Cost Path With At Most K Turns](../4001-5000/4001-4100/4046.%20Minimum%20Cost%20Path%20With%20At%20Most%20K%20Turns/README.md) | Hard |
+| 678 | [4047. Minimum Operations to Make XOR of All Elements Zero](../4001-5000/4001-4100/4047.%20Minimum%20Operations%20to%20Make%20XOR%20of%20All%20Elements%20Zero/README.md) | Hard (Premium) |
+| 679 | [4050. Minimum Days to Score Exactly N Points](../4001-5000/4001-4100/4050.%20Minimum%20Days%20to%20Score%20Exactly%20N%20Points/README.md) | Medium |
+| 680 | [4058. Maximum Pulse Value After One Subarray Rotation](../4001-5000/4001-4100/4058.%20Maximum%20Pulse%20Value%20After%20One%20Subarray%20Rotation/README.md) | Medium |
+| 681 | [4060. Count Evenly Good Integers](../4001-5000/4001-4100/4060.%20Count%20Evenly%20Good%20Integers/README.md) | Hard (Premium) |
+| 682 | [4064. Longest Subarray Divisible by K with At Most One Negation II](../4001-5000/4001-4100/4064.%20Longest%20Subarray%20Divisible%20by%20K%20with%20At%20Most%20One%20Negation%20II/README.md) | Hard |
+| 683 | [4068. Maximize Meeting Earnings with Idle Gaps](../4001-5000/4001-4100/4068.%20Maximize%20Meeting%20Earnings%20with%20Idle%20Gaps/README.md) | Hard |

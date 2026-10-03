@@ -537,3 +537,8 @@
 | 533 | [4029. Elevator Requests IV](../4001-5000/4001-4100/4029.%20Elevator%20Requests%20IV/README.md) | Hard (Premium) |
 | 534 | [4031. Find All Numbers Disappeared in an Array II](../4001-5000/4001-4100/4031.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array%20II/README.md) | Medium |
 | 535 | [4045. Count Robot Groups](../4001-5000/4001-4100/4045.%20Count%20Robot%20Groups/README.md) | Medium |
+| 536 | [4055. Count Shadow Pairs II](../4001-5000/4001-4100/4055.%20Count%20Shadow%20Pairs%20II/README.md) | Hard |
+| 537 | [4056. Number of Intersecting Interval Pairs I](../4001-5000/4001-4100/4056.%20Number%20of%20Intersecting%20Interval%20Pairs%20I/README.md) | Easy |
+| 538 | [4057. Number of Intersecting Interval Pairs II](../4001-5000/4001-4100/4057.%20Number%20of%20Intersecting%20Interval%20Pairs%20II/README.md) | Medium |
+| 539 | [4065. Rearrange Array by Removing Distinct Values](../4001-5000/4001-4100/4065.%20Rearrange%20Array%20by%20Removing%20Distinct%20Values/README.md) | Easy |
+| 540 | [4068. Maximize Meeting Earnings with Idle Gaps](../4001-5000/4001-4100/4068.%20Maximize%20Meeting%20Earnings%20with%20Idle%20Gaps/README.md) | Hard |

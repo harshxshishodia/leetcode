@@ -2247,3 +2247,25 @@
 | 2243 | [4042. Valid K-Unique Subarrays II](../4001-5000/4001-4100/4042.%20Valid%20K-Unique%20Subarrays%20II/README.md) | Hard (Premium) |
 | 2244 | [4044. Count Good Cyclic Rotations](../4001-5000/4001-4100/4044.%20Count%20Good%20Cyclic%20Rotations/README.md) | Medium |
 | 2245 | [4045. Count Robot Groups](../4001-5000/4001-4100/4045.%20Count%20Robot%20Groups/README.md) | Medium |
+| 2246 | [4047. Minimum Operations to Make XOR of All Elements Zero](../4001-5000/4001-4100/4047.%20Minimum%20Operations%20to%20Make%20XOR%20of%20All%20Elements%20Zero/README.md) | Hard (Premium) |
+| 2247 | [4048. Count Values With Equally Spaced Occurrences I](../4001-5000/4001-4100/4048.%20Count%20Values%20With%20Equally%20Spaced%20Occurrences%20I/README.md) | Easy |
+| 2248 | [4049. Count Values With Equally Spaced Occurrences II](../4001-5000/4001-4100/4049.%20Count%20Values%20With%20Equally%20Spaced%20Occurrences%20II/README.md) | Medium |
+| 2249 | [4050. Minimum Days to Score Exactly N Points](../4001-5000/4001-4100/4050.%20Minimum%20Days%20to%20Score%20Exactly%20N%20Points/README.md) | Medium |
+| 2250 | [4051. Count Subarrays with Distant Sums](../4001-5000/4001-4100/4051.%20Count%20Subarrays%20with%20Distant%20Sums/README.md) | Hard |
+| 2251 | [4052. Cyclically Shift Rows and Columns](../4001-5000/4001-4100/4052.%20Cyclically%20Shift%20Rows%20and%20Columns/README.md) | Easy |
+| 2252 | [4053. Minimum Operations to Make Every Element Palindromic](../4001-5000/4001-4100/4053.%20Minimum%20Operations%20to%20Make%20Every%20Element%20Palindromic/README.md) | Medium |
+| 2253 | [4054. Count Shadow Pairs I](../4001-5000/4001-4100/4054.%20Count%20Shadow%20Pairs%20I/README.md) | Medium |
+| 2254 | [4055. Count Shadow Pairs II](../4001-5000/4001-4100/4055.%20Count%20Shadow%20Pairs%20II/README.md) | Hard |
+| 2255 | [4056. Number of Intersecting Interval Pairs I](../4001-5000/4001-4100/4056.%20Number%20of%20Intersecting%20Interval%20Pairs%20I/README.md) | Easy |
+| 2256 | [4057. Number of Intersecting Interval Pairs II](../4001-5000/4001-4100/4057.%20Number%20of%20Intersecting%20Interval%20Pairs%20II/README.md) | Medium |
+| 2257 | [4058. Maximum Pulse Value After One Subarray Rotation](../4001-5000/4001-4100/4058.%20Maximum%20Pulse%20Value%20After%20One%20Subarray%20Rotation/README.md) | Medium |
+| 2258 | [4059. Lexicographically Largest Power Array](../4001-5000/4001-4100/4059.%20Lexicographically%20Largest%20Power%20Array/README.md) | Hard |
+| 2259 | [4060. Count Evenly Good Integers](../4001-5000/4001-4100/4060.%20Count%20Evenly%20Good%20Integers/README.md) | Hard (Premium) |
+| 2260 | [4061. Minimum Queen Moves to Reach Target](../4001-5000/4001-4100/4061.%20Minimum%20Queen%20Moves%20to%20Reach%20Target/README.md) | Easy |
+| 2261 | [4062. Transform Array Using Pair Operations](../4001-5000/4001-4100/4062.%20Transform%20Array%20Using%20Pair%20Operations/README.md) | Medium |
+| 2262 | [4063. Longest Subarray Divisible by K with At Most One Negation I](../4001-5000/4001-4100/4063.%20Longest%20Subarray%20Divisible%20by%20K%20with%20At%20Most%20One%20Negation%20I/README.md) | Medium |
+| 2263 | [4064. Longest Subarray Divisible by K with At Most One Negation II](../4001-5000/4001-4100/4064.%20Longest%20Subarray%20Divisible%20by%20K%20with%20At%20Most%20One%20Negation%20II/README.md) | Hard |
+| 2264 | [4065. Rearrange Array by Removing Distinct Values](../4001-5000/4001-4100/4065.%20Rearrange%20Array%20by%20Removing%20Distinct%20Values/README.md) | Easy |
+| 2265 | [4066. Maximum Equal Adjacent Pairs After at Most One Replacement](../4001-5000/4001-4100/4066.%20Maximum%20Equal%20Adjacent%20Pairs%20After%20at%20Most%20One%20Replacement/README.md) | Medium |
+| 2266 | [4067. Longest Subarray With Restricted Pair Sums](../4001-5000/4001-4100/4067.%20Longest%20Subarray%20With%20Restricted%20Pair%20Sums/README.md) | Medium |
+| 2267 | [4068. Maximize Meeting Earnings with Idle Gaps](../4001-5000/4001-4100/4068.%20Maximize%20Meeting%20Earnings%20with%20Idle%20Gaps/README.md) | Hard |

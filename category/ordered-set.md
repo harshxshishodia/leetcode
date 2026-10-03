@@ -81,3 +81,4 @@
 | 77 | [3569. Maximize Count of Distinct Primes After Split](../3001-4000/3501-3600/3569.%20Maximize%20Count%20of%20Distinct%20Primes%20After%20Split/README.md) | Hard |
 | 78 | [3590. Kth Smallest Path XOR Sum](../3001-4000/3501-3600/3590.%20Kth%20Smallest%20Path%20XOR%20Sum/README.md) | Hard |
 | 79 | [3666. Minimum Operations to Equalize Binary String](../3001-4000/3601-3700/3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/README.md) | Hard |
+| 80 | [4065. Rearrange Array by Removing Distinct Values](../4001-5000/4001-4100/4065.%20Rearrange%20Array%20by%20Removing%20Distinct%20Values/README.md) | Easy |

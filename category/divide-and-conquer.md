@@ -69,3 +69,4 @@
 | 65 | [3855. Sum of K-Digit Numbers in a Range](../3001-4000/3801-3900/3855.%20Sum%20of%20K-Digit%20Numbers%20in%20a%20Range/README.md) | Hard |
 | 66 | [3864. Minimum Cost to Partition a Binary String](../3001-4000/3801-3900/3864.%20Minimum%20Cost%20to%20Partition%20a%20Binary%20String/README.md) | Hard |
 | 67 | [3943. Number of Pairs After Increment](../3001-4000/3901-4000/3943.%20Number%20of%20Pairs%20After%20Increment/README.md) | Hard |
+| 68 | [4055. Count Shadow Pairs II](../4001-5000/4001-4100/4055.%20Count%20Shadow%20Pairs%20II/README.md) | Hard |

@@ -48,3 +48,5 @@
 | 44 | [3671. Sum of Beautiful Subsequences](../3001-4000/3601-3700/3671.%20Sum%20of%20Beautiful%20Subsequences/README.md) | Hard |
 | 45 | [3907. Count Smaller Elements With Opposite Parity](../3001-4000/3901-4000/3907.%20Count%20Smaller%20Elements%20With%20Opposite%20Parity/README.md) | Medium
 | 46 | [4017. Peaks in Array II](../4001-5000/4001-4100/4017.%20Peaks%20in%20Array%20II/README.md) | Hard |
+| 47 | [4051. Count Subarrays with Distant Sums](../4001-5000/4001-4100/4051.%20Count%20Subarrays%20with%20Distant%20Sums/README.md) | Hard |
+| 48 | [4055. Count Shadow Pairs II](../4001-5000/4001-4100/4055.%20Count%20Shadow%20Pairs%20II/README.md) | Hard |

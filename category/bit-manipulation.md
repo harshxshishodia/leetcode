@@ -292,3 +292,5 @@
 | 288 | [3973. Distinct Gate Paths to LCA](../3001-4000/3901-4000/3973.%20Distinct%20Gate%20Paths%20to%20LCA/README.md) | Hard (Premium) |
 | 289 | [3989. Maximum Consistent Columns in a Grid](../3001-4000/3901-4000/3989.%20Maximum%20Consistent%20Columns%20in%20a%20Grid/README.md) | Hard |
 | 290 | [4027. Elevator Requests III](../4001-5000/4001-4100/4027.%20Elevator%20Requests%20III/README.md) | Hard |
+| 291 | [4047. Minimum Operations to Make XOR of All Elements Zero](../4001-5000/4001-4100/4047.%20Minimum%20Operations%20to%20Make%20XOR%20of%20All%20Elements%20Zero/README.md) | Hard (Premium) |
+| 292 | [4059. Lexicographically Largest Power Array](../4001-5000/4001-4100/4059.%20Lexicographically%20Largest%20Power%20Array/README.md) | Hard |

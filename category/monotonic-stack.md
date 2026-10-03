@@ -75,3 +75,5 @@
 | 71 | [3430. Maximum and Minimum Sums of at Most Size K Subarrays](../3001-4000/3401-3500/3430.%20Maximum%20and%20Minimum%20Sums%20of%20at%20Most%20Size%20K%20Subarrays/README.md) | Hard |
 | 72 | [3816. Lexicographically Smallest String After Deleting Duplicate Characters](../3001-4000/3801-3900/3816.%20Lexicographically%20Smallest%20String%20After%20Deleting%20Duplicate%20Characters/README.md) | Hard |
 | 73 | [3878. Count Good Subarrays](../3001-4000/3801-3900/3878.%20Count%20Good%20Subarrays/README.md) | Hard |
+| 74 | [4054. Count Shadow Pairs I](../4001-5000/4001-4100/4054.%20Count%20Shadow%20Pairs%20I/README.md) | Medium |
+| 75 | [4055. Count Shadow Pairs II](../4001-5000/4001-4100/4055.%20Count%20Shadow%20Pairs%20II/README.md) | Hard |

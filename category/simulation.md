@@ -218,3 +218,6 @@
 | 214 | [4020. Elevator Requests I](../4001-5000/4001-4100/4020.%20Elevator%20Requests%20I/README.md) | Easy |
 | 215 | [4030. Check ASCII Palindromic](../4001-5000/4001-4100/4030.%20Check%20ASCII%20Palindromic/README.md) | Easy |
 | 216 | [4039. Sum of Decoded Numbers](../4001-5000/4001-4100/4039.%20Sum%20of%20Decoded%20Numbers/README.md) | Medium |
+| 217 | [4052. Cyclically Shift Rows and Columns](../4001-5000/4001-4100/4052.%20Cyclically%20Shift%20Rows%20and%20Columns/README.md) | Easy |
+| 218 | [4039. Sum of Decoded Numbers](../4001-5000/4001-4100/4039.%20Sum%20of%20Decoded%20Numbers/README.md) | Medium |
+| 219 | [4065. Rearrange Array by Removing Distinct Values](../4001-5000/4001-4100/4065.%20Rearrange%20Array%20by%20Removing%20Distinct%20Values/README.md) | Easy |

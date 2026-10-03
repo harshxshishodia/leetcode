@@ -836,3 +836,12 @@
 | 832 | [4038. Count Integers Appearing in a Single Block](../4001-5000/4001-4100/4038.%20Count%20Integers%20Appearing%20in%20a%20Single%20Block/README.md) | Easy |
 | 833 | [4042. Valid K-Unique Subarrays II](../4001-5000/4001-4100/4042.%20Valid%20K-Unique%20Subarrays%20II/README.md) | Hard (Premium) |
 | 834 | [4043. Count Rotations With Exactly K Equal Adjacent Pairs](../4001-5000/4001-4100/4043.%20Count%20Rotations%20With%20Exactly%20K%20Equal%20Adjacent%20Pairs/README.md) | Easy |
+| 835 | [4047. Minimum Operations to Make XOR of All Elements Zero](../4001-5000/4001-4100/4047.%20Minimum%20Operations%20to%20Make%20XOR%20of%20All%20Elements%20Zero/README.md) | Hard (Premium) |
+| 836 | [4048. Count Values With Equally Spaced Occurrences I](../4001-5000/4001-4100/4048.%20Count%20Values%20With%20Equally%20Spaced%20Occurrences%20I/README.md) | Easy |
+| 837 | [4049. Count Values With Equally Spaced Occurrences II](../4001-5000/4001-4100/4049.%20Count%20Values%20With%20Equally%20Spaced%20Occurrences%20II/README.md) | Medium |
+| 838 | [4055. Count Shadow Pairs II](../4001-5000/4001-4100/4055.%20Count%20Shadow%20Pairs%20II/README.md) | Hard |
+| 839 | [4063. Longest Subarray Divisible by K with At Most One Negation I](../4001-5000/4001-4100/4063.%20Longest%20Subarray%20Divisible%20by%20K%20with%20At%20Most%20One%20Negation%20I/README.md) | Medium |
+| 840 | [4064. Longest Subarray Divisible by K with At Most One Negation II](../4001-5000/4001-4100/4064.%20Longest%20Subarray%20Divisible%20by%20K%20with%20At%20Most%20One%20Negation%20II/README.md) | Hard |
+| 841 | [4065. Rearrange Array by Removing Distinct Values](../4001-5000/4001-4100/4065.%20Rearrange%20Array%20by%20Removing%20Distinct%20Values/README.md) | Easy |
+| 842 | [4066. Maximum Equal Adjacent Pairs After at Most One Replacement](../4001-5000/4001-4100/4066.%20Maximum%20Equal%20Adjacent%20Pairs%20After%20at%20Most%20One%20Replacement/README.md) | Medium |
+| 843 | [4067. Longest Subarray With Restricted Pair Sums](../4001-5000/4001-4100/4067.%20Longest%20Subarray%20With%20Restricted%20Pair%20Sums/README.md) | Medium |

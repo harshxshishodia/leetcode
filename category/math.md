@@ -712,3 +712,8 @@
 | 708 | [4039. Sum of Decoded Numbers](../4001-5000/4001-4100/4039.%20Sum%20of%20Decoded%20Numbers/README.md) | Medium |
 | 709 | [4040. Minimum Operations to Form Subset Sum I](../4001-5000/4001-4100/4040.%20Minimum%20Operations%20to%20Form%20Subset%20Sum%20I/README.md) | Medium |
 | 710 | [4041. Minimum Operations to Form Subset Sum II](../4001-5000/4001-4100/4041.%20Minimum%20Operations%20to%20Form%20Subset%20Sum%20II/README.md) | Hard |
+| 711 | [4047. Minimum Operations to Make XOR of All Elements Zero](../4001-5000/4001-4100/4047.%20Minimum%20Operations%20to%20Make%20XOR%20of%20All%20Elements%20Zero/README.md) | Hard (Premium) |
+| 712 | [4050. Minimum Days to Score Exactly N Points](../4001-5000/4001-4100/4050.%20Minimum%20Days%20to%20Score%20Exactly%20N%20Points/README.md) | Medium |
+| 713 | [4051. Count Subarrays with Distant Sums](../4001-5000/4001-4100/4051.%20Count%20Subarrays%20with%20Distant%20Sums/README.md) | Hard |
+| 714 | [4060. Count Evenly Good Integers](../4001-5000/4001-4100/4060.%20Count%20Evenly%20Good%20Integers/README.md) | Hard (Premium) |
+| 715 | [4061. Minimum Queen Moves to Reach Target](../4001-5000/4001-4100/4061.%20Minimum%20Queen%20Moves%20to%20Reach%20Target/README.md) | Easy |

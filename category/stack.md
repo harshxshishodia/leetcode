@@ -182,3 +182,5 @@
 | 178 | [3816. Lexicographically Smallest String After Deleting Duplicate Characters](../3001-4000/3801-3900/3816.%20Lexicographically%20Smallest%20String%20After%20Deleting%20Duplicate%20Characters/README.md) | Hard |
 | 179 | [3878. Count Good Subarrays](../3001-4000/3801-3900/3878.%20Count%20Good%20Subarrays/README.md) | Hard |
 | 180 | [4036. Lexicographically Largest String After Pair Transformations](../4001-5000/4001-4100/4036.%20Lexicographically%20Largest%20String%20After%20Pair%20Transformations/README.md) | Medium |
+| 181 | [4054. Count Shadow Pairs I](../4001-5000/4001-4100/4054.%20Count%20Shadow%20Pairs%20I/README.md) | Medium |
+| 182 | [4055. Count Shadow Pairs II](../4001-5000/4001-4100/4055.%20Count%20Shadow%20Pairs%20II/README.md) | Hard |

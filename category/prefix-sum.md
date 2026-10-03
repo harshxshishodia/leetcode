@@ -274,3 +274,7 @@
 | 270 | [4042. Valid K-Unique Subarrays II](../4001-5000/4001-4100/4042.%20Valid%20K-Unique%20Subarrays%20II/README.md) | Hard (Premium) |
 | 271 | [4043. Count Rotations With Exactly K Equal Adjacent Pairs](../4001-5000/4001-4100/4043.%20Count%20Rotations%20With%20Exactly%20K%20Equal%20Adjacent%20Pairs/README.md) | Easy |
 | 272 | [4044. Count Good Cyclic Rotations](../4001-5000/4001-4100/4044.%20Count%20Good%20Cyclic%20Rotations/README.md) | Medium |
+| 273 | [4051. Count Subarrays with Distant Sums](../4001-5000/4001-4100/4051.%20Count%20Subarrays%20with%20Distant%20Sums/README.md) | Hard |
+| 274 | [4058. Maximum Pulse Value After One Subarray Rotation](../4001-5000/4001-4100/4058.%20Maximum%20Pulse%20Value%20After%20One%20Subarray%20Rotation/README.md) | Medium |
+| 275 | [4063. Longest Subarray Divisible by K with At Most One Negation I](../4001-5000/4001-4100/4063.%20Longest%20Subarray%20Divisible%20by%20K%20with%20At%20Most%20One%20Negation%20I/README.md) | Medium |
+| 276 | [4064. Longest Subarray Divisible by K with At Most One Negation II](../4001-5000/4001-4100/4064.%20Longest%20Subarray%20Divisible%20by%20K%20with%20At%20Most%20One%20Negation%20II/README.md) | Hard |

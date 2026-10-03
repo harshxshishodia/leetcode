@@ -176,3 +176,6 @@
 | 172 | [4033. Valid K-Unique Subarrays I](../4001-5000/4001-4100/4033.%20Valid%20K-Unique%20Subarrays%20I/README.md) | Hard |
 | 173 | [4042. Valid K-Unique Subarrays II](../4001-5000/4001-4100/4042.%20Valid%20K-Unique%20Subarrays%20II/README.md) | Hard (Premium) |
 | 174 | [4044. Count Good Cyclic Rotations](../4001-5000/4001-4100/4044.%20Count%20Good%20Cyclic%20Rotations/README.md) | Medium |
+| 175 | [4042. Valid K-Unique Subarrays II](../4001-5000/4001-4100/4042.%20Valid%20K-Unique%20Subarrays%20II/README.md) | Hard (Premium) |
+| 176 | [4044. Count Good Cyclic Rotations](../4001-5000/4001-4100/4044.%20Count%20Good%20Cyclic%20Rotations/README.md) | Medium |
+| 177 | [4067. Longest Subarray With Restricted Pair Sums](../4001-5000/4001-4100/4067.%20Longest%20Subarray%20With%20Restricted%20Pair%20Sums/README.md) | Medium |

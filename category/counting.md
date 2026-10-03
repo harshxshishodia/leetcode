@@ -211,3 +211,5 @@
 | 207 | [3943. Number of Pairs After Increment](../3001-4000/3901-4000/3943.%20Number%20of%20Pairs%20After%20Increment/README.md) | Hard |
 | 208 | [4006. Count Valid Prefixes](../4001-5000/4001-4100/4006.%20Count%20Valid%20Prefixes/README.md) | Easy |
 | 209 | [4007. Widest Possible Fence](../4001-5000/4001-4100/4007.%20Widest%20Possible%20Fence/README.md) | Medium |
+| 210 | [4065. Rearrange Array by Removing Distinct Values](../4001-5000/4001-4100/4065.%20Rearrange%20Array%20by%20Removing%20Distinct%20Values/README.md) | Easy |
+| 211 | [4066. Maximum Equal Adjacent Pairs After at Most One Replacement](../4001-5000/4001-4100/4066.%20Maximum%20Equal%20Adjacent%20Pairs%20After%20at%20Most%20One%20Replacement/README.md) | Medium |
